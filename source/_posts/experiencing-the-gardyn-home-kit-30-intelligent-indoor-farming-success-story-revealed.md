@@ -1,7 +1,7 @@
 ---
 title: "Experiencing the Gardyn Home Kit 3.0: Intelligent Indoor Farming Success Story Revealed!"
-date: 2024-09-19 22:38:20
-updated: 2024-09-20 11:33:38
+date: 2024-09-16T21:11:55.040Z
+updated: 2024-09-19T17:09:15.290Z
 tags:
   - office-furniture
 categories:
@@ -82,6 +82,19 @@ Greg Nichols/ZDNET
 
 The coolest feature is also the one that's easiest to miss. The built-in cameras monitor plant growth and optimize the schedule based on your garden. The system can tell how fast your plants are growing and customize the light and watering cycle to suit your specific garden. This is vastly more powerful than simple timer-based devices.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## App experience 
 
 All communication with your Gardyn takes place via the app. Gardyn's AI essentially tells you what to do via Kelby, the smart personal assistant.
@@ -101,6 +114,13 @@ Kelby also gives you tips and tricks relevant to your plants. Personally, I coul
 One cool feature is that you can view your plants in real-time in your app through the two cameras on the Gardyn. There's a timelapse functionality in the app as well, although mine has yet to populate and I get an error message when I click on it. I'm not sure if that's because my plants are still growing or the functionality remains in development.
 
 The app's plant book allows for some great discoverability. I wasn't familiar with borage, for example, but look forward to growing the edible flower. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A quibble
 
@@ -154,8 +174,6 @@ A single growing stand that's expandable to 36 plants for a legit indoor farm.
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
