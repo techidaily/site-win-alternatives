@@ -1,7 +1,7 @@
 ---
 title: "Final Announcement: Microsoft Ends Free Windows 11 Upgrade Offer - ZDNet"
-date: 2024-09-18T18:25:26.911Z
-updated: 2024-09-19T21:37:25.048Z
+date: 2024-09-18T22:02:00.865Z
+updated: 2024-09-25T19:01:34.262Z
 tags:
   - windows
 categories:
@@ -33,6 +33,19 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -40,10 +53,10 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
@@ -74,10 +87,16 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -97,18 +116,18 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -146,3 +165,27 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-movavi-pro-review-the-next-level-of-video-editing/"><u>[New] Movavi Pro Review The Next Level of Video Editing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/kyrocket-to-the-top-on-youtube-secrets-of-effective-seo-tactics-1-11-for-2024/"><u>[New] Skyrocket to the Top on YouTube Secrets of Effective SEO Tactics (1-11) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-easy-way-to-spot-and-view-trending-youtube-feedback-for-2024/"><u>[New] The Easy Way to Spot and View Trending YouTube Feedback for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-income-smart-strategies-for-profit-from-youtube-mobile-content/"><u>[Updated] In 2024, Boosting Income Smart Strategies for Profit From YouTube Mobile Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configuring-time-and-date-on-windows-11-taskbar/"><u>Configuring Time and Date on Windows 11 Taskbar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-lowdown-on-googles-upcoming-streamer-expected-price-points-release-schedule-and-specs-unveiled/"><u>Get the Lowdown on Google's Upcoming Streamer: Expected Price Points, Release Schedule & Specs Unveiled</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/integrating-flash-swf-files-into-flippingpage-presentations-a-step-by-step-tutorial-using-flipbuilder-tools/"><u>Integrating Flash SWF Files Into FlippingPage Presentations: A Step-by-Step Tutorial Using FlipBuilder Tools</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/is-it-possible-to-keep-your-personalized-flipbook-configuration-alive-on-flipbuilder-between-sessions/"><u>Is It Possible to Keep Your Personalized Flipbook Configuration Alive on FlipBuilder Between Sessions?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/personalizing-your-flash-flipbooks-aesthetics-easy-step-by-step-guide/"><u>Personalizing Your Flash FlipBook's Aesthetics - Easy Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/poco-m6-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/remove-unwanted-elements-from-your-slides-with-ease-at-flipbuildercom/"><u>Remove Unwanted Elements From Your Slides with Ease at FlipBuilder.com</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/seamlessly-integrate-songs-into-your-videos-using-flipbuilder/"><u>Seamlessly Integrate Songs Into Your Videos Using FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-process-of-using-flippr-builders-paid-upload-features/"><u>Step-by-Step Process of Using Flippr Builder's Paid Upload Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-unraveling-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Unraveling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/transform-your-pdfs-into-interactive-magazines-add-stunning-image-collections-and-videos-with-flipbuilder/"><u>Transform Your PDFs Into Interactive Magazines: Add Stunning Image Collections & Videos with FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/turn-your-flipbook-into-a-functional-exe-file-for-pc-use-learn-how-with-flipbuilders-simple-guide/"><u>Turn Your Flipbook Into a Functional EXE File for PC Use – Learn How with FlipBuilder's Simple Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-broadcasting-the-2024-rio-summer-games-live/"><u>Ultimate Guide: Broadcasting the 2024 Rio Summer Games Live</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-multiple-output-format-capabilities-in-flip-office-pro-features-and-limits-flipbuildercom/"><u>Understanding Multiple Output Format Capabilities in Flip Office Pro: Features and Limits [FlipBuilder.com]</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-civi-3-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Civi 3 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>
+

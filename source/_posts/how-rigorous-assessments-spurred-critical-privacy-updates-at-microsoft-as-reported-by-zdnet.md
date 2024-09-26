@@ -1,7 +1,7 @@
 ---
 title: How Rigorous Assessments Spurred Critical Privacy Updates at Microsoft, as Reported by ZDNet
-date: 2024-09-14T16:36:47.750Z
-updated: 2024-09-20T02:52:25.659Z
+date: 2024-09-22T19:02:11.015Z
+updated: 2024-09-25T20:36:43.976Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -122,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +193,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-uncovering-8-affordable-platform-agnostic-virtual-communication-tools/"><u>[New] 2024 Approved Uncovering 8 Affordable, Platform-Agnostic Virtual Communication Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-humorous-harmonics-optimal-ringtone-sites/"><u>[Updated] 2024 Approved Humorous Harmonics Optimal Ringtone Sites</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-harnessing-the-power-of-gratuitous-text-animations/"><u>[Updated] Harnessing the Power of Gratuitous Text Animations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-innovating-with-structured-content-on-youtube/"><u>[Updated] Innovating with Structured Content on YouTube</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-easily-grab-videos-from-now-tv-on-pc-or-mac-with-the-ultimate-video-extractor-tool/"><u>1. Easily Grab Videos From Now TV on PC or MAC with the Ultimate Video Extractor Tool</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-step-by-step-guide-converting-and-downloading-guitar-tricks-media-in-various-formats-mp4-mov-mp3-avi/"><u>1. Step-by-Step Guide: Converting and Downloading Guitar Tricks Media in Various Formats (MP4, MOV, MP3, AVI)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-no-pay-maximum-fun-20-custom-lut-sets-for-dji-miniair-users/"><u>2024 Approved No Pay, Maximum Fun 20 Custom LUT Sets for DJI Mini/Air Users</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/bulk-download-convert-and-save-zuzkas-video-collection-in-various-formats-mp4-mov-avi-etc/"><u>Bulk Download: Convert and Save Zuzka's Video Collection in Various Formats (MP4, MOV, AVI, Etc.)</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/capture-and-save-your-favorite-gogotraining-content-with-our-top-video-extractor-tool/"><u>Capture and Save Your Favorite GogoTraining Content with Our Top Video Extractor Tool</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/complete-guide-converting-and-downloading-various-video-formats-mp4-avi-flv-mov-for-basketball-training/"><u>Complete Guide: Converting and Downloading Various Video Formats (MP4, AVI, FLV, Mov) for Basketball Training</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/convert-your-favorite-tv-shows-into-mp4-and-avi-using-telly-downloader-across-pcs-and-macintosh-systems/"><u>Convert Your Favorite TV Shows Into MP4 & AVI Using Telly Downloader Across PCs and Macintosh Systems</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/convert-your-vine-videos-into-various-formats-mp4-wmv-mov-flv-avi-compatible-with-pc-and-mac/"><u>Convert Your Vine Videos Into Various Formats: MP4, WMV, MOV, FLV, AVI Compatible with PC & MAC</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/creating-your-own-customized-ringtone-from-spotify-tracks/"><u>Creating Your Own Customized Ringtone From Spotify Tracks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-note-12-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi Note 12 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-oppo-a38-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Oppo A38</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-joy-1500-days-free-from-learning-cost/"><u>The Joy: 1,500 Days Free From Learning Cost</u></a></li>
+</ul></div>
+

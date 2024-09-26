@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Hybrid Work Revolution: Microsoft Unveils Innovative Office Essentials - ZDNet Insights"
-date: 2024-09-15T02:48:10.292Z
-updated: 2024-09-20T04:09:41.313Z
+date: 2024-09-19T20:23:50.999Z
+updated: 2024-09-25T20:23:32.925Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,28 +129,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -185,3 +199,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-audiences-choice-in-drama-writings/"><u>[New] In 2024, Audience's Choice in Drama Writings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-tiktok-how-to-set-and-modify-your-profile-age/"><u>[New] Mastering TikTok How to Set & Modify Your Profile Age</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-review-spotlight-on-yuneecs-aerodrone-typhoon-h/"><u>[Updated] Review Spotlight on Yuneec’s AeroDrone Typhoon H</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/discover-the-ultimate-list-of-2023s-top-rated-gaming-desks-expert-picks-from-zdnet/"><u>Discover the Ultimate List of 2023'S Top-Rated Gaming Desks | Expert Picks From ZDNET</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/experiencing-the-gardyn-home-kit-30-intelligent-indoor-farming-success-story-revealed/"><u>Experiencing the Gardyn Home Kit 3.0: Intelligent Indoor Farming Success Story Revealed!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-zte-nubia-z60-ultra-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost ZTE Nubia Z60 Ultra for Free? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/major-overhaul-microsoft-revamps-windows-keyboard-design-after-years-insights-from-zdnet/"><u>Major Overhaul: Microsoft Revamps Windows Keyboard Design After Years – Insights From ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/microsoft-unveils-windows-11-latest-feature-pack-exclusive-ai-enhancements-and-rollout-details-on-zdnet/"><u>Microsoft Unveils Windows 11 Latest Feature Pack: Exclusive AI Enhancements & Rollout Details on ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/next-gen-ai-assistant-microsoft-copilot-enhances-singapore-legaltech-infrastructure-insights-for-zdnet/"><u>Next-Gen AI Assistant Microsoft Copilot Enhances Singapore LegalTech Infrastructure – Insights for ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-screen-mirroring-in-windows-11-overcoming-common-miracast-errors/"><u>Seamless Screen Mirroring in Windows 11: Overcoming Common Miracast Errors</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/step-by-step-tutorial-downloading-4k-and-hd-youtube-videos-without-cost-on-mac-devices/"><u>Step-by-Step Tutorial: Downloading 4K and HD YouTube Videos Without Cost on Mac Devices</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/the-cost-of-staying-current-microsoft-announces-pricing-plan-for-windows-11-updates/"><u>The Cost of Staying Current: Microsoft Announces Pricing Plan for Windows 11 Updates</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-ranking-office-seating-solutions-the-ultimate-guide-to-2024s-premier-chair-selection/"><u>Top-Ranking Office Seating Solutions: The Ultimate Guide to 2024'S Premier Chair Selection</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y36-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo Y36 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/unveiling-the-secret-to-true-employee-happiness-microsofts-surprising-discovery-zdnet/"><u>Unveiling the Secret to True Employee Happiness: Microsoft's Surprising Discovery | ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/vimeo-vs-youtube-dissecting-the-streamers-choices-for-2024/"><u>Vimeo vs YouTube Dissecting the Streamers' Choices for 2024</u></a></li>
+</ul></div>
+

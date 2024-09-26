@@ -1,7 +1,7 @@
 ---
 title: "Experiencing the Gardyn Home Kit 3.0: Intelligent Indoor Farming Success Story Revealed!"
-date: 2024-09-16T21:11:55.040Z
-updated: 2024-09-19T17:09:15.290Z
+date: 2024-09-23T17:46:56.438Z
+updated: 2024-09-25T22:57:43.803Z
 tags:
   - office-furniture
 categories:
@@ -50,6 +50,13 @@ We've had the Gardyn for about two months and our first harvest is upon us. How 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Setting up the Gardyn
 
 Okay, this was a little trickier than I bargained for. The Gardyn 3.0, which adds durability and evolving AI capabilities since the 2.0 release, takes up a relatively small footprint but, dimensionally, is quite large, standing 64" and encompassing three different growing towers. 
@@ -66,6 +73,13 @@ The setup itself isn't complicated but it is involved. You're basically assembli
 
 Pro tip: Set this thing up in the location where it'll end up. I thought I was doing that, but once I had the Gardyn standing in front of me in its full glory, I realized it wasn't going to work in our boat's upstairs common area. Instead, it would be relegated to the engine room downstairs, where it would freshen the air even as our big Caterpillar diesel churned away.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How its technology works
 
 Gardyn employs what it calls Hybriponic technology, a riff on "Hydroponic," which is the generic term for growing plants in water without the use of soil.
@@ -81,19 +95,6 @@ We're keeping our Gardyn 3.0 in the engine room. It makes for quite a contrast, 
 Greg Nichols/ZDNET
 
 The coolest feature is also the one that's easiest to miss. The built-in cameras monitor plant growth and optimize the schedule based on your garden. The system can tell how fast your plants are growing and customize the light and watering cycle to suit your specific garden. This is vastly more powerful than simple timer-based devices.
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## App experience 
 
@@ -116,10 +117,10 @@ One cool feature is that you can view your plants in real-time in your app throu
 The app's plant book allows for some great discoverability. I wasn't familiar with borage, for example, but look forward to growing the edible flower. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A quibble
@@ -131,6 +132,13 @@ The first is related to the clunky setup process. Because the Gardyn requires su
 Lining up the tower as it's lifted back onto the base after cleaning has consistently required multiple attempts. Meanwhile, the whole garden is wobbling and I feel an impending sense that some part or another is going to break. It's not that the materials are cheap feeling -- they aren't -- but rather that the system wasn't built with ergonomics and handling in mind. If this were a static piece of furniture, that would be fine -- a refrigerator isn't built to be lifted routinely either and no one complains about that. But we're talking about a process that needs to be performed every month, and it feels like it should be easier.
 
 [Gardyn Home Kit 3.0 $695 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS4YMNQ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceafde7b8-7d82-4e79-b6cf-f79143fe6f84%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line 
 
@@ -181,3 +189,24 @@ A single growing stand that's expandable to 36 plants for a legit indoor farm.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-video-brilliance-through-advanced-chroma-techniques-11-steps/"><u>[Updated] Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps)</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/beware-latest-microsoft-patch-could-worsen-evening-work-struggles-insights-from-zdnet/"><u>Beware: Latest Microsoft Patch Could Worsen Evening Work Struggles - Insights From ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/eyesharp-hd-high-definition-chromecasting/"><u>EyeSharp HD High Definition Chromecasting</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-rigorous-assessments-spurred-critical-privacy-updates-at-microsoft-as-reported-by-zdnet/"><u>How Rigorous Assessments Spurred Critical Privacy Updates at Microsoft, as Reported by ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-standard-to-spectacular-your-guide-to-selecting-a-stellar-4k-display/"><u>In 2024, From Standard to Spectacular Your Guide to Selecting a Stellar 4K Display</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-narzo-60-pro-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme Narzo 60 Pro 5G FRP Locks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oneplus-11r-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from OnePlus 11R to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/microsoft-announces-subscription-model-for-windows-11-updates-what-it-costs-you-zdnet/"><u>Microsoft Announces Subscription Model for Windows 11 Updates - What It Costs You? [ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/new-plan-alert-microsoft-to-implement-cost-for-future-windows-0s-updates-starting-next-year-what-youll-need-to-budget-for/"><u>New Plan Alert: Microsoft to Implement Cost for Future Windows ˈ0s Updates Starting Next Year – What You'll Need to Budget For</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-y17s-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo Y17s</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-social-media-elite-playbook-cultivate-your-stardom-in-9-easy-steps/"><u>The Social Media Elite Playbook Cultivate Your Stardom in 9 Easy Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/troubleshooting-guide-stop-god-of-war-from-closing-unexpectedly-on-windows/"><u>Troubleshooting Guide: Stop God of War From Closing Unexpectedly On Windows</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ultimate-tutorial-on-building-an-optimal-windows-11-virtual-environment-insights-from-zdnet/"><u>Ultimate Tutorial on Building an Optimal Windows 11 Virtual Environment - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-vector-databases-enhancing-artificial-intelligence/"><u>Understanding Vector Databases: Enhancing Artificial Intelligence</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/unveiling-microsofts-latest-ai-leap-in-generative-search-harmonizing-tradition-with-modernity-tech-analysis-by-zdnet/"><u>Unveiling Microsoft's Latest AI Leap in Generative Search: Harmonizing Tradition with Modernity | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/zdnet-exclusive-openai-unveils-commercial-variant-of-chatgpt-for-enterprises/"><u>ZDNet Exclusive: OpenAI Unveils Commercial Variant of ChatGPT for Enterprises</u></a></li>
+</ul></div>
+

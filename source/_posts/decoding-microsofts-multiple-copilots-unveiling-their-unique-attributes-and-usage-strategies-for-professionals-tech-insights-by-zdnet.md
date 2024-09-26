@@ -1,7 +1,7 @@
 ---
 title: "Decoding Microsoft's Multiple Copilots: Unveiling Their Unique Attributes & Usage Strategies for Professionals | Tech Insights by ZDNET"
-date: 2024-09-15T23:20:11.024Z
-updated: 2024-09-20T05:47:25.289Z
+date: 2024-09-19T16:05:18.969Z
+updated: 2024-09-26T00:48:23.611Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -116,16 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -139,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -185,3 +199,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-breaking-the-streak-code-proven-techniques/"><u>[New] 2024 Approved Breaking the Streak Code Proven Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-views-with-these-top-20-thumbnail-fonts/"><u>[New] Maximize Views with These Top 20 Thumbnail Fonts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-winning-strategy-top-9-windows-apps-for-animated-gif-mastery-for-2024/"><u>[Updated] Winning Strategy Top 9 Windows Apps for Animated GIF Mastery for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-chroma-key-fundamentals-made-simple-for-newcomers/"><u>2024 Approved Chroma Key Fundamentals Made Simple for Newcomers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-download-friends-share-and-connect-effortlessly-online/"><u>2024 Approved Download Friends, Share & Connect Effortlessly Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-find-x6-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo Find X6 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/access-the-newly-added-dark-theme-in-bing-chat-and-improve-your-search-experience-zdnet/"><u>Access the Newly Added Dark Theme in Bing Chat and Improve Your Search Experience | ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/affordable-access-singapores-small-businesses-get-microsoft-copilot-deals-zdnet-insights/"><u>Affordable Access: Singapore's Small Businesses Get Microsoft Copilot Deals - ZDNet Insights</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/embracing-artificial-intelligence-as-everyday-reality-with-microsofts-smart-strategy-unveiled-by-zdnet/"><u>Embracing Artificial Intelligence as Everyday Reality with Microsoft's Smart Strategy - Unveiled by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-camouflage-online-activity-on-steam/"><u>How to Camouflage Online Activity on Steam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-all-inclusive-rundown-whats-behind-the-google-podcast-app/"><u>In 2024, All-Inclusive Rundown What's Behind the Google Podcast App?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mastering-the-art-of-drop-down-lists-a-step-by-step-tutorial-on-building-them-fast-and-simple-with-excel-zdnet-insights/"><u>Mastering the Art of Drop-Down Lists: A Step-by-Step Tutorial on Building Them Fast & Simple with Excel | ZDNet Insights</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/microsoft-reveals-ingenious-approach-to-normalizing-ai-insights-for-solo-users-zdnet/"><u>Microsoft Reveals Ingenious Approach to Normalizing AI: Insights for Solo Users | ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/purchase-affordable-microsoft-project-and-visio-professional-licenses-at-just-20-exclusive-deal-on-zdnet/"><u>Purchase Affordable Microsoft Project & Visio Professional Licenses at Just $20 - Exclusive Deal on ZDNet!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/revealing-insights-microsoft-surveys-thousands-on-post-pandemic-workplace-transformations-shocking-outcome/"><u>Revealing Insights: Microsoft Surveys Thousands on Post-Pandemic Workplace Transformations - Shocking Outcome!</u></a></li>
+</ul></div>
+
