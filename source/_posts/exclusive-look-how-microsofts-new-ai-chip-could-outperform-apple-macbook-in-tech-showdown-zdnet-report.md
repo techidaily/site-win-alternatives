@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look: How Microsoft's New AI Chip Could Outperform Apple MacBook in Tech Showdown | ZDNet Report"
-date: 2024-09-20T17:18:09.003Z
-updated: 2024-09-25T16:56:22.078Z
+date: 2024-09-22T18:16:31.525Z
+updated: 2024-09-29T19:45:16.789Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +135,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +155,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +208,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-alternatives.techidaily.com/1726792603321-y-y1-mx-xn/"><u> [ Y - Y_1 = M(x - X_n) </u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-tips-for-crafting-immersive-soundscapes-in-youtube-for-2024/"><u>[Updated] Expert Tips for Crafting Immersive Soundscapes in YouTube for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-of-yt-previews-making-a-lasting-first-impression/"><u>[Updated] The Art of YT Previews Making a Lasting First Impression</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitters-guide-to-downloading-gifs-a-step-by-step-approach-for-2024/"><u>[Updated] Twitter's Guide to Downloading GIFs A Step-by-Step Approach for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-premium-laravel-admin-panel-template-lightweight-bootstrap-integration-with-free-design-themes/"><u>1. Premium Laravel Admin Panel Template: Lightweight Bootstrap Integration with Free Design Themes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/assassins-creed-valhalla-a-riveting-saga-of-viking-quests-in-a-historical-setting/"><u>Assassin's Creed Valhalla - A Riveting Saga of Viking Quests in a Historical Setting</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/vating-audiencvith-effective-thumbnail-sizes-for-2024/"><u>Captivating Audiencvith Effective Thumbnail Sizes for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/exclusive-argon-pro-designer-toolset-superior-bootstrap-press-by-creativetim/"><u>Exclusive Argon Pro Designer Toolset - Superior Bootstrap Press by @CreativeTim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/experience-elite-monitoring-with-argon-dashboard-pro-advanced-nodejs-dashboard-by-creative-tim/"><u>Experience Elite Monitoring with Argon Dashboard Pro - Advanced Node.js Dashboard by Creative Tim</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nokia-g310-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nokia G310 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/premier-2024-selection-cloud-saving-apps-for-android-users/"><u>Premier 2024 Selection Cloud Saving Apps for Android Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-step-by-step-guide-to-fix-pacific-drive-crashes-on-your-computer/"><u>Resolving Issues: Step-by-Step Guide to Fix Pacific Drive Crashes on Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/x-plus-y-plus-z-geq-15/"><u> [ X + Y + Z Geq 15 </u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-unique-content-to-differentiate-your-channel/"><u>[New] 2024 Approved Crafting Unique Content to Differentiate Your Channel</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-pivotal-point-in-view-count-for-online-earning/"><u>[Updated] 2024 Approved The Pivotal Point in View Count for Online Earning</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unwinding-a-livestream-in-seconds-seven-proven-methods-for-twitch-viewers/"><u>[Updated] 2024 Approved Unwinding a Livestream in Seconds Seven Proven Methods for Twitch Viewers</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-download-your-adventure-get-high-quality-travel-channel-footage-in-mp4-and-avi-formats/"><u>1. 'Download Your Adventure: Get High-Quality Travel Channel Footage in MP4 & AVI Formats'</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-easily-grab-videos-from-now-tv-on-pc-or-mac-with-the-ultimate-video-extractor-tool/"><u>1. Easily Grab Videos From Now TV on PC or MAC with the Ultimate Video Extractor Tool</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-step-by-step-guide-converting-and-downloading-guitar-tricks-media-in-various-formats-mp4-mov-mp3-avi/"><u>1. Step-by-Step Guide: Converting and Downloading Guitar Tricks Media in Various Formats (MP4, MOV, MP3, AVI)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-infinix-smart-8-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Infinix Smart 8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-for-starfield-failure-to-start-up-on-your-gaming-platforms-steamxbox/"><u>Expert Fixes for Starfield Failure to Start Up on Your Gaming Platforms (Steam/Xbox)</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mastering-template-customization-in-your-flipbook-tips-and-tricks/"><u>Mastering Template Customization in Your FlipBook - Tips & Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-guide-uploading-subtitles-via-social-networks/"><u>Perfect Guide Uploading Subtitles via Social Networks</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-converting-your-ebooks-and-brochures-into-audiocd-with-flipbuilder-tools/"><u>Step-by-Step Guide: Converting Your eBooks and Brochures Into AudioCD with FlipBuilder Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamline-your-audio-savings-from-youtube-playback/"><u>Streamline Your Audio Savings From YouTube Playback</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-screen-resolution-adjustments-for-the-ultimate-samsung-uhd-viewing-experience/"><u>Top Screen Resolution Adjustments for the Ultimate Samsung UHD Viewing Experience</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/transform-your-pdfs-into-elegant-flip-books-master-customizable-templates-at-flipbuilder/"><u>Transform Your PDFs Into Elegant Flip Books - Master Customizable Templates at FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/transforming-your-camera-images-into-an-engaging-flipslider-showcase-using-flipbuilder/"><u>Transforming Your Camera Images Into an Engaging FlipSlider Showcase Using FlipBuilder</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is Paying for Enhanced Features Worthwhile? Comparing Microsoft Copilot and Copilot Pro Pricing Plans – Insights From ZDNet
-date: 2024-09-22T19:02:27.785Z
-updated: 2024-09-25T21:24:09.831Z
+date: 2024-09-26T23:45:25.599Z
+updated: 2024-09-30T08:08:07.124Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,35 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-expert-tips-for-efficiently-logging-google-online-gatherings/"><u>[New] Expert Tips for Efficiently Logging GooGle Online Gatherings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elevate-your-mac-experience-with-these-5-snippers/"><u>[New] In 2024, Elevate Your Mac Experience with These 5 Snippers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-no-cash-needed-try-these-free-youtube-subtitle-tools/"><u>[New] No Cash Needed? Try These Free YouTube Subtitle Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-simplifying-video-production-with-captivate/"><u>[Updated] 2024 Approved Simplifying Video Production with Captivate</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/advance-your-figma-skills-with-the-power-of-ai-experience-the-pro-version-of-horizon-boilerplates-innovation-from-creative-tim/"><u>Advance Your Figma Skills with the Power of AI: Experience the PRO Version of Horizon Boilerplates - Innovation From Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comprehensive-review-of-new-ai-features-in-copilotplus-pcs-nearly-swayed-by-the-hype/"><u>Comprehensive Review of New AI Features in Copilot+ PCs - Nearly Swayed by the Hype!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/cost-of-keeping-your-pc-updated-with-windows-11-soars-as-microsoft-implements-charges-from-next-year-detailed-breakdown-on-zdnet/"><u>Cost of Keeping Your PC Updated with Windows 11 Soars as Microsoft Implements Charges From Next Year – Detailed Breakdown on ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/extending-windows-10s-lifespan-microsoft-silently-ends-the-hopes-of-updates/"><u>Extending Windows 10'S Lifespan - Microsoft Silently Ends the Hopes of Updates</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/fcpx-plugin-roundup-the-best-of-both-worlds-free-and-paid/"><u>FCPX Plugin Roundup The Best of Both Worlds (Free & Paid)</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/final-announcement-microsoft-ends-free-windows-11-upgrade-offer-zdnet/"><u>Final Announcement: Microsoft Ends Free Windows 11 Upgrade Offer - ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/free-windows-11-upgrade-offer-discontinued-what-went-wrong/"><u>Free Windows 11 Upgrade Offer Discontinued: What Went Wrong?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-reno-8t-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo Reno 8T For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/implementing-family-safe-mode-a-users-tutorial-on-discord-settings/"><u>Implementing Family Safe Mode: A User's Tutorial on Discord Settings</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-dazzle-and-stand-out-50-free-youtube-branding-pieces/"><u>In 2024, Dazzle and Stand Out 50 FREE YouTube Branding Pieces</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/is-the-accell-thunderbolt-4-windows-docking-station-top-notch-unveiling-features-and-reviews-at-zdnet/"><u>Is the Accell Thunderbolt 4 Windows Docking Station Top-Notch? Unveiling Features & Reviews at ZDNET</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/master-your-pc-with-god-mode-in-windows-11-essential-setup-steps-and-expert-reasons-for-using-it-tech-tips/"><u>Master Your PC with God Mode in Windows 11: Essential Setup Steps & Expert Reasons for Using It | Tech Tips</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/revive-your-aging-iphone-with-this-innovative-flash-drive-essential-tips-from-zdnet/"><u>Revive Your Aging iPhone with This Innovative Flash Drive - Essential Tips From ZDNet!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-stop-persistent-android-apps-from-draining-your-power/"><u>The Ultimate Trick to Stop Persistent Android Apps From Draining Your Power</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-the-art-of-instantaneous-deletion-of-youtube-discussions/"><u>[New] Mastering the Art of Instantaneous Deletion of YouTube Discussions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-rise-and-challenges-of-video-streaming-profits/"><u>[New] The Rise and Challenges of Video Streaming Profits</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-videographers-essentials-top-9-gear-upgrades-for-mobile-filming/"><u>[New] The Videographer's Essentials - Top 9 Gear Upgrades for Mobile Filming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-itunes-podcast-enrollment/"><u>[New] Tips for iTunes Podcast Enrollment</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-14-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 14</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-adding-music-and-sounds-to-your-digital-magazines-with-flipbuilders-easy-tools/"><u>Guide: Adding Music and Sounds to Your Digital Magazines with FlipBuilder's Easy Tools</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-assemble-multi-image-flip-books-efficiently-using-flipbuilders-tools-and-techniques/"><u>How to Assemble Multi-Image Flip Books Efficiently Using FlipBuilder's Tools and Techniques</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-minimize-book-binding-radiopacity-using-flipbuilder-tools/"><u>How to Minimize Book Binding Radiopacity Using FlipBuilder Tools?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mastering-template-customization-in-your-flipbook-tips-and-tricks/"><u>Mastering Template Customization in Your FlipBook - Tips & Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-effectiveness-of-cooler-masters-ion-asterisk-360-aio-an-all-inclusive-review/"><u>Unveiling the Effectiveness of Cooler Master's ION Asterisk 360 AIO - An All-Inclusive Review</u></a></li>
 </ul></div>
 

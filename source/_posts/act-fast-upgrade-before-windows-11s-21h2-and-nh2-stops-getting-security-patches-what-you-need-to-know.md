@@ -1,7 +1,7 @@
 ---
 title: "Act Fast: Upgrade Before Windows 11'S 21H2 & Nh2 Stops Getting Security Patches - What You Need to Know!"
-date: 2024-09-23T17:22:57.358Z
-updated: 2024-09-25T18:32:46.653Z
+date: 2024-09-26T08:51:45.043Z
+updated: 2024-09-29T21:02:46.338Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +148,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +208,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mac-users-guide-to-stellar-tiktok-beginnings/"><u>[Updated] 2024 Approved Mac Users' Guide to Stellar TikTok Beginnings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-carve-custom-web-laughter-cutouts-today/"><u>[Updated] Carve Custom Web Laughter Cutouts Today</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-secrets-to-the-ultimate-5-free-pinterest-video-loader/"><u>[Updated] Secrets to the Ultimate 5-Free Pinterest Video Loader</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/advanced-argon-dashboard-pro-high-quality-angular-admin-theme-by-creative-tim/"><u>Advanced Argon Dashboard Pro: High-Quality Angular Admin Theme by Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/advanced-material-kit-professional-edition-for-flutter-developers-top-tier-templates-by-creative-tim/"><u>Advanced Material Kit Professional Edition for Flutter Developers | Top-Tier Templates by Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/angular-13-now-ui-dashboard-andamp-free-bootstrap-4-admin-theme-by-creative-tim/"><u>Angular 13 Now UI Dashboard &Amp; Free Bootstrap 4 Admin Theme by Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/creative-tims-vuetify-material-professional-ui-kit-ultimate-vuejs-dashboard-solution-for-web-developers/"><u>Creative Tim's Vuetify Material Professional UI Kit - Ultimate Vuejs Dashboard Solution for Web Developers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-best-8-plugin-tools-for-enhancing-fitness-and-wellness-via-chatgpt/"><u>Discover the Best 8 Plugin Tools for Enhancing Fitness & Wellness via ChatGPT</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-13c-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi 13C 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-unveiling-the-role-of-authenticity-in-online-self-portraits/"><u>In 2024, Unveiling the Role of Authenticity in Online Self-Portraits</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/secrets-unlocked-starting-your-own-hit-gaming-stream-for-2024/"><u>Secrets Unlocked Starting Your Own Hit Gaming Stream for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-f14-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy F14 5G Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/worldwide-gaming-shift-modify-xbox-timezone-settings/"><u>Worldwide Gaming Shift: Modify Xbox Timezone Settings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-proven-strategies-maximizing-efficiency-in-your-mobizen-screencast-processes-for-2024/"><u>[New] Proven Strategies Maximizing Efficiency in Your Mobizen Screencast Processes for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-download-your-adventure-get-high-quality-travel-channel-footage-in-mp4-and-avi-formats/"><u>1. 'Download Your Adventure: Get High-Quality Travel Channel Footage in MP4 & AVI Formats'</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-easily-grab-videos-from-now-tv-on-pc-or-mac-with-the-ultimate-video-extractor-tool/"><u>1. Easily Grab Videos From Now TV on PC or MAC with the Ultimate Video Extractor Tool</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-step-by-step-guide-converting-and-downloading-guitar-tricks-media-in-various-formats-mp4-mov-mp3-avi/"><u>1. Step-by-Step Guide: Converting and Downloading Guitar Tricks Media in Various Formats (MP4, MOV, MP3, AVI)</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/bulk-download-convert-and-save-zuzkas-video-collection-in-various-formats-mp4-mov-avi-etc/"><u>Bulk Download: Convert and Save Zuzka's Video Collection in Various Formats (MP4, MOV, AVI, Etc.)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-personal-resume-guru-strategies-for-crafting-an-impressive-cv-using-ai-technology/"><u>ChatGPT as Your Personal Resume Guru: Strategies for Crafting an Impressive CV Using AI Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-between-the-dji-action-4-gopro-max-360-and-insta360-x3/"><u>Choosing Between the DJI Action 4, GoPro Max 360, and Insta360 X3</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-not-working-on-windows-heres-the-fix/"><u>Oddworld Soulstorm Not Working on Windows? Here's the Fix</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-location-unavailable-error-on-your-iphone-a-step-by-step-guide/"><u>Solving the 'Location Unavailable' Error on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-converting-your-ebooks-and-brochures-into-audiocd-with-flipbuilder-tools/"><u>Step-by-Step Guide: Converting Your eBooks and Brochures Into AudioCD with FlipBuilder Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-fixers-manual-resolving-freezes-on-your-playstation-4/"><u>The Complete Fixer's Manual: Resolving Freezes on Your PlayStation 4</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/transform-your-pdfs-into-elegant-flip-books-master-customizable-templates-at-flipbuilder/"><u>Transform Your PDFs Into Elegant Flip Books - Master Customizable Templates at FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/transforming-your-camera-images-into-an-engaging-flipslider-showcase-using-flipbuilder/"><u>Transforming Your Camera Images Into an Engaging FlipSlider Showcase Using FlipBuilder</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-potential-gameplay-improvements-in-god-of-war/"><u>Unlocking Potential: Gameplay Improvements in 'God of War'</u></a></li>
 </ul></div>
 

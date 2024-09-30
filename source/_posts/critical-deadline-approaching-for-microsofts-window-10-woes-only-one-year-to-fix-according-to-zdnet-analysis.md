@@ -1,7 +1,7 @@
 ---
 title: Critical Deadline Approaching for Microsoft's Window 10 Woes; Only One Year to Fix, According to ZDNet Analysis
-date: 2024-09-19T21:20:32.217Z
-updated: 2024-09-25T23:24:26.792Z
+date: 2024-09-23T02:56:08.906Z
+updated: 2024-09-30T12:47:23.808Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,15 +135,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-your-content-game-mastering-the-art-of-instagram-video-uploads-on-desktop/"><u>[Updated] 2024 Approved Elevate Your Content Game Mastering the Art of Instagram Video Uploads on Desktop</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-behind-the-scenes-unpacking-instagram-stories/"><u>[Updated] Behind the Scenes Unpacking Instagram Stories</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-world-with-handheld-vr-theta-sc2-explored/"><u>Discover the World with Handheld VR: Theta SC2 Explored</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/download-the-ultimate-free-argon-flutter-starter-kit-by-creative-tim-perfect-for-beginners/"><u>Download the Ultimate Free Argon Flutter Starter Kit by Creative Tim – Perfect for Beginners!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/explore-top-tier-laracasts-php-themes-and-designs-a-comprehensive-guide-beyond-27-innovative-offerings/"><u>Explore Top-Tier Laracasts PHP Themes and Designs: A Comprehensive Guide Beyond 27 Innovative Offerings</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/innovative-duo-of-e-commerce-designs-from-creative-tim/"><u>Innovative Duo of E-Commerce Designs From Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/maintaining-proportions-across-representations-ensures-accuracy-in-depicting-real-world-relationships-at-different-scales/"><u>Maintaining Proportions Across Representations Ensures Accuracy in Depicting Real-World Relationships at Different Scales.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/protecting-your-android-smartphone-from-potential-thieves-a-comprehensive-guide/"><u>Protecting Your Android Smartphone From Potential Thieves: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-traditional-gaming-with-innovative-ai-techniques/"><u>Transforming Traditional Gaming with Innovative AI Techniques</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-brother-hl-l2350dw-printer-drivers-with-our-easy-step-by-step-guide/"><u>Update Your Brother HL-L2350DW Printer Drivers with Our Easy Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlock-creative-potential-the-ultimate-list-of-10-free-tiktok-edits-on-macos-for-2024/"><u>[New] Unlock Creative Potential The Ultimate List of 10 Free TikTok Edits on MacOS for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-detectives-playbook-for-scouring-secret-youtube-content/"><u>[Updated] 2024 Approved The Detective's Playbook for Scouring Secret YouTube Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-compreited-list-of-top-5-iphone-apps-revolutionizing-podcasts/"><u>[Updated] A Compreited List of Top 5 iPhone Apps Revolutionizing Podcasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-expert-fb-video-sharing-tactics-for-desktop-and-handheld-devices/"><u>[Updated] Expert FB Video Sharing Tactics for Desktop and Handheld Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-successful-youtubing-master-end-credits-and-makers-sources/"><u>[Updated] Successful YouTubing Master End Credits and Makers' Sources</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/capture-and-save-your-favorite-gogotraining-content-with-our-top-video-extractor-tool/"><u>Capture and Save Your Favorite GogoTraining Content with Our Top Video Extractor Tool</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/complete-guide-converting-and-downloading-various-video-formats-mp4-avi-flv-mov-for-basketball-training/"><u>Complete Guide: Converting and Downloading Various Video Formats (MP4, AVI, FLV, Mov) for Basketball Training</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/convert-your-favorite-tv-shows-into-mp4-and-avi-using-telly-downloader-across-pcs-and-macintosh-systems/"><u>Convert Your Favorite TV Shows Into MP4 & AVI Using Telly Downloader Across PCs and Macintosh Systems</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/convert-your-vine-videos-into-various-formats-mp4-wmv-mov-flv-avi-compatible-with-pc-and-mac/"><u>Convert Your Vine Videos Into Various Formats: MP4, WMV, MOV, FLV, AVI Compatible with PC & MAC</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/creating-your-own-customized-ringtone-from-spotify-tracks/"><u>Creating Your Own Customized Ringtone From Spotify Tracks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725288322359-dvd-dvd/"><u>DVDスリックとは安心して使用できるものなのか? - DVD改造ソフトの安全性について学ぶ</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-new-pixel-buds-pro-2-by-google-pricing-insights-and-anticipated-release-date-shared/"><u>Inside Scoop on the New Pixel Buds Pro 2 by Google - Pricing Insights & Anticipated Release Date Shared</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-writing-with-hix-and-gpt-4/"><u>Streamline Writing with HIX and GPT-4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windowing-wonderland-personalized-monitor-settings-in-win1011/"><u>Windowing Wonderland: Personalized Monitor Settings in Win10/11</u></a></li>
 </ul></div>
 

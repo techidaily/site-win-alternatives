@@ -1,7 +1,7 @@
 ---
 title: Microsoft Redefines User Experience - Positive Alternatives to Current Practices
-date: 2024-09-24T23:24:01.723Z
-updated: 2024-09-25T19:50:16.749Z
+date: 2024-09-24T13:46:34.924Z
+updated: 2024-09-30T05:21:06.824Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,16 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,19 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-pick-mics-for-youtube-entrepreneurs/"><u>[New] In 2024, Expert Pick Mics for YouTube Entrepreneurs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-deciphering-the-mystery-of-your-unseen-online-footprints-on-facebook-for-2024/"><u>[Updated] Deciphering the Mystery of Your Unseen Online Footprints on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-end-screen-design-made-easy-with-our-templates-and-tutorials/"><u>[Updated] In 2024, End-Screen Design Made Easy with Our Templates & Tutorials</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-who-likes-what-deciphering-instagram-stats-and-screenshots-for-2024/"><u>[Updated] Who Likes What? Deciphering Instagram Stats & Screenshots for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/a-comprehensive-guide-on-funding-your-flipbuildercom-uploads/"><u>A Comprehensive Guide on Funding Your FlipBuilder.com Uploads</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/can-you-display-business-details-in-a-rotating-ebook-format-with-flipbuilder/"><u>Can You Display Business Details in a Rotating eBook Format with FlipBuilder?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/create-stylish-digital-magazines-effortlessly-using-our-trendy-templates-at-flipbuildercom/"><u>Create Stylish Digital Magazines Effortlessly Using Our Trendy Templates at FlipBuilder.com</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/create-trendy-digital-scrapbooks-using-stylish-templates-on-flipbook-builder/"><u>Create Trendy Digital Scrapbooks Using Stylish Templates on FlipBook Builder</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/creative-tims-impact-pro-enhanced-bootstrap-4-framework-from-the-premier-design-suite/"><u>Creative Tim's Impact Pro: Enhanced Bootstrap 4 Framework From the Premier Design Suite</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/du-recorder-features-and-review-for-2024/"><u>Du Recorder Features and Review for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/enhance-your-web-projects-with-notus-design-system-pro-the-ultimate-advanced-tailwind-css-framework-from-creative-tim/"><u>Enhance Your Web Projects with Notus Design System Pro - The Ultimate Advanced Tailwind CSS Framework From Creative Tim</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-p55t-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel P55T Through Google Earth?</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-lava-blaze-2-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Lava Blaze 2 5G on Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-11x-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme 11X 5G Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unleashing-creative-potential-in-minecraft-with-circles-and-spheres/"><u>[New] 2024 Approved Unleashing Creative Potential in Minecraft with Circles & Spheres</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ultimate-racing-game-compilation/"><u>[New] In 2024, Ultimate Racing Game Compilation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tap-into-endless-creativity-our-compilation-of-over-50-free-advertising-masterpieces/"><u>[New] Tap Into Endless Creativity – Our Compilation of over 50 FREE Advertising Masterpieces</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-apex-fb-platforms-topping-the-10-list/"><u>[Updated] Apex FB Platforms Topping the 10 List</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-intel-thunderbolt-controllers-up-and-running-download-guides/"><u>Get Your Intel Thunderbolt Controllers Up & Running - Download Guides!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-to-saving-wistia-embeds-as-mp4-or-mov-files-on-your-device/"><u>Guide to Saving Wistia Embeds as MP4 or MOV Files on Your Device</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-obtain-and-enjoy-premium-criterion-content-downloading-award-winning-cinema/"><u>How to Obtain and Enjoy Premium Criterion Content: Downloading Award-Winning Cinema</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-transfer-your-favorite-tracks-from-spotify-to-ipad-compatible-formats-included/"><u>How to Transfer Your Favorite Tracks From Spotify to iPad - Compatible Formats Included</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-realme-12-proplus-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Realme 12 Pro+ 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-transform-your-images-into-engaging-videos-with-these-10-tools/"><u>In 2024, Transform Your Images Into Engaging Videos with These 10 Tools</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/save-gomovies-titles-as-various-formats-quick-guide-to-mp4-avi-flv-conversions/"><u>Save GoMovies Titles as Various Formats – Quick Guide to MP4, AVI, FLV Conversions!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-converting-and-downloading-cartoon-network-episodes-as-mp4-avi-flv-or-mov/"><u>Step-by-Step Guide: Converting and Downloading Cartoon Network Episodes as MP4, AVI, FLV, or MOV</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-tutorial-for-downloading-and-saving-bellator-matches-as-mp4-videos-on-desktop-systems/"><u>Step-by-Step Tutorial for Downloading and Saving Bellator Matches as MP4 Videos on Desktop Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-potential-advanced-techniques-for-slug-line-creation/"><u>Unlocking Potential Advanced Techniques for Slug Line Creation</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone XS | Dr.fone</u></a></li>
 </ul></div>
 

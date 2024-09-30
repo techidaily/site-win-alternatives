@@ -1,7 +1,7 @@
 ---
 title: "Achieve Seamless Sign-Ins: Mastering Password-Free Access on Windows 10/11 - Tips From ZDNet"
-date: 2024-09-19T18:25:12.388Z
-updated: 2024-09-25T20:13:11.852Z
+date: 2024-09-23T17:44:28.679Z
+updated: 2024-09-30T08:48:12.001Z
 tags:
   - windows
 categories:
@@ -27,13 +27,6 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -46,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -55,11 +55,25 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -67,18 +81,24 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -97,25 +117,11 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,22 +162,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-integrating-your-social-network-four-ways-for-fb-story-sharing/"><u>[New] 2024 Approved Integrating Your Social Network Four Ways for FB Story Sharing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-androids-premier-photographic-tool-is-pickup-at-the-forefront/"><u>[Updated] Android’s Premier Photographic Tool – Is PickUp at the Forefront?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-shadowed-reader-of-facebook-flashes/"><u>[Updated] Shadowed Reader of Facebook Flashes</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/advance-your-figma-skills-with-the-power-of-ai-experience-the-pro-version-of-horizon-boilerplates-innovation-from-creative-tim/"><u>Advance Your Figma Skills with the Power of AI: Experience the PRO Version of Horizon Boilerplates - Innovation From Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/advanced-argon-dashboard-pro-high-quality-angular-admin-theme-by-creative-tim/"><u>Advanced Argon Dashboard Pro: High-Quality Angular Admin Theme by Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/advanced-material-kit-professional-edition-for-flutter-developers-top-tier-templates-by-creative-tim/"><u>Advanced Material Kit Professional Edition for Flutter Developers | Top-Tier Templates by Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/angular-13-now-ui-dashboard-andamp-free-bootstrap-4-admin-theme-by-creative-tim/"><u>Angular 13 Now UI Dashboard &Amp; Free Bootstrap 4 Admin Theme by Creative Tim</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-magic-5-lite-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor Magic 5 Lite?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/creative-tims-vuetify-material-professional-ui-kit-ultimate-vuejs-dashboard-solution-for-web-developers/"><u>Creative Tim's Vuetify Material Professional UI Kit - Ultimate Vuejs Dashboard Solution for Web Developers</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/download-the-ultimate-free-argon-flutter-starter-kit-by-creative-tim-perfect-for-beginners/"><u>Download the Ultimate Free Argon Flutter Starter Kit by Creative Tim – Perfect for Beginners!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/driving-engagement-and-visibility-effective-strategies-for-fb-video-marketing-for-2024/"><u>Driving Engagement and Visibility Effective Strategies for FB Video Marketing for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/explore-top-tier-laracasts-php-themes-and-designs-a-comprehensive-guide-beyond-27-innovative-offerings/"><u>Explore Top-Tier Laracasts PHP Themes and Designs: A Comprehensive Guide Beyond 27 Innovative Offerings</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-v29e-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo V29e</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-se-2020-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone SE (2020) Making It Possible</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-motorola-moto-g-stylus-5g-2023-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Motorola Moto G Stylus 5G (2023) Phone Network-Ready</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/innovative-duo-of-e-commerce-designs-from-creative-tim/"><u>Innovative Duo of E-Commerce Designs From Creative Tim</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-f04-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy F04 Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-generate-funny-image-for-giphy/"><u>[New] Generate Funny Image for Giphy</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>2024 Approved 10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/create-professional-android-books-with-flipbuilder-transform-text-and-images-into-interactive-ebooks-flipbuildercom/"><u>Create Professional Android Books with FlipBuilder: Transform Text & Images Into Interactive eBooks [flipbuilder.com]</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/customize-your-own-book-layout-and-background-with-flipbuilder/"><u>Customize Your Own Book Layout & Background with FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/direct-display-of-flipbooks-on-facebook-pages-a-step-by-step-guide-with-flipbuilder/"><u>Direct Display of FlipBooks on Facebook Pages: A Step-by-Step Guide with FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/does-flipbuilder-impose-minimum-size-limits-on-uploaded-pdfs-and-supported-flipbook-dimensions/"><u>Does FlipBuilder Impose Minimum Size Limits on Uploaded PDFs and Supported Flipbook Dimensions?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/exploring-new-horizons-in-health-and-wellness-facebook-campaigns/"><u>Exploring New Horizons in Health & Wellness Facebook Campaigns</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-friendship-enhancing-virtual-worlds-the-top-10-metaverse-games/"><u>In 2024, Friendship-Enhancing Virtual Worlds The Top 10 Metaverse Games</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-smart-8-plus-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Smart 8 Plus to Another | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-elevating-your-youtube-entrance-ranks/"><u>In 2024, The Essentials of Elevating Your Youtube Entrance Ranks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/project-astra-googles-potential-game-changer-echoing-apples-impact-on-iphones-for-smart-wearables/"><u>Project Astra: Google's Potential Game-Changer, Echoing Apple’s Impact on iPhones for Smart Wearables</u></a></li>
 </ul></div>
 

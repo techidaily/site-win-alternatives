@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft's Latest AI Leap in Generative Search: Harmonizing Tradition with Modernity | Tech Analysis by ZDNet"
-date: 2024-09-24T00:22:56.672Z
-updated: 2024-09-25T21:39:18.157Z
+date: 2024-09-28T01:32:43.460Z
+updated: 2024-09-29T21:03:33.872Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,16 +136,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,22 +155,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,16 +208,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-audio-essentials-latest-speakers/"><u>[New] In 2024, Audio Essentials Latest Speakers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-obtain-and-enjoy-premium-criterion-content-downloading-award-winning-cinema/"><u>How to Obtain and Enjoy Premium Criterion Content: Downloading Award-Winning Cinema</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-transfer-your-favorite-tracks-from-spotify-to-ipad-compatible-formats-included/"><u>How to Transfer Your Favorite Tracks From Spotify to iPad - Compatible Formats Included</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-x100-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo X100 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-v29e-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo V29e Phones with/without a PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/save-gomovies-titles-as-various-formats-quick-guide-to-mp4-avi-flv-conversions/"><u>Save GoMovies Titles as Various Formats – Quick Guide to MP4, AVI, FLV Conversions!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-converting-and-downloading-cartoon-network-episodes-as-mp4-avi-flv-or-mov/"><u>Step-by-Step Guide: Converting and Downloading Cartoon Network Episodes as MP4, AVI, FLV, or MOV</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unleash-creativity-in-instagram-with-looping-tricks-for-2024/"><u>Unleash Creativity in Instagram with Looping Tricks for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-archive-powerpoint-into-video-repository/"><u>[New] In 2024, Archive PowerPoint Into Video Repository</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-navigating-zoom-for-webinars-and-livestreams/"><u>2024 Approved In-Depth Analysis Navigating Zoom for Webinars and Livestreams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-cameras-front-screen-center-stage/"><u>Advanced Cameras Front Screen Center Stage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/digital-storytelling-with-facebook-slideshow-creation-for-2024/"><u>Digital Storytelling with Facebook SlideShow Creation for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/discover-the-ultimate-list-of-2023s-top-rated-gaming-desks-expert-picks-from-zdnet/"><u>Discover the Ultimate List of 2023'S Top-Rated Gaming Desks | Expert Picks From ZDNET</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/experiencing-the-gardyn-home-kit-30-intelligent-indoor-farming-success-story-revealed/"><u>Experiencing the Gardyn Home Kit 3.0: Intelligent Indoor Farming Success Story Revealed!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-itel-a70-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Itel A70</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/major-overhaul-microsoft-revamps-windows-keyboard-design-after-years-insights-from-zdnet/"><u>Major Overhaul: Microsoft Revamps Windows Keyboard Design After Years – Insights From ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/microsoft-unveils-windows-11-latest-feature-pack-exclusive-ai-enhancements-and-rollout-details-on-zdnet/"><u>Microsoft Unveils Windows 11 Latest Feature Pack: Exclusive AI Enhancements & Rollout Details on ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/next-gen-ai-assistant-microsoft-copilot-enhances-singapore-legaltech-infrastructure-insights-for-zdnet/"><u>Next-Gen AI Assistant Microsoft Copilot Enhances Singapore LegalTech Infrastructure – Insights for ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015963111-overcoming-speakers-not-connected-errors-on-your-pc-running-windows-11-8-or-7-expert-tips-included/"><u>Overcoming 'Speakers Not Connected' Errors on Your PC Running Windows 11, 8 or 7 - Expert Tips Included!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/the-cost-of-staying-current-microsoft-announces-pricing-plan-for-windows-11-updates/"><u>The Cost of Staying Current: Microsoft Announces Pricing Plan for Windows 11 Updates</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-ranking-office-seating-solutions-the-ultimate-guide-to-2024s-premier-chair-selection/"><u>Top-Ranking Office Seating Solutions: The Ultimate Guide to 2024'S Premier Chair Selection</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/unveiling-the-secret-to-true-employee-happiness-microsofts-surprising-discovery-zdnet/"><u>Unveiling the Secret to True Employee Happiness: Microsoft's Surprising Discovery | ZDNet</u></a></li>
 </ul></div>
 

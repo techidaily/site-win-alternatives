@@ -1,7 +1,7 @@
 ---
 title: Microsoft Unveils Latest Innovations at AI Event - Top 5 Key Updates From Surface Tech Expo | ZDNet Insights
-date: 2024-09-18T21:24:02.465Z
-updated: 2024-09-25T23:19:08.366Z
+date: 2024-09-26T04:06:37.621Z
+updated: 2024-09-30T08:38:49.498Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,21 +122,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,14 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-premium-8-cam-enhancers-for-clear-broadcasting/"><u>[New] Premium 8 Cam Enhancers for Clear Broadcasting</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acemagic-unveils-preview-of-revolutionary-dual-screen-x1-early-orders-to-benefit-from-exclusive-discounts/"><u>AceMagic Unveils Preview of Revolutionary Dual-Screen X1: Early Orders to Benefit From Exclusive Discounts</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/discovering-the-variety-of-transformations-in-photo-inversion-flipbuilders-insight/"><u>Discovering the Variety of Transformations in Photo Inversion - FlipBuilder's Insight</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/email-tutorial-how-to-send-a-flipbook-file-with-displayed-cover-via-email-platforms-flipbuilder/"><u>Email Tutorial: How to Send a FlipBook File with Displayed Cover via Email Platforms (FlipBuilder)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/o-share-a-private-youtube-video-with-google-account/"><u>How to Share a Private YouTube Video with Google Account?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/improving-your-flipbook-reading-experience-a-guide-to-better-clarity-on-flipbuildercom/"><u>Improving Your Flipbook Reading Experience: A Guide to Better Clarity on FlipBuilder.com</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/integrating-flash-swf-files-into-flippingpage-presentations-a-step-by-step-tutorial-using-flipbuilder-tools/"><u>Integrating Flash SWF Files Into FlippingPage Presentations: A Step-by-Step Tutorial Using FlipBuilder Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simplify-data-interpretation-4-ways-with-chatgpt-for-pdfs/"><u>Simplify Data Interpretation: 4 Ways with ChatGPT for PDFs</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-budget-friendly-obs-optimization-techniques/"><u>[New] In 2024, Budget-Friendly OBS Optimization Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-premium-web-audio-solutions-guidebook-top-7-2023/"><u>[Updated] Premium Web Audio Solutions Guidebook Top 7 2023</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-ultimate-guide-mirillis-splash-hd-player-features-and-troubleshooting/"><u>1. Ultimate Guide: Mirillis Splash HD Player Features & Troubleshooting</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-movie-converter-convert-mpeg-avi-to-mp4-and-more-with-our-easy-tool/"><u>Free Online Movie Converter: Convert MPEG, AVI to MP4 and More with Our Easy Tool</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-se-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone SE for Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-brisk-broadcasts-adjusting-keynote-film-rates/"><u>In 2024, Brisk Broadcasts Adjusting Keynote Film Rates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leveraging-meta-ai-tools-for-enhanced-engagement-on-instagram/"><u>Leveraging Meta AI Tools for Enhanced Engagement on Instagram</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-unlock-a-locked-content-file-on-steam-platform/"><u>Resolved! How to Unlock a Locked Content File on Steam Platform</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-tutorial-on-acquiring-walla-walla-song-as-mp3-aac-flac-and-more/"><u>Step-by-Step Tutorial on Acquiring 'Walla Walla Song' As MP3, AAC, FLAC & More</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-tutorial-on-downloading-and-saving-aparat-films-as-mp4-avi-or-mov-files-to-watch-anywhere/"><u>Step-by-Step Tutorial on Downloading and Saving Aparat Films as MP4, AVI or MOV Files to Watch Anywhere</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/streamline-your-media-collection-with-tubidy-downloader-for-music-films-and-shows/"><u>Streamline Your Media Collection with Tubidy Downloader for Music, Films & Shows!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/streamsnap-toolkit-seamlessly-capture-videos-from-websites-like-vimeo-and-dailymotion/"><u>StreamSnap Toolkit: Seamlessly Capture Videos From Websites Like Vimeo & Dailymotion</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/transfer-your-spotify-favorites-two-effective-techniques-for-moving-playlists-to-tidal/"><u>Transfer Your Spotify Favorites: Two Effective Techniques for Moving Playlists to Tidal</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/transform-your-learning-experience-by-saving-and-converting-video-lessons-from-alphorm-to-preferred-file-types-using-the-reliable-alphorm-downloader-tool/"><u>Transform Your Learning Experience by Saving and Converting Video Lessons From Alphorm to Preferred File Types Using the Reliable Alphorm Downloader Tool</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-the-future-elite-key-locators-ranked/"><u>Unlocking the Future: Elite Key Locators Ranked</u></a></li>
 </ul></div>
 

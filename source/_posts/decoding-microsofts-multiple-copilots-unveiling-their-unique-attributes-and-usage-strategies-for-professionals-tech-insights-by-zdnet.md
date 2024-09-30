@@ -1,7 +1,7 @@
 ---
 title: "Decoding Microsoft's Multiple Copilots: Unveiling Their Unique Attributes & Usage Strategies for Professionals | Tech Insights by ZDNET"
-date: 2024-09-19T16:05:18.969Z
-updated: 2024-09-26T00:48:23.611Z
+date: 2024-09-23T14:31:22.729Z
+updated: 2024-09-30T07:12:16.327Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,16 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-breaking-the-streak-code-proven-techniques/"><u>[New] 2024 Approved Breaking the Streak Code Proven Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-maximize-views-with-these-top-20-thumbnail-fonts/"><u>[New] Maximize Views with These Top 20 Thumbnail Fonts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-winning-strategy-top-9-windows-apps-for-animated-gif-mastery-for-2024/"><u>[Updated] Winning Strategy Top 9 Windows Apps for Animated GIF Mastery for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-chroma-key-fundamentals-made-simple-for-newcomers/"><u>2024 Approved Chroma Key Fundamentals Made Simple for Newcomers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-download-friends-share-and-connect-effortlessly-online/"><u>2024 Approved Download Friends, Share & Connect Effortlessly Online</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-find-x6-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo Find X6 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/access-the-newly-added-dark-theme-in-bing-chat-and-improve-your-search-experience-zdnet/"><u>Access the Newly Added Dark Theme in Bing Chat and Improve Your Search Experience | ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/affordable-access-singapores-small-businesses-get-microsoft-copilot-deals-zdnet-insights/"><u>Affordable Access: Singapore's Small Businesses Get Microsoft Copilot Deals - ZDNet Insights</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/embracing-artificial-intelligence-as-everyday-reality-with-microsofts-smart-strategy-unveiled-by-zdnet/"><u>Embracing Artificial Intelligence as Everyday Reality with Microsoft's Smart Strategy - Unveiled by ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-camouflage-online-activity-on-steam/"><u>How to Camouflage Online Activity on Steam</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-all-inclusive-rundown-whats-behind-the-google-podcast-app/"><u>In 2024, All-Inclusive Rundown What's Behind the Google Podcast App?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-the-art-of-drop-down-lists-a-step-by-step-tutorial-on-building-them-fast-and-simple-with-excel-zdnet-insights/"><u>Mastering the Art of Drop-Down Lists: A Step-by-Step Tutorial on Building Them Fast & Simple with Excel | ZDNet Insights</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/microsoft-reveals-ingenious-approach-to-normalizing-ai-insights-for-solo-users-zdnet/"><u>Microsoft Reveals Ingenious Approach to Normalizing AI: Insights for Solo Users | ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/purchase-affordable-microsoft-project-and-visio-professional-licenses-at-just-20-exclusive-deal-on-zdnet/"><u>Purchase Affordable Microsoft Project & Visio Professional Licenses at Just $20 - Exclusive Deal on ZDNet!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/revealing-insights-microsoft-surveys-thousands-on-post-pandemic-workplace-transformations-shocking-outcome/"><u>Revealing Insights: Microsoft Surveys Thousands on Post-Pandemic Workplace Transformations - Shocking Outcome!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1726792603321-y-y1-mx-xn/"><u> [ Y - Y_1 = M(x - X_n) </u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-infusing-impact-best-practices-for-podcast-graphics/"><u>[New] 2024 Approved Infusing Impact Best Practices for Podcast Graphics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-innovation-at-speed-how-to-make-stunning-slow-motion-content-with-an-android/"><u>[New] In 2024, Innovation at Speed How to Make Stunning Slow-Motion Content with an Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-webcam-mastery-unique-ideas-explored/"><u>[New] In 2024, Webcam Mastery Unique Ideas Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-creativity-mobile-gadgets-ranking-leaders/"><u>[Updated] Capturing Creativity Mobile Gadgets Ranking Leaders</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-premium-laravel-admin-panel-template-lightweight-bootstrap-integration-with-free-design-themes/"><u>1. Premium Laravel Admin Panel Template: Lightweight Bootstrap Integration with Free Design Themes</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-content-on-roku-the-ultimate-selection-for-2erry-i-apologize-for-the-confusion-but-it-appears-there-was-a-typo-or-misunderstanding-with-for-2erry-4/"><u>Best Free Content on Roku: The Ultimate Selection for 2Erry, I Apologize for the Confusion but It Appears There Was a Typo or Misunderstanding with For 2Erry. If You Intended to Ask About 'for Everyone' Then Here Is an Alternative Title:</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-to-asus-x441ba-laptop-high-resolution-screen-vs-other-factors/"><u>Comprehensive Guide to Asus X4^41BA Laptop: High-Resolution Screen vs Other Factors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-when-your-dell-camera-fails-to-operate-on-a-windows-machine/"><u>Effective Fixes When Your Dell Camera Fails to Operate on a Windows Machine</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/exclusive-argon-pro-designer-toolset-superior-bootstrap-press-by-creativetim/"><u>Exclusive Argon Pro Designer Toolset - Superior Bootstrap Press by @CreativeTim</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/experience-elite-monitoring-with-argon-dashboard-pro-advanced-nodejs-dashboard-by-creative-tim/"><u>Experience Elite Monitoring with Argon Dashboard Pro - Advanced Node.js Dashboard by Creative Tim</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/free-material-dashboard-template-react-and-aspnet-core-effortless-data-visualization-with-creative-tim/"><u>Free Material Dashboard Template React & ASP.NET Core – Effortless Data Visualization with Creative Tim</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-v30-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme V30 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/maintaining-proportions-across-representations-ensures-accuracy-in-depicting-real-world-relationships-at-different-scales/"><u>Maintaining Proportions Across Representations Ensures Accuracy in Depicting Real-World Relationships at Different Scales.</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/premium-black-themed-react-admin-layout-using-bootstrap-n4-and-reactstrap-cost-free-template-by-creative-tim/"><u>Premium Black Themed React Admin Layout Using Bootstrap N4 & Reactstrap - Cost-Free Template by Creative Tim</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/pro-grade-purify-ui-control-center-built-on-chakra-tech-exclusive-design-from-creative-team/"><u>Pro-Grade Purify UI Control Center Built on Chakra Tech - Exclusive Design From Creative Team</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-3-free-nodejs-website-designs-from-creative-tim-premium-alternatives-included/"><u>Top 3 Free Node.js Website Designs From Creative Tim: Premium Alternatives Included</u></a></li>
 </ul></div>
 

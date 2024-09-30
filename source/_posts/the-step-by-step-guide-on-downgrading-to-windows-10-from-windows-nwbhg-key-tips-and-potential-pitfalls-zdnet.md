@@ -1,7 +1,7 @@
 ---
 title: "The Step-by-Step Guide on Downgrading to Windows 10 From Windows Nwbhg: Key Tips & Potential Pitfalls | ZDNet"
-date: 2024-09-24T22:36:03.503Z
-updated: 2024-09-26T00:41:55.390Z
+date: 2024-09-27T06:41:20.700Z
+updated: 2024-09-29T21:41:55.541Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-comprehensive-list-of-zoom-transcription-software-freepaid/"><u>[New] 2024 Approved Comprehensive List of Zoom Transcription Software (Free/Paid)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1716069807502-new-2024-approved-in-device-recorder-activation-huaweis-mate-1020-and-p-series-phones-p20-p10/"><u>[New] 2024 Approved In-Device Recorder Activation Huawei's Mate 10/20 & P Series Phones (P20, P10).</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-investing-5-yields-hundreds-of-new-viewers-now/"><u>[New] In 2024, Investing $5 Yields Hundreds of New Viewers Now</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-navigating-the-use-of-look-up-tables-in-photoshop-cc/"><u>[Updated] 2024 Approved Navigating the Use of Look-Up Tables in Photoshop CC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unveiling-visuals-top-10-instagram-editing-applications-for-professionals/"><u>[Updated] In 2024, Unveiling Visuals Top 10 Instagram Editing Applications for Professionals</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/a-step-by-step-guide-to-adjusting-flipbooks-background-gradient-colors-effectively/"><u>A Step-by-Step Guide to Adjusting FlipBook's Background Gradient Colors Effectively</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/beginning-sessions-with-ease-customize-your-startup-apps-using-flipbuilder/"><u>Beginning Sessions with Ease: Customize Your Startup Apps Using FlipBuilder</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/complete-flippdf-professional-tutorial-and-resources-hub-for-professionals-at-flipbuildercom/"><u>Complete FlipPDF Professional Tutorial & Resources Hub for Professionals at FlipBuilder.com</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comprehensive-guide-to-mastering-flip-presentations-unlock-your-potential-with-flippowerpoint-explore-at-flipbuildercom/"><u>Comprehensive Guide to Mastering Flip Presentations: Unlock Your Potential with FlipPowerPoint | Explore at FlipBuilder.com</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-honor-x50-gt-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Honor X50 GT Phone that is Locked?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oneplus-nord-ce-3-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On OnePlus Nord CE 3 5G? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-process-of-using-flippr-builders-paid-upload-features/"><u>Step-by-Step Process of Using Flippr Builder's Paid Upload Features</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/transform-your-pdfs-into-interactive-magazines-add-stunning-image-collections-and-videos-with-flipbuilder/"><u>Transform Your PDFs Into Interactive Magazines: Add Stunning Image Collections & Videos with FlipBuilder</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/turn-your-flipbook-into-a-functional-exe-file-for-pc-use-learn-how-with-flipbuilders-simple-guide/"><u>Turn Your Flipbook Into a Functional EXE File for PC Use – Learn How with FlipBuilder's Simple Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/understanding-multiple-output-format-capabilities-in-flip-office-pro-features-and-limits-flipbuildercom/"><u>Understanding Multiple Output Format Capabilities in Flip Office Pro: Features and Limits [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/upgrade-your-chm-documentation-to-dynamic-ebooks-a-step-by-step-guide-using-flipbuildercom/"><u>Upgrade Your CHM Documentation to Dynamic eBooks: A Step-by-Step Guide Using FlipBuilder.com</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-cutting-edge-tips-for-drone-video-refining/"><u>[Updated] In 2024, Cutting-Edge Tips for Drone Video Refining</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-steps-to-record-a-timelapse-video-on-ipad-for-2024/"><u>[Updated] Steps to Record a Timelapse Video on iPad for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-optimizing-ad-revenue-on-youtube-with-new-strategies/"><u>2024 Approved Optimizing Ad Revenue on YouTube with New Strategies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-poco-x6-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Poco X6 is off? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-the-barnes-and-noble-nook-glowlight-4-tablet/"><u>Comprehensive Review of the Barnes & Noble Nook GlowLight 4 Tablet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/discovering-the-world-of-audio-with-your-ios-device-for-2024/"><u>Discovering the World of Audio with Your iOS Device for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/get-your-favorite-shows-on-demand-by-downloading-from-alexanders-exclusive-collection/"><u>Get Your Favorite Shows on Demand by Downloading From Alexander's Exclusive Collection</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-to-saving-wistia-embeds-as-mp4-or-mov-files-on-your-device/"><u>Guide to Saving Wistia Embeds as MP4 or MOV Files on Your Device</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-obtain-and-enjoy-premium-criterion-content-downloading-award-winning-cinema/"><u>How to Obtain and Enjoy Premium Criterion Content: Downloading Award-Winning Cinema</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-transfer-your-favorite-tracks-from-spotify-to-ipad-compatible-formats-included/"><u>How to Transfer Your Favorite Tracks From Spotify to iPad - Compatible Formats Included</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-motorola-moto-g-stylus-2023-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Motorola Moto G Stylus (2023) Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-androids-premier-gamers-app-an-in-depth-look-at-kinemaster/"><u>In 2024, Android's Premier Gamer's App An In-Depth Look at KineMaster</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/save-gomovies-titles-as-various-formats-quick-guide-to-mp4-avi-flv-conversions/"><u>Save GoMovies Titles as Various Formats – Quick Guide to MP4, AVI, FLV Conversions!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-converting-and-downloading-cartoon-network-episodes-as-mp4-avi-flv-or-mov/"><u>Step-by-Step Guide: Converting and Downloading Cartoon Network Episodes as MP4, AVI, FLV, or MOV</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-tutorial-for-downloading-and-saving-bellator-matches-as-mp4-videos-on-desktop-systems/"><u>Step-by-Step Tutorial for Downloading and Saving Bellator Matches as MP4 Videos on Desktop Systems</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-tutorial-on-acquiring-walla-walla-song-as-mp3-aac-flac-and-more/"><u>Step-by-Step Tutorial on Acquiring 'Walla Walla Song' As MP3, AAC, FLAC & More</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-x9b-by-drfone-android/"><u>Three Ways to Sim Unlock Honor X9b</u></a></li>
 </ul></div>
 

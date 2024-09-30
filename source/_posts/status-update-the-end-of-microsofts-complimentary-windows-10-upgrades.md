@@ -1,7 +1,7 @@
 ---
 title: "Status Update: The End of Microsoft's Complimentary Windows 10 Upgrades"
-date: 2024-09-21T00:04:22.423Z
-updated: 2024-09-25T17:40:08.939Z
+date: 2024-09-27T03:06:29.544Z
+updated: 2024-09-29T21:28:24.546Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-backwards-play-iphones-unique-reverse-feature/"><u>[Updated] Backwards Play IPhone's Unique Reverse Feature</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-control-over-clips-with-powerdirectors-latest-24-updates/"><u>2024 Approved Complete Control Over Clips with PowerDirector's Latest '24 Updates</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-the-art-of-freeze-frames-and-slow-motion-storytelling-for-2024/"><u>Final Cut Pro X The Art of Freeze Frames and Slow Motion Storytelling for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inizia-a-usare-skype-per-chat-video-con-facilita-di-installazione/"><u>Inizia a Usare Skype per Chat Video Con Facilità Di Installazione</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/is-it-possible-to-keep-your-personalized-flipbook-configuration-alive-on-flipbuilder-between-sessions/"><u>Is It Possible to Keep Your Personalized Flipbook Configuration Alive on FlipBuilder Between Sessions?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maximize-iphone-privacy-essential-guides-on-securing-your-lock-screen-and-managing-locked-device-applications/"><u>Maximize iPhone Privacy: Essential Guides on Securing Your Lock Screen and Managing Locked Device Applications</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/personalizing-your-flash-flipbooks-aesthetics-easy-step-by-step-guide/"><u>Personalizing Your Flash FlipBook's Aesthetics - Easy Step-by-Step Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/remove-unwanted-elements-from-your-slides-with-ease-at-flipbuildercom/"><u>Remove Unwanted Elements From Your Slides with Ease at FlipBuilder.com</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/seamlessly-integrate-songs-into-your-videos-using-flipbuilder/"><u>Seamlessly Integrate Songs Into Your Videos Using FlipBuilder</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-your-guide-to-all-things-tech/"><u>Tom's Hardware - Your Guide to All Things Tech</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-real-time-speech-processing-and-action-at-no-charge/"><u>[New] 2024 Approved Real-Time Speech Processing & Action at No Charge</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-hero5-black-meets-hero5-session-a-visual-verdict/"><u>[New] Hero5 Black Meets Hero5 Session – A Visual Verdict</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-formulating-attractive-instagram-story-captions-for-2024/"><u>[Updated] Formulating Attractive Instagram Story Captions for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-beats-to-broadcast-a-compreesive-guide-to-editing-your-podcast/"><u>[Updated] From Beats to Broadcast A Compreesive Guide to Editing Your Podcast</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-friends-sharing-seeking-complete-viewability-via-smschat-services/"><u>2024 Approved Friends’ Sharing Seeking Complete Viewability via SMS/Chat Services</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/act-fast-upgrade-before-windows-11s-21h2-and-nh2-stops-getting-security-patches-what-you-need-to-know/"><u>Act Fast: Upgrade Before Windows 11'S 21H2 & Nh2 Stops Getting Security Patches - What You Need to Know!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/bypassing-the-action-issue-fixing-critical-error-103-effectively/"><u>Bypassing the 'Action!' Issue - Fixing Critical Error 103 Effectively</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/critical-deadline-approaching-for-microsofts-window-10-woes-only-one-year-to-fix-according-to-zdnet-analysis/"><u>Critical Deadline Approaching for Microsoft's Window 10 Woes; Only One Year to Fix, According to ZDNet Analysis</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/expert-review-of-the-jabra-evolve2-75-communication-setup-ideal-for-hybrid-workspaces-with-advanced-anc-and-all-day-talking-capacity-tech-insights-by-zdnet.129/"><u>Expert Review of the Jabra Evolve2 75 Communication Setup – Ideal for Hybrid Workspaces with Advanced ANC and All-Day Talking Capacity | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/exploring-microsofts-latest-innovations-from-the-october-surface-launch-zdnet/"><u>Exploring Microsoft's Latest Innovations From the October Surface Launch - ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-asus-rog-phone-7-ultimate-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Asus ROG Phone 7 Ultimate using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-ideapad-100-driver-update-and-download-tutorial-compatibility-with-windows-11-explained/"><u>Lenovo IdeaPad 100 Driver Update and Download Tutorial: Compatibility with Windows 11 Explained</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mastering-screen-captures-a-step-by-step-guide-using-action/"><u>Mastering Screen Captures: A Step-by-Step Guide Using Action!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mirillis-comprehensive-guide-understanding-user-manuals-and-eula-documentation/"><u>Mirilli's Comprehensive Guide: Understanding User Manuals & EULA Documentation</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-techniques-for-sound-isolation-preventing-noise-contamination-in-audio-capture/"><u>New Techniques for Sound Isolation Preventing Noise Contamination in Audio Capture</u></a></li>
 </ul></div>
 

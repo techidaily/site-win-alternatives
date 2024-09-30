@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secret to True Employee Happiness: Microsoft's Surprising Discovery | ZDNet"
-date: 2024-09-24T17:44:45.333Z
-updated: 2024-09-25T22:26:49.797Z
+date: 2024-09-25T00:37:40.156Z
+updated: 2024-09-30T08:23:34.511Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-exclusive-rescue-regaining-fb-passwords/"><u>[Updated] In 2024, Exclusive Rescue Regaining FB Passwords</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/advance-your-figma-skills-with-the-power-of-ai-experience-the-pro-version-of-horizon-boilerplates-innovation-from-creative-tim/"><u>Advance Your Figma Skills with the Power of AI: Experience the PRO Version of Horizon Boilerplates - Innovation From Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/advanced-argon-dashboard-pro-high-quality-angular-admin-theme-by-creative-tim/"><u>Advanced Argon Dashboard Pro: High-Quality Angular Admin Theme by Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/advanced-material-kit-professional-edition-for-flutter-developers-top-tier-templates-by-creative-tim/"><u>Advanced Material Kit Professional Edition for Flutter Developers | Top-Tier Templates by Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/angular-13-now-ui-dashboard-andamp-free-bootstrap-4-admin-theme-by-creative-tim/"><u>Angular 13 Now UI Dashboard &Amp; Free Bootstrap 4 Admin Theme by Creative Tim</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/creative-tims-vuetify-material-professional-ui-kit-ultimate-vuejs-dashboard-solution-for-web-developers/"><u>Creative Tim's Vuetify Material Professional UI Kit - Ultimate Vuejs Dashboard Solution for Web Developers</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/free-windows-11-upgrade-offer-discontinued-what-went-wrong/"><u>Free Windows 11 Upgrade Offer Discontinued: What Went Wrong?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-convert-youtube-to-mp4-safely-in-2024/"><u>How to Convert YouTube to MP4 Safely, In 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-breakdown-of-steps-perfecting-idevice-video-features-on-youtube/"><u>In 2024, Breakdown of Steps Perfecting iDevice Video Features on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-morning-analysis-unconventional-perspectives/"><u>In 2024, Morning Analysis Unconventional Perspectives</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-look-at-crucials-p31ssd-unlocking-higher-velocity-on-m2-2280-formats/"><u>In-Depth Look at Crucial's P31_SSD: Unlocking Higher Velocity on M.2 2280 Formats</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/innovative-design-meets-functionality-a-comprehensive-review-of-the-x-chair-x4-for-professionals/"><u>Innovative Design Meets Functionality: A Comprehensive Review of the X-Chair X4 for Professionals</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/is-the-accell-thunderbolt-4-windows-docking-station-top-notch-unveiling-features-and-reviews-at-zdnet/"><u>Is the Accell Thunderbolt 4 Windows Docking Station Top-Notch? Unveiling Features & Reviews at ZDNET</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/master-your-pc-with-god-mode-in-windows-11-essential-setup-steps-and-expert-reasons-for-using-it-tech-tips/"><u>Master Your PC with God Mode in Windows 11: Essential Setup Steps & Expert Reasons for Using It | Tech Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professionele-online-lusmaatrix-3g2-in-mpeg-konverteren-gratis-bij-movavi/"><u>Professionele Online Lusmaatrix: 3G2 in MPEG Konverteren Gratis Bij Movavi</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/revive-your-aging-iphone-with-this-innovative-flash-drive-essential-tips-from-zdnet/"><u>Revive Your Aging iPhone with This Innovative Flash Drive - Essential Tips From ZDNet!</u></a></li>
-<li><a href="https://win-able.techidaily.com/rocket-league-crash-fixing-the-unresponsive-game-issue/"><u>Rocket League Crash: Fixing the Unresponsive Game Issue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unmasking-the-non-detection-of-pc-gpu-issue/"><u>Unmasking the Non-Detection of PC GPU Issue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-a2-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi A2</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-social-media-savvy-ig-filter-hits/"><u>2024 Approved Social Media Savvy IG Filter Hits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-channel-growth-5-must-try-video-marketing-tactics/"><u>2024 Approved The Ultimate Guide to Channel Growth 5 Must-Try Video Marketing Tactics</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/a-step-by-step-guide-to-adjusting-flipbooks-background-gradient-colors-effectively/"><u>A Step-by-Step Guide to Adjusting FlipBook's Background Gradient Colors Effectively</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/beginning-sessions-with-ease-customize-your-startup-apps-using-flipbuilder/"><u>Beginning Sessions with Ease: Customize Your Startup Apps Using FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/complete-flippdf-professional-tutorial-and-resources-hub-for-professionals-at-flipbuildercom/"><u>Complete FlipPDF Professional Tutorial & Resources Hub for Professionals at FlipBuilder.com</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/comprehensive-guide-to-mastering-flip-presentations-unlock-your-potential-with-flippowerpoint-explore-at-flipbuildercom/"><u>Comprehensive Guide to Mastering Flip Presentations: Unlock Your Potential with FlipPowerPoint | Explore at FlipBuilder.com</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/create-professional-android-books-with-flipbuilder-transform-text-and-images-into-interactive-ebooks-flipbuildercom/"><u>Create Professional Android Books with FlipBuilder: Transform Text & Images Into Interactive eBooks [flipbuilder.com]</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-x-plane-global-flight-simulator-the-pinnacle-of-realism-and-next-gen-innovation/"><u>Expert Review of X-Plane Global Flight Simulator - The Pinnacle of Realism & Next-Gen Innovation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c22-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C22 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-11-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 11 from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncing-scores-and-screenplays-top-tunes-for-video-unboxing/"><u>In 2024, Syncing Scores and Screenplays Top Tunes for Video Unboxing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-lava-blaze-2-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Lava Blaze 2 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-high-impact-content-masterful-strategies-for-more-views-for-2024/"><u>Unlocking High-Impact Content Masterful Strategies for More Views for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/upgrade-your-chm-documentation-to-dynamic-ebooks-a-step-by-step-guide-using-flipbuildercom/"><u>Upgrade Your CHM Documentation to Dynamic eBooks: A Step-by-Step Guide Using FlipBuilder.com</u></a></li>
 </ul></div>
 
