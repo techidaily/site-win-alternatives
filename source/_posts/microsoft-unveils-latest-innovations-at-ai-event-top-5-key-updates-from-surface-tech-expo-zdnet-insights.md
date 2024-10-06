@@ -1,7 +1,7 @@
 ---
 title: Microsoft Unveils Latest Innovations at AI Event - Top 5 Key Updates From Surface Tech Expo | ZDNet Insights
-date: 2024-09-26T04:06:37.621Z
-updated: 2024-09-30T08:38:49.498Z
+date: 2024-09-30T18:22:29.602Z
+updated: 2024-10-05T18:34:18.321Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-budget-friendly-obs-optimization-techniques/"><u>[New] In 2024, Budget-Friendly OBS Optimization Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-premium-web-audio-solutions-guidebook-top-7-2023/"><u>[Updated] Premium Web Audio Solutions Guidebook Top 7 2023</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-ultimate-guide-mirillis-splash-hd-player-features-and-troubleshooting/"><u>1. Ultimate Guide: Mirillis Splash HD Player Features & Troubleshooting</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-online-movie-converter-convert-mpeg-avi-to-mp4-and-more-with-our-easy-tool/"><u>Free Online Movie Converter: Convert MPEG, AVI to MP4 and More with Our Easy Tool</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-se-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone SE for Free</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-brisk-broadcasts-adjusting-keynote-film-rates/"><u>In 2024, Brisk Broadcasts Adjusting Keynote Film Rates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leveraging-meta-ai-tools-for-enhanced-engagement-on-instagram/"><u>Leveraging Meta AI Tools for Enhanced Engagement on Instagram</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-how-to-unlock-a-locked-content-file-on-steam-platform/"><u>Resolved! How to Unlock a Locked Content File on Steam Platform</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-tutorial-on-acquiring-walla-walla-song-as-mp3-aac-flac-and-more/"><u>Step-by-Step Tutorial on Acquiring 'Walla Walla Song' As MP3, AAC, FLAC & More</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-tutorial-on-downloading-and-saving-aparat-films-as-mp4-avi-or-mov-files-to-watch-anywhere/"><u>Step-by-Step Tutorial on Downloading and Saving Aparat Films as MP4, AVI or MOV Files to Watch Anywhere</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/streamline-your-media-collection-with-tubidy-downloader-for-music-films-and-shows/"><u>Streamline Your Media Collection with Tubidy Downloader for Music, Films & Shows!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/streamsnap-toolkit-seamlessly-capture-videos-from-websites-like-vimeo-and-dailymotion/"><u>StreamSnap Toolkit: Seamlessly Capture Videos From Websites Like Vimeo & Dailymotion</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/transfer-your-spotify-favorites-two-effective-techniques-for-moving-playlists-to-tidal/"><u>Transfer Your Spotify Favorites: Two Effective Techniques for Moving Playlists to Tidal</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/transform-your-learning-experience-by-saving-and-converting-video-lessons-from-alphorm-to-preferred-file-types-using-the-reliable-alphorm-downloader-tool/"><u>Transform Your Learning Experience by Saving and Converting Video Lessons From Alphorm to Preferred File Types Using the Reliable Alphorm Downloader Tool</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-the-future-elite-key-locators-ranked/"><u>Unlocking the Future: Elite Key Locators Ranked</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-identifying-exclusion-from-chatsphere/"><u>[Updated] Identifying Exclusion From Chatsphere</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-impact-with-googles-podcast-platform/"><u>2024 Approved Maximizing Impact with Google’s Podcast Platform</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-screen-geometry-with-precision/"><u>Adjusting Screen Geometry with Precision</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/beware-latest-microsoft-patch-could-worsen-evening-work-struggles-insights-from-zdnet/"><u>Beware: Latest Microsoft Patch Could Worsen Evening Work Struggles - Insights From ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/exclusive-look-how-microsofts-new-ai-chip-could-outperform-apple-macbook-in-tech-showdown-zdnet-report/"><u>Exclusive Look: How Microsoft's New AI Chip Could Outperform Apple MacBook in Tech Showdown | ZDNet Report</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-gpts-role-in-academic-endeavors/"><u>Exploring GPT's Role in Academic Endeavors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-video-editing-with-device-filters/"><u>In 2024, Streamlining Your Video Editing with Device Filters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolved-sony-bdp-s6700-unveiled/"><u>In 2024, The Evolved Sony BDP-S6700 Unveiled</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/microsoft-announces-subscription-model-for-windows-11-updates-what-it-costs-you-zdnet/"><u>Microsoft Announces Subscription Model for Windows 11 Updates - What It Costs You? [ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/new-plan-alert-microsoft-to-implement-cost-for-future-windows-0s-updates-starting-next-year-what-youll-need-to-budget-for/"><u>New Plan Alert: Microsoft to Implement Cost for Future Windows ˈ0s Updates Starting Next Year – What You'll Need to Budget For</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connect-your-nintendo-switch-to-any-television/"><u>Ultimate Guide: Connect Your Nintendo Switch to Any Television</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ultimate-tutorial-on-building-an-optimal-windows-11-virtual-environment-insights-from-zdnet/"><u>Ultimate Tutorial on Building an Optimal Windows 11 Virtual Environment - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-need-for-stricter-ai-oversight-insights-from-openais-leader/"><u>Understanding the Need for Stricter AI Oversight: Insights From OpenAI's Leader</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/unveiling-microsofts-latest-ai-leap-in-generative-search-harmonizing-tradition-with-modernity-tech-analysis-by-zdnet/"><u>Unveiling Microsoft's Latest AI Leap in Generative Search: Harmonizing Tradition with Modernity | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/zdnet-exclusive-openai-unveils-commercial-variant-of-chatgpt-for-enterprises/"><u>ZDNet Exclusive: OpenAI Unveils Commercial Variant of ChatGPT for Enterprises</u></a></li>
 </ul></div>
 

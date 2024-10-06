@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look: How Microsoft's New AI Chip Could Outperform Apple MacBook in Tech Showdown | ZDNet Report"
-date: 2024-09-22T18:16:31.525Z
-updated: 2024-09-29T19:45:16.789Z
+date: 2024-10-03T22:44:32.882Z
+updated: 2024-10-05T20:49:49.505Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,16 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,6 +130,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## **5\. Try alternative security patching**
+
+Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
+
+**Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
 <span id="1834906">
 					<video width="864" height="864" style="cursor:pointer"
            poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
@@ -146,19 +153,6 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## **5\. Try alternative security patching**
-
-Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
-
-**Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -208,21 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/x-plus-y-plus-z-geq-15/"><u> [ X + Y + Z Geq 15 </u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-unique-content-to-differentiate-your-channel/"><u>[New] 2024 Approved Crafting Unique Content to Differentiate Your Channel</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-pivotal-point-in-view-count-for-online-earning/"><u>[Updated] 2024 Approved The Pivotal Point in View Count for Online Earning</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unwinding-a-livestream-in-seconds-seven-proven-methods-for-twitch-viewers/"><u>[Updated] 2024 Approved Unwinding a Livestream in Seconds Seven Proven Methods for Twitch Viewers</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-download-your-adventure-get-high-quality-travel-channel-footage-in-mp4-and-avi-formats/"><u>1. 'Download Your Adventure: Get High-Quality Travel Channel Footage in MP4 & AVI Formats'</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-easily-grab-videos-from-now-tv-on-pc-or-mac-with-the-ultimate-video-extractor-tool/"><u>1. Easily Grab Videos From Now TV on PC or MAC with the Ultimate Video Extractor Tool</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-step-by-step-guide-converting-and-downloading-guitar-tricks-media-in-various-formats-mp4-mov-mp3-avi/"><u>1. Step-by-Step Guide: Converting and Downloading Guitar Tricks Media in Various Formats (MP4, MOV, MP3, AVI)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-infinix-smart-8-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Infinix Smart 8</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-fixes-for-starfield-failure-to-start-up-on-your-gaming-platforms-steamxbox/"><u>Expert Fixes for Starfield Failure to Start Up on Your Gaming Platforms (Steam/Xbox)</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-template-customization-in-your-flipbook-tips-and-tricks/"><u>Mastering Template Customization in Your FlipBook - Tips & Tricks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfect-guide-uploading-subtitles-via-social-networks/"><u>Perfect Guide Uploading Subtitles via Social Networks</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-converting-your-ebooks-and-brochures-into-audiocd-with-flipbuilder-tools/"><u>Step-by-Step Guide: Converting Your eBooks and Brochures Into AudioCD with FlipBuilder Tools</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/streamline-your-audio-savings-from-youtube-playback/"><u>Streamline Your Audio Savings From YouTube Playback</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-screen-resolution-adjustments-for-the-ultimate-samsung-uhd-viewing-experience/"><u>Top Screen Resolution Adjustments for the Ultimate Samsung UHD Viewing Experience</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/transform-your-pdfs-into-elegant-flip-books-master-customizable-templates-at-flipbuilder/"><u>Transform Your PDFs Into Elegant Flip Books - Master Customizable Templates at FlipBuilder</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/transforming-your-camera-images-into-an-engaging-flipslider-showcase-using-flipbuilder/"><u>Transforming Your Camera Images Into an Engaging FlipSlider Showcase Using FlipBuilder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-share-tiktok-videos-to-facebook-in-2024/"><u>[New] How to Share TikTok Videos to Facebook, In 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-perfecting-your-tone-techniques-for-zoom-podcast-sessions/"><u>[Updated] Perfecting Your Tone Techniques for ZOOM Podcast Sessions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-top-sites-for-hilarious-audio-pranks-and-noises/"><u>1. Top Sites for Hilarious Audio Pranks and Noises</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-step-by-step-plan-efficient-vimeo-video-logging/"><u>A Step-by-Step Plan Efficient Vimeo Video Logging</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-hard-drive-defrag-software-selection-for-july-2024-reviewed/"><u>Best Free Hard Drive Defrag Software Selection for July 2024 Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-free-from-code-breakdowns-quick-windows-fixes/"><u>Breaking Free From Code Breakdowns: Quick Windows Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/debunking-myths-gpt-pc-app-wrongly-categorized/"><u>Debunking Myths: GPT PC App Wrongly Categorized</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/discover-the-best-free-introductory-designs-online-top-picks/"><u>Discover the Best Free Introductory Designs Online - Top Picks</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-choose-the-right-android-pdf-editor-in-2019-a-detailed-guide/"><u>How to Choose the Right Android PDF Editor in 2019: A Detailed Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-effortless-techniques-for-lenovo-capture-tasks/"><u>In 2024, Effortless Techniques for Lenovo Capture Tasks</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/latest-update-apowermirror-version-1463-now-includes-exciting-new-enhancements/"><u>Latest Update: ApowerMirror Version 1.4.6.3 Now Includes Exciting New Enhancements!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-xp-pen-driver-installation-a-step-by-step-tutorial/"><u>Mastering XP-Pen Driver Installation: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-editing-made-easy-a-wax-tutorial-for-beginners/"><u>New 2024 Approved Free Video Editing Made Easy A Wax Tutorial for Beginners</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-on-transforming-flac-files-into-aacm4a-format/"><u>Step-by-Step Guide on Transforming FLAC Files Into AAC/M4A Format</u></a></li>
 </ul></div>
 

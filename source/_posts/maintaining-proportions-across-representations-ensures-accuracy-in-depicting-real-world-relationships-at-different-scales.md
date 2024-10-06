@@ -1,7 +1,7 @@
 ---
 title: Maintaining Proportions Across Representations Ensures Accuracy in Depicting Real-World Relationships at Different Scales.
-date: 2024-09-25T02:35:38.951Z
-updated: 2024-09-29T20:51:01.569Z
+date: 2024-09-29T23:09:09.675Z
+updated: 2024-10-05T21:03:22.753Z
 tags:
   - product
 categories:
@@ -20,25 +20,19 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -60,21 +54,16 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-clipcomposer-critique-thorough-examination/"><u>[New] 2024 Approved ClipComposer Critique – Thorough Examination</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-unlock-the-power-of-persuasion-perfecting-your-shorts-visual-hook/"><u>2024 Approved Unlock the Power of Persuasion Perfecting Your Shorts' Visual Hook</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/breaking-down-tseries-income-strategy-on-youtube-platform/"><u>Breaking Down TSeries' Income Strategy on YouTube Platform</u></a></li>
-<li><a href="https://solve-help.techidaily.com/easy-guide-transforming-your-wma-files-into-mp3-on-mac-seamless-listening-experience/"><u>Easy Guide: Transforming Your WMA Files Into MP3 on Mac - Seamless Listening Experience</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/embracing-artificial-intelligence-as-everyday-reality-with-microsofts-smart-strategy-unveiled-by-zdnet/"><u>Embracing Artificial Intelligence as Everyday Reality with Microsoft's Smart Strategy - Unveiled by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/getting-started-with-vocal-recording-a-starters-selection-of-microphones-and-software/"><u>Getting Started with Vocal Recording: A Starter’s Selection of Microphones & Software</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-rigorous-assessments-spurred-critical-privacy-updates-at-microsoft-as-reported-by-zdnet/"><u>How Rigorous Assessments Spurred Critical Privacy Updates at Microsoft, as Reported by ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-your-division-2-crash-issues-instantly-and-effortlessly/"><u>How to Resolve Your Division 2 Crash Issues Instantly & Effortlessly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a14-4g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A14 4G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-simplified-guide-to-transform-vimeo-video-into-mp3/"><u>In 2024, Simplified Guide to Transform Vimeo Video Into MP3</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/microsoft-announces-subscription-model-for-windows-11-updates-what-it-costs-you-zdnet/"><u>Microsoft Announces Subscription Model for Windows 11 Updates - What It Costs You? [ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/microsoft-reveals-ingenious-approach-to-normalizing-ai-insights-for-solo-users-zdnet/"><u>Microsoft Reveals Ingenious Approach to Normalizing AI: Insights for Solo Users | ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/new-plan-alert-microsoft-to-implement-cost-for-future-windows-0s-updates-starting-next-year-what-youll-need-to-budget-for/"><u>New Plan Alert: Microsoft to Implement Cost for Future Windows ˈ0s Updates Starting Next Year – What You'll Need to Budget For</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/purchase-affordable-microsoft-project-and-visio-professional-licenses-at-just-20-exclusive-deal-on-zdnet/"><u>Purchase Affordable Microsoft Project & Visio Professional Licenses at Just $20 - Exclusive Deal on ZDNet!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-implemented-to-overcome-sea-of-thieves-startup-issues/"><u>Resolved: Fixes Implemented to Overcome Sea of Thieves Startup Issues</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/revealing-insights-microsoft-surveys-thousands-on-post-pandemic-workplace-transformations-shocking-outcome/"><u>Revealing Insights: Microsoft Surveys Thousands on Post-Pandemic Workplace Transformations - Shocking Outcome!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-capture-creativity-speedy-drawing-techniques-for-windows-photo-editor/"><u>[New] Capture Creativity Speedy Drawing Techniques for Windows Photo Editor</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-overcoming-missed-frames-in-real-time-streaming/"><u>[Updated] In 2024, Overcoming Missed Frames in Real-Time Streaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-best-gaming-webcams-streammers-must-try/"><u>5 Best Gaming Webcams Streammers Must Try</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/complete-flippdf-professional-tutorial-and-resources-hub-for-professionals-at-flipbuildercom/"><u>Complete FlipPDF Professional Tutorial & Resources Hub for Professionals at FlipBuilder.com</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/comprehensive-guide-to-mastering-flip-presentations-unlock-your-potential-with-flippowerpoint-explore-at-flipbuildercom/"><u>Comprehensive Guide to Mastering Flip Presentations: Unlock Your Potential with FlipPowerPoint | Explore at FlipBuilder.com</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/create-professional-android-books-with-flipbuilder-transform-text-and-images-into-interactive-ebooks-flipbuildercom/"><u>Create Professional Android Books with FlipBuilder: Transform Text & Images Into Interactive eBooks [flipbuilder.com]</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/customize-your-own-book-layout-and-background-with-flipbuilder/"><u>Customize Your Own Book Layout & Background with FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/direct-display-of-flipbooks-on-facebook-pages-a-step-by-step-guide-with-flipbuilder/"><u>Direct Display of FlipBooks on Facebook Pages: A Step-by-Step Guide with FlipBuilder</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-edges-pro-gaming-features/"><u>Discovering Edge's Pro-Gaming Features</u></a></li>
+<li><a href="https://driver-download.techidaily.com/msi-b350-thomahawk-chipset-drivers-for-windows-117-get-them-now/"><u>MSI B350 THOMAHAWK Chipset Drivers for Windows 11/7 - Get Them Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Moto G34 5G | Dr.fone</u></a></li>
 </ul></div>
 

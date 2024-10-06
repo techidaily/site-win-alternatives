@@ -1,7 +1,7 @@
 ---
 title: "Achieve Seamless Sign-Ins: Mastering Password-Free Access on Windows 10/11 - Tips From ZDNet"
-date: 2024-09-23T17:44:28.679Z
-updated: 2024-09-30T08:48:12.001Z
+date: 2024-09-28T20:52:48.604Z
+updated: 2024-10-05T19:58:52.128Z
 tags:
   - windows
 categories:
@@ -40,10 +40,10 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
@@ -56,10 +56,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -67,13 +67,6 @@ Screenshot by Lance Whitney/ZDNET
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -88,16 +81,10 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -110,6 +97,19 @@ At the window for New, choose the option for shortcut instead of folder. In the 
 When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
 
@@ -162,16 +162,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-generate-funny-image-for-giphy/"><u>[New] Generate Funny Image for Giphy</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>2024 Approved 10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/create-professional-android-books-with-flipbuilder-transform-text-and-images-into-interactive-ebooks-flipbuildercom/"><u>Create Professional Android Books with FlipBuilder: Transform Text & Images Into Interactive eBooks [flipbuilder.com]</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/customize-your-own-book-layout-and-background-with-flipbuilder/"><u>Customize Your Own Book Layout & Background with FlipBuilder</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/direct-display-of-flipbooks-on-facebook-pages-a-step-by-step-guide-with-flipbuilder/"><u>Direct Display of FlipBooks on Facebook Pages: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/does-flipbuilder-impose-minimum-size-limits-on-uploaded-pdfs-and-supported-flipbook-dimensions/"><u>Does FlipBuilder Impose Minimum Size Limits on Uploaded PDFs and Supported Flipbook Dimensions?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/exploring-new-horizons-in-health-and-wellness-facebook-campaigns/"><u>Exploring New Horizons in Health & Wellness Facebook Campaigns</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-friendship-enhancing-virtual-worlds-the-top-10-metaverse-games/"><u>In 2024, Friendship-Enhancing Virtual Worlds The Top 10 Metaverse Games</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-smart-8-plus-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Smart 8 Plus to Another | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-elevating-your-youtube-entrance-ranks/"><u>In 2024, The Essentials of Elevating Your Youtube Entrance Ranks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/project-astra-googles-potential-game-changer-echoing-apples-impact-on-iphones-for-smart-wearables/"><u>Project Astra: Google's Potential Game-Changer, Echoing Apple’s Impact on iPhones for Smart Wearables</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-leading-iphone-apps-the-ultimate-guide-to-removing-photo-clutter/"><u>[New] 2024 Approved Leading iPhone Apps The Ultimate Guide to Removing Photo Clutter</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-accelerated-8-screencap-solutions/"><u>[New] Accelerated 8 Screencap Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effective-legal-strategies-for-content-visibility-for-2024/"><u>[Updated] Effective, Legal Strategies for Content Visibility for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-screenplay-scribblers-hub/"><u>2024 Approved Top Screenplay Scribblers Hub</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/discover-the-best-free-introductory-designs-online-top-picks/"><u>Discover the Best Free Introductory Designs Online - Top Picks</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/easy-steps-pinning-screenshots-directly-onto-your-display/"><u>Easy Steps: Pinning Screenshots Directly Onto Your Display</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-choose-the-right-android-pdf-editor-in-2019-a-detailed-guide/"><u>How to Choose the Right Android PDF Editor in 2019: A Detailed Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-boosting-daily-use-tips-to-stay-active-on-facebook/"><u>In 2024, Boosting Daily Use Tips to Stay Active on Facebook</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-gt-neo-5-se-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme GT Neo 5 SE Device</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/latest-update-apowermirror-version-1463-now-includes-exciting-new-enhancements/"><u>Latest Update: ApowerMirror Version 1.4.6.3 Now Includes Exciting New Enhancements!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-on-transforming-flac-files-into-aacm4a-format/"><u>Step-by-Step Guide on Transforming FLAC Files Into AAC/M4A Format</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-rated-ios-8-keyboard-apps-enhance-your-typing-experience/"><u>Top-Rated iOS 8 Keyboard Apps: Enhance Your Typing Experience</u></a></li>
 </ul></div>
 

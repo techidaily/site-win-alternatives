@@ -1,7 +1,7 @@
 ---
 title: How Rigorous Assessments Spurred Critical Privacy Updates at Microsoft, as Reported by ZDNet
-date: 2024-09-25T03:23:02.890Z
-updated: 2024-09-30T11:10:15.696Z
+date: 2024-10-04T18:56:01.899Z
+updated: 2024-10-05T23:33:19.189Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-comprehensive-approach-to-mastering-the-art-of-instagram-reels/"><u>[New] 2024 Approved A Comprehensive Approach to Mastering the Art of Instagram Reels</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ow-much-wealth-can-you-generate-on-youtube-using-cpm-for-2024/"><u>[New] How Much Wealth Can You Generate on YouTube Using CPM for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transformations-unlocked-the-2-most-effective-ways-to-convert-video/"><u>[New] In 2024, Transformations Unlocked The 2 Most Effective Ways to Convert Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-build-your-own-google-cardboard-vr-setup/"><u>[New] Step-by-Step Build Your Own Google Cardboard VR Setup</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/access-the-newly-added-dark-theme-in-bing-chat-and-improve-your-search-experience-zdnet/"><u>Access the Newly Added Dark Theme in Bing Chat and Improve Your Search Experience | ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/download-premium-free-3d-films-at-ultra-hd-quality-for-enhanced-television-experience-1080p-and-4k-options-available/"><u>Download Premium Free 3D Films at Ultra HD Quality for Enhanced Television Experience: 1080P & 4K Options Available!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enregistrez-avec-succes-votre-prochaine-google-meet-un-guide-exhaustif-pour-tous-les-besoins/"><u>Enregistrez Avec Succès Votre Prochaine Google Meet ! Un Guide Exhaustif Pour Tous Les Besoins.</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-t2x-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo T2x 5G FRP?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-hdr-image-processing-a-lightroom-approach/"><u>In 2024, Pro HDR Image Processing A Lightroom Approach</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-check-comparing-bandicams-performance-to-competitors/"><u>In 2024, The Ultimate Check Comparing Bandicam's Performance to Competitors</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/is-paying-for-enhanced-features-worthwhile-comparing-microsoft-copilot-and-copilot-pro-pricing-plans-insights-from-zdnet/"><u>Is Paying for Enhanced Features Worthwhile? Comparing Microsoft Copilot and Copilot Pro Pricing Plans – Insights From ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/microsoft-ditches-windows-control-panel-but-is-change-really-coming-techinsights/"><u>Microsoft Ditches Windows Control Panel, But Is Change Really Coming? | TechInsights</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/microsoft-unveils-latest-innovations-at-ai-event-top-5-key-updates-from-surface-tech-expo-zdnet-insights/"><u>Microsoft Unveils Latest Innovations at AI Event - Top 5 Key Updates From Surface Tech Expo | ZDNet Insights</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/status-update-the-end-of-microsofts-complimentary-windows-10-upgrades/"><u>Status Update: The End of Microsoft's Complimentary Windows 10 Upgrades</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-best-yoga-youtube-channels-to-follow-keep-fit/"><u>[New] 10 Best Yoga YouTube Channels to Follow - Keep Fit</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-framingfraction-analysis/"><u>[Updated] 2024 Approved FramingFraction Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-steams-primary-linguistic-configuration/"><u>Change Steam’s Primary Linguistic Configuration</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-embrace-the-big-picture-facebooks-full-screen-feature-explained/"><u>In 2024, Embrace the Big Picture Facebook's Full Screen Feature Explained</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mastering-screen-recording-on-android-lollipop-a-comprehensive-tutorial/"><u>Mastering Screen Recording on Android Lollipop - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/navigating-casttingos-member-terms-and-services-guidelines/"><u>Navigating Casttingo's Member Terms and Services Guidelines</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/quick-and-simple-technique-to-eliminate-text-watermarks-on-pdf-documents/"><u>Quick and Simple Technique to Eliminate Text Watermarks on PDF Documents</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/revive-your-aging-iphone-with-this-innovative-flash-drive-essential-tips-from-zdnet/"><u>Revive Your Aging iPhone with This Innovative Flash Drive - Essential Tips From ZDNet!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-guide-to-insta-image-perfection-for-2024/"><u>The Ultimate Guide to Insta Image Perfection for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/the-ultimate-pick-of-five-superior-online-services-for-gif-compression/"><u>The Ultimate Pick of Five Superior Online Services for GIF Compression</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-free-ai-powered-video-editing-tools-unlock-the-future-of-content-creation/"><u>Top Free AI-Powered Video Editing Tools: Unlock the Future of Content Creation</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-mp3-song-download-sites-similar-to-mp3skull/"><u>Top MP3 Song Download Sites Similar to MP3Skull</u></a></li>
 </ul></div>
 
