@@ -1,7 +1,7 @@
 ---
 title: How Generation-AI Is Revolutionizing Developer Efficiency in Software Projects – Insights From ZDNet
-date: 2024-10-04T00:14:05.120Z
-updated: 2024-10-05T17:13:38.090Z
+date: 2024-10-07T05:16:47.089Z
+updated: 2024-10-10T17:23:35.594Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,29 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-premium-video-capturing-for-digital-screens/"><u>[New] 2024 Approved Premium Video Capturing for Digital Screens</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-starting-point-for-motion-visual-effects/"><u>[New] 2024 Approved Starting Point for Motion Visual Effects</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-essential-online-repositories-for-stylish-text-applications/"><u>[New] In 2024, Essential Online Repositories for Stylish Text Applications</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-voice-recording-essentials-the-filmmakers-key-to-excellence/"><u>[New] Voice Recording Essentials The Filmmaker's Key to Excellence</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-tips-for-a-smooth-transition-into-vr-worlds/"><u>[Updated] 2024 Approved Tips for a Smooth Transition Into VR Worlds</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/best-android-app-organizers-of-2013-top-5-picks/"><u>Best Android App Organizers of 2013: Top 5 Picks</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/discover-the-value-of-joining-in-depth-look-at-apowermirror-rewards-for-members/"><u>Discover the Value of Joining: In-Depth Look at ApowerMirror Rewards for Members</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/download-free-tools-easily-rip-audio-from-any-video/"><u>Download Free Tools: Easily Rip Audio From Any Video</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-holiday-gift-get-your-own-merry-christmas-with-factory-pro-ipod-video-converter-30/"><u>Free Holiday Gift: Get Your Own Merry Christmas with Factory Pro iPod Video Converter 3.0!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-correctly-install-the-hcmon-driver-and-overcome-common-issues/"><u>Guide to Correctly Install the Hcmon Driver and Overcome Common Issues</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/lost-images-restored-effortless-samsung-galaxy-phone-photo-retrieval/"><u>Lost Images Restored: Effortless Samsung Galaxy Phone Photo Retrieval</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-pokemon-masters-a-comprehensive-guide-to-pc-gameplay/"><u>Mastering Pokemon Masters: A Comprehensive Guide to PC Gameplay</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-free-flv-video-editing-tools/"><u>New The Ultimate Guide to Free FLV Video Editing Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/picture-perfect-software-and-websites-to-amp-up-your-photos-for-2024/"><u>Picture Perfect Software and Websites to Amp Up Your Photos for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-methods-for-converting-mkv-videos-into-mp3-audio-files/"><u>Top Methods for Converting MKV Videos Into MP3 Audio Files</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-mp3-song-download-sites-similar-to-mp3skull/"><u>Top MP3 Song Download Sites Similar to MP3Skull</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultimate-step-by-step-tutorial-recording-gameplay-in-roblox-across-all-platforms/"><u>Ultimate Step-by-Step Tutorial: Recording Gameplay in Roblox Across All Platforms</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/understanding-the-legalities-apowersofts-backdrop-eliminator-license-conditions/"><u>Understanding the Legalities: Apowersoft's Backdrop Eliminator License Conditions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-secure-operations-methodology-for-safe-mode-access-gpu-cleanup-on-win8/"><u>Unlock Secure Operations: Methodology for Safe Mode Access, GPU Cleanup on WIN8</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-alternative-footage-in-filmmaking/"><u>[New] Leveraging Alternative Footage in Filmmaking</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mirthful-mayhem-makers/"><u>[Updated] 2024 Approved Mirthful Mayhem Makers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-free-tribe-50-branding-banners-ready-to-unleash/"><u>[Updated] Free Tribe 50 Branding Banners Ready to Unleash</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-wit-whisperer-visual-snap/"><u>[Updated] In 2024, Wit Whisperer Visual Snap</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/boost-your-books-online-presence-create-a-social-sharing-ebook-with-flipbuilder/"><u>Boost Your Book's Online Presence: Create a Social Sharing EBook with FlipBuilder</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-dutys-cold-snap-solved-unfreeze-bocw-gameplay-with-free-fixes-and-tips/"><u>Call of Duty's Cold Snap Solved: Unfreeze BOCW Gameplay with Free Fixes & Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fog-no-more-secrets-for-crisp-clean-filming/"><u>Fog No More Secrets for Crisp, Clean Filming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/slowing-down-life-best-practices-with-gopro-hero-10s-slow-motion-for-2024/"><u>Slowing Down Life Best Practices with GoPro Hero 10'S Slow Motion for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-process-of-using-flippr-builders-paid-upload-features/"><u>Step-by-Step Process of Using Flippr Builder's Paid Upload Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharging-download-speeds-tips-and-tricks-for-ms-marketplace/"><u>Supercharging Download Speeds: Tips & Tricks for MS Marketplace</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/transform-your-pdfs-into-interactive-magazines-add-stunning-image-collections-and-videos-with-flipbuilder/"><u>Transform Your PDFs Into Interactive Magazines: Add Stunning Image Collections & Videos with FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/turn-your-flipbook-into-a-functional-exe-file-for-pc-use-learn-how-with-flipbuilders-simple-guide/"><u>Turn Your Flipbook Into a Functional EXE File for PC Use – Learn How with FlipBuilder's Simple Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-multiple-output-format-capabilities-in-flip-office-pro-features-and-limits-flipbuildercom/"><u>Understanding Multiple Output Format Capabilities in Flip Office Pro: Features and Limits [FlipBuilder.com]</u></a></li>
 </ul></div>
 

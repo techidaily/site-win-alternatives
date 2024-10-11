@@ -1,7 +1,7 @@
 ---
 title: Is Paying for Enhanced Features Worthwhile? Comparing Microsoft Copilot and Copilot Pro Pricing Plans – Insights From ZDNet
-date: 2024-09-29T23:17:10.584Z
-updated: 2024-10-05T20:08:47.984Z
+date: 2024-10-09T11:44:51.828Z
+updated: 2024-10-11T11:41:49.568Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +129,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,28 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +202,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unmissable-experiences-in-digital-playfields/"><u>[New] 2024 Approved Unmissable Experiences in Digital Playfields</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-integrate-xps-essential-movie-making-features/"><u>[Updated] Integrate XP's Essential Movie Making Features</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-maximize-your-mobile-top-10-free-image-enhancement-tools/"><u>2024 Approved Maximize Your Mobile Top 10 Free Image Enhancement Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convertisseur-video-rapide-changer-facilement-mpeg-en-wav-gratuitement-sur-movevia/"><u>Convertisseur Vidéo Rapide : Changer Facilement MPEG en WAV Gratuitement Sur MoveVia</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/download-captain-america-civil-war-in-high-quality-mp4-format-complete-guide/"><u>Download Captain America: Civil War in High-Quality MP4 Format - Complete Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/download-educational-videos-from-creativelive-as-mp4-with-easy-converter/"><u>Download Educational Videos From CreativeLive as MP4 with Easy Converter</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/download-full-episodes-from-the-extensive-alexander-media-library/"><u>Download Full Episodes From the Extensive Alexander Media Library</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/download-nerdcubeds-latest-episodes-in-various-formats-mp4-avi-and-more/"><u>Download Nerdcubed's Latest Episodes in Various Formats - MP4, AVI & More</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effective-strategies-for-accessing-and-saving-professional-trade-tutorials-on-pro-traders-club/"><u>Effective Strategies for Accessing and Saving Professional Trade Tutorials on Pro Traders CLUB</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/efficient-orbit-downloader-app-the-swift-file-transfer-solution-for-mac-os-x-and-window-users/"><u>Efficient Orbit Downloader App: The Swift File Transfer Solution for Mac OS X & Window Users</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effortless-guide-how-to-get-your-favorite-bbc-shows-on-itunes-and-dvds-using-our-simple-downloader/"><u>Effortless Guide: How to Get Your Favorite BBC Shows on iTunes & DVDs Using Our Simple Downloader</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-public-domain-art-what-is-it-and-website-recommendations/"><u>Exploring Public Domain Art What Is It and Website Recommendations</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-honor-magic-6-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Honor Magic 6 Phones with/without a PC</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-permissions-in-windows-10-how-to-get-full-access-from-trustedinstaller/"><u>Navigating Permissions in Windows 10: How to Get Full Access From TrustedInstaller</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovative-ways-to-boost-your-snapchat-engagement/"><u>[New] Innovative Ways to Boost Your Snapchat Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swift-strategies-for-iphones-and-freeipodcasts-download-techniques/"><u>[New] Swift Strategies for iPhones and FreeiPodcasts Download Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-percussive-peacock-swing/"><u>[Updated] Percussive Peacock Swing</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/authentic-ways-to-acquire-a-malwarebytes-permanent-pass-secure-steps-detailed/"><u>Authentic Ways to Acquire a Malwarebytes Permanent Pass - Secure Steps Detailed</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/best-android-app-organizers-of-2013-top-5-picks/"><u>Best Android App Organizers of 2013: Top 5 Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-the-corsair-k55-controller-software/"><u>Download and Upgrade the Corsair K55 Controller Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-gpt-tags-a-guide-to-highlighting-your-personalized-gpt-models-within-chatgpt-dialogues/"><u>Leveraging GPT Tags: A Guide to Highlighting Your Personalized GPT Models Within ChatGPT Dialogues</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/lost-images-restored-effortless-samsung-galaxy-phone-photo-retrieval/"><u>Lost Images Restored: Effortless Samsung Galaxy Phone Photo Retrieval</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mastering-pokemon-masters-a-comprehensive-guide-to-pc-gameplay/"><u>Mastering Pokemon Masters: A Comprehensive Guide to PC Gameplay</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ultimate-step-by-step-tutorial-recording-gameplay-in-roblox-across-all-platforms/"><u>Ultimate Step-by-Step Tutorial: Recording Gameplay in Roblox Across All Platforms</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-the-legalities-apowersofts-backdrop-eliminator-license-conditions/"><u>Understanding the Legalities: Apowersoft's Backdrop Eliminator License Conditions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo Y78 5G? | Dr.fone</u></a></li>
 </ul></div>
 

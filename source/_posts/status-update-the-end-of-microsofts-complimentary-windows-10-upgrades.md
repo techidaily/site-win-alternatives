@@ -1,7 +1,7 @@
 ---
 title: "Status Update: The End of Microsoft's Complimentary Windows 10 Upgrades"
-date: 2024-10-03T20:41:45.382Z
-updated: 2024-10-05T16:57:38.333Z
+date: 2024-10-04T12:48:15.286Z
+updated: 2024-10-11T13:26:38.366Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-advanced-iphone-techniques-making-and-editing-video-at-reduced-pace/"><u>[New] Advanced iPhone Techniques Making & Editing Video at Reduced Pace</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-dodging-account-penaltinas-on-youtube/"><u>[Updated] 2024 Approved Dodging Account Penaltinas on Youtube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6auy5bqm44gq44kq44oz44op44kk44oz44oe44o844or44gn6lplusf6ycf44gr6ksh5pww44gu44ot44oh44kq44ks5pya6ygp5yyw/"><u>高度なオンラインツールで迅速に複数のビデオを最適化</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/deliberating-on-auroras-contribution-to-photographic-quality/"><u>Deliberating on Aurora’s Contribution to Photographic Quality</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/embracing-the-hybrid-work-revolution-microsoft-unveils-innovative-office-essentials-zdnet-insights/"><u>Embracing the Hybrid Work Revolution: Microsoft Unveils Innovative Office Essentials - ZDNet Insights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-optimal-performance-update-hp-officejet-pro-6970-printer-drivers-for-windows-devices/"><u>Ensure Optimal Performance: Update HP OfficeJet Pro 6970 Printer Drivers for Windows Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/essential-guide-to-selecting-a-superior-dvd-conversion-software-for-easy-disc-transfers/"><u>Essential Guide to Selecting a Superior DVD Conversion Software for Easy Disc Transfers</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-apple-could-surpass-openai-microsoft-and-google-during-the-wwdc-2024-keynote-a-comprehensive-guide-zdnet/"><u>How Apple Could Surpass OpenAI, Microsoft & Google During the WWDC 2024 Keynote: A Comprehensive Guide - ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-generation-ai-is-revolutionizing-developer-efficiency-in-software-projects-insights-from-zdnet/"><u>How Generation-AI Is Revolutionizing Developer Efficiency in Software Projects – Insights From ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/introduction-a-lanatomie-humaine-parts-en-francais/"><u>Introduction À L'Anatomie Humaine: Parts en Français</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/reconsidering-the-rivalry-is-microsofts-bing-stepping-back-from-challenging-google-insights-from-zdnet/"><u>Reconsidering the Rivalry: Is Microsoft's Bing Stepping Back From Challenging Google? Insights From ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snipgear-gone-wrong-nine-effective-tips-to-get-it-running-again/"><u>SnipGear Gone Wrong? Nine Effective Tips to Get It Running Again</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/the-step-by-step-guide-on-downgrading-to-windows-10-from-windows-nwbhg-key-tips-and-potential-pitfalls-zdnet/"><u>The Step-by-Step Guide on Downgrading to Windows 10 From Windows Nwbhg: Key Tips & Potential Pitfalls | ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/upcoming-feature-microsoft-introduces-paid-windows-10-update-subscription-pricing-breakdown/"><u>Upcoming Feature: Microsoft Introduces Paid Windows 10 Update Subscription - Pricing Breakdown</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/why-you-might-think-twice-about-your-future-with-microsoft-insights-from-top-executives-zdnet/"><u>Why You Might Think Twice About Your Future with Microsoft – Insights From Top Executives - ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-link-luxuries-are-codes-more-crucial-than-cables/"><u>[New] Live Link Luxuries Are Codes More Crucial Than Cables?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-srgb-standardization-the-next-step-beyond-traditional-rgb/"><u>[Updated] 2024 Approved Srgb Standardization The Next Step Beyond Traditional Rgb</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/does-flipbuilder-impose-minimum-size-limits-on-uploaded-pdfs-and-supported-flipbook-dimensions/"><u>Does FlipBuilder Impose Minimum Size Limits on Uploaded PDFs and Supported Flipbook Dimensions?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/easy-conversion-tips-for-creating-interactive-flipbooks-from-printed-documents-on-flipbuilder/"><u>Easy Conversion Tips for Creating Interactive Flipbooks From Printed Documents on FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/enhance-user-engagement-how-to-embed-links-into-flipbook-pages-with-ease-flipbuilder-guide/"><u>Enhance User Engagement: How To Embed Links Into FlipBook Pages With Ease [FlipBuilder Guide]</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/exploring-reasons-behind-a-blank-ending-in-documents-created-with-flipbuilder-a-guide/"><u>Exploring Reasons Behind a Blank Ending in Documents Created with FlipBuilder – A Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-adding-music-and-sounds-to-your-digital-magazines-with-flipbuilders-easy-tools/"><u>Guide: Adding Music and Sounds to Your Digital Magazines with FlipBuilder's Easy Tools</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-assemble-multi-image-flip-books-efficiently-using-flipbuilders-tools-and-techniques/"><u>How to Assemble Multi-Image Flip Books Efficiently Using FlipBuilder's Tools and Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/master-your-images-with-the-best-overlay-apps-for-ios-and-android/"><u>Master Your Images with the Best Overlay Apps for iOS & Android</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-social-spheres-mastering-content-strategy-on-facebook-twitter-instagram-and-youtube/"><u>Navigating Social Spheres: Mastering Content Strategy on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/navigating-virtual-realms-the-finest-vr-technology/"><u>Navigating Virtual Realms The Finest VR Technology</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-installing-and-enabling-revo-uninstaller/"><u>Step-by-Step Guide to Installing and Enabling Revo Uninstaller</u></a></li>
 </ul></div>
 

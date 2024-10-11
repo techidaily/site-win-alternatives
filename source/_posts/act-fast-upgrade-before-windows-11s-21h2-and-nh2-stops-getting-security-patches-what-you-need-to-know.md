@@ -1,7 +1,7 @@
 ---
 title: "Act Fast: Upgrade Before Windows 11'S 21H2 & Nh2 Stops Getting Security Patches - What You Need to Know!"
-date: 2024-10-03T23:12:41.320Z
-updated: 2024-10-05T18:01:19.511Z
+date: 2024-10-07T03:37:58.604Z
+updated: 2024-10-10T23:14:24.450Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-a-step-by-step-approach-for-properly-placing-music-emojis-in-instagram/"><u>[New] A Step-by-Step Approach for Properly Placing Music Emojis in Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-vlogging-techniques-for-stellar-gopro-content/"><u>[New] Top Vlogging Techniques for Stellar GoPro Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-diving-deep-into-your-twitter-archive/"><u>2024 Approved Diving Deep Into Your Twitter Archive</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-insta-tips-for-enthusiasts-on-uploading-podcasts/"><u>2024 Approved Insta-Tips for Enthusiasts on Uploading Podcasts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-oneplus-nord-n30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from OnePlus Nord N30 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/extract-chirbit-sounds-to-various-formats-mp3-wav-flac-for-pcs-and-mac-computers/"><u>Extract Chirbit Sounds to Various Formats (MP3, WAV, FLAC) for PCs and Mac Computers</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/free-educational-videos-get-your-study-materials-from-learnerstv/"><u>Free Educational Videos - Get Your Study Materials From LearnersTV</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/get-the-best-of-online-poker-with-ruunitonce-downloads-now/"><u>Get the Best of Online Poker with RuUnItOnce Downloads Now!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/get-your-favorite-shows-on-demand-by-downloading-from-alexanders-exclusive-collection/"><u>Get Your Favorite Shows on Demand by Downloading From Alexander's Exclusive Collection</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guide-to-saving-wistia-embeds-as-mp4-or-mov-files-on-your-device/"><u>Guide to Saving Wistia Embeds as MP4 or MOV Files on Your Device</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-obtain-and-enjoy-premium-criterion-content-downloading-award-winning-cinema/"><u>How to Obtain and Enjoy Premium Criterion Content: Downloading Award-Winning Cinema</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-transfer-your-favorite-tracks-from-spotify-to-ipad-compatible-formats-included/"><u>How to Transfer Your Favorite Tracks From Spotify to iPad - Compatible Formats Included</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-top-ranked-animation-set-for-typography/"><u>In 2024, Top-Ranked Animation Set for Typography</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/save-gomovies-titles-as-various-formats-quick-guide-to-mp4-avi-flv-conversions/"><u>Save GoMovies Titles as Various Formats – Quick Guide to MP4, AVI, FLV Conversions!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-converting-and-downloading-cartoon-network-episodes-as-mp4-avi-flv-or-mov/"><u>Step-by-Step Guide: Converting and Downloading Cartoon Network Episodes as MP4, AVI, FLV, or MOV</u></a></li>
-<li><a href="https://driver-install.techidaily.com/supercharged-visuals-nvidias-direct-download/"><u>Supercharged Visuals - NVIDIA's Direct Download</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-creating-a-ken-burns-effect-in-software/"><u>Updated In 2024, The Ultimate Guide to Creating a Ken Burns Effect in Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazonprimes-winning-tweets-of-the-year-2023/"><u>[New] 2024 Approved AmazonPrime's Winning Tweets of the Year 2023</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exercise-innovations-6-youtube-ideas-for-movement-focused-viewers/"><u>[New] In 2024, Exercise Innovations 6 YouTube Ideas for Movement-Focused Viewers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-an-insiders-guide-to-flawlessly-integrating-tracks-on-youtube/"><u>2024 Approved An Insider's Guide to Flawlessly Integrating Tracks on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hand-tracking-mastery-all-methods-unveiled/"><u>2024 Approved Hand-Tracking Mastery All Methods Unveiled</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/advance-your-figma-skills-with-the-power-of-ai-experience-the-pro-version-of-horizon-boilerplates-innovation-from-creative-tim/"><u>Advance Your Figma Skills with the Power of AI: Experience the PRO Version of Horizon Boilerplates - Innovation From Creative Tim</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/advanced-argon-dashboard-pro-high-quality-angular-admin-theme-by-creative-tim/"><u>Advanced Argon Dashboard Pro: High-Quality Angular Admin Theme by Creative Tim</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/advanced-material-kit-professional-edition-for-flutter-developers-top-tier-templates-by-creative-tim/"><u>Advanced Material Kit Professional Edition for Flutter Developers | Top-Tier Templates by Creative Tim</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/angular-13-now-ui-dashboard-andamp-free-bootstrap-4-admin-theme-by-creative-tim/"><u>Angular 13 Now UI Dashboard &Amp; Free Bootstrap 4 Admin Theme by Creative Tim</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/creative-tims-vuetify-material-professional-ui-kit-ultimate-vuejs-dashboard-solution-for-web-developers/"><u>Creative Tim's Vuetify Material Professional UI Kit - Ultimate Vuejs Dashboard Solution for Web Developers</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/download-the-ultimate-free-argon-flutter-starter-kit-by-creative-tim-perfect-for-beginners/"><u>Download the Ultimate Free Argon Flutter Starter Kit by Creative Tim – Perfect for Beginners!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-m54-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy M54 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/explore-top-tier-laracasts-php-themes-and-designs-a-comprehensive-guide-beyond-27-innovative-offerings/"><u>Explore Top-Tier Laracasts PHP Themes and Designs: A Comprehensive Guide Beyond 27 Innovative Offerings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-the-evolution-from-windows-10-to-windows-11-notable-changes-unveiled/"><u>Exploring the Evolution From Windows 10 to Windows 11: Notable Changes Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-techniques-for-acquiring-pristine-images/"><u>In 2024, Expert Techniques for Acquiring Pristine Images</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-or-paid-top-8-ios-film-watching-apps-reviewed/"><u>In 2024, Free or Paid? Top 8 iOS Film-Watching Apps Reviewed</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/innovative-duo-of-e-commerce-designs-from-creative-tim/"><u>Innovative Duo of E-Commerce Designs From Creative Tim</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/updating-your-chromecast-essential-instructions-for-smooth-streaming/"><u>Updating Your Chromecast: Essential Instructions for Smooth Streaming</u></a></li>
 </ul></div>
 

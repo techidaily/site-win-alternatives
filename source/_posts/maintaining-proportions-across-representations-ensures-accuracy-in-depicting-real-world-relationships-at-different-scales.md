@@ -1,7 +1,7 @@
 ---
 title: Maintaining Proportions Across Representations Ensures Accuracy in Depicting Real-World Relationships at Different Scales.
-date: 2024-09-29T23:09:09.675Z
-updated: 2024-10-05T21:03:22.753Z
+date: 2024-10-10T13:11:45.422Z
+updated: 2024-10-11T10:49:33.697Z
 tags:
   - product
 categories:
@@ -20,19 +20,25 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,16 +60,18 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-capture-creativity-speedy-drawing-techniques-for-windows-photo-editor/"><u>[New] Capture Creativity Speedy Drawing Techniques for Windows Photo Editor</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-overcoming-missed-frames-in-real-time-streaming/"><u>[Updated] In 2024, Overcoming Missed Frames in Real-Time Streaming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/5-best-gaming-webcams-streammers-must-try/"><u>5 Best Gaming Webcams Streammers Must Try</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/complete-flippdf-professional-tutorial-and-resources-hub-for-professionals-at-flipbuildercom/"><u>Complete FlipPDF Professional Tutorial & Resources Hub for Professionals at FlipBuilder.com</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comprehensive-guide-to-mastering-flip-presentations-unlock-your-potential-with-flippowerpoint-explore-at-flipbuildercom/"><u>Comprehensive Guide to Mastering Flip Presentations: Unlock Your Potential with FlipPowerPoint | Explore at FlipBuilder.com</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/create-professional-android-books-with-flipbuilder-transform-text-and-images-into-interactive-ebooks-flipbuildercom/"><u>Create Professional Android Books with FlipBuilder: Transform Text & Images Into Interactive eBooks [flipbuilder.com]</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/customize-your-own-book-layout-and-background-with-flipbuilder/"><u>Customize Your Own Book Layout & Background with FlipBuilder</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/direct-display-of-flipbooks-on-facebook-pages-a-step-by-step-guide-with-flipbuilder/"><u>Direct Display of FlipBooks on Facebook Pages: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-edges-pro-gaming-features/"><u>Discovering Edge's Pro-Gaming Features</u></a></li>
-<li><a href="https://driver-download.techidaily.com/msi-b350-thomahawk-chipset-drivers-for-windows-117-get-them-now/"><u>MSI B350 THOMAHAWK Chipset Drivers for Windows 11/7 - Get Them Now!</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-scenes-crafting-a-screenplay/"><u>[Updated] Behind the Scenes Crafting a Screenplay</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-k11x-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo K11x Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhancing-gaming-experience-xboxpluswindows/"><u>Enhancing Gaming Experience: Xbox+Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-slow-startup-problems-with-star-wars-battlefront-ii-for-pc-users/"><u>How to Fix Slow Startup Problems with Star Wars: Battlefront II for PC Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-explore-the-finest-iosdesktop-video-to-file-converters/"><u>In 2024, Explore the Finest iOS/Desktop Video to File Converters</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-xr-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone XR Without Previous Owner?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/microsoft-announces-subscription-model-for-windows-11-updates-what-it-costs-you-zdnet/"><u>Microsoft Announces Subscription Model for Windows 11 Updates - What It Costs You? [ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/new-plan-alert-microsoft-to-implement-cost-for-future-windows-0s-updates-starting-next-year-what-youll-need-to-budget-for/"><u>New Plan Alert: Microsoft to Implement Cost for Future Windows ˈ0s Updates Starting Next Year – What You'll Need to Budget For</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-art-of-extended-frame-videos-on-iphone-for-2024/"><u>The Art of Extended Frame Videos on iPhone for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ultimate-tutorial-on-building-an-optimal-windows-11-virtual-environment-insights-from-zdnet/"><u>Ultimate Tutorial on Building an Optimal Windows 11 Virtual Environment - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unraveling-the-new-dimensions-of-vegaspro-19/"><u>Unraveling the New Dimensions of VegasPro '19</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/unveiling-microsofts-latest-ai-leap-in-generative-search-harmonizing-tradition-with-modernity-tech-analysis-by-zdnet/"><u>Unveiling Microsoft's Latest AI Leap in Generative Search: Harmonizing Tradition with Modernity | Tech Analysis by ZDNet</u></a></li>
 </ul></div>
 

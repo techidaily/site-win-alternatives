@@ -1,7 +1,7 @@
 ---
 title: "Achieve Seamless Sign-Ins: Mastering Password-Free Access on Windows 10/11 - Tips From ZDNet"
-date: 2024-09-28T20:52:48.604Z
-updated: 2024-10-05T19:58:52.128Z
+date: 2024-10-05T00:43:02.926Z
+updated: 2024-10-11T00:35:49.191Z
 tags:
   - windows
 categories:
@@ -27,6 +27,19 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -40,10 +53,10 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
@@ -56,10 +69,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -81,10 +94,16 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -97,19 +116,6 @@ At the window for New, choose the option for shortcut instead of folder. In the 
 When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
 
@@ -162,18 +168,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-leading-iphone-apps-the-ultimate-guide-to-removing-photo-clutter/"><u>[New] 2024 Approved Leading iPhone Apps The Ultimate Guide to Removing Photo Clutter</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-accelerated-8-screencap-solutions/"><u>[New] Accelerated 8 Screencap Solutions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-effective-legal-strategies-for-content-visibility-for-2024/"><u>[Updated] Effective, Legal Strategies for Content Visibility for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-screenplay-scribblers-hub/"><u>2024 Approved Top Screenplay Scribblers Hub</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/discover-the-best-free-introductory-designs-online-top-picks/"><u>Discover the Best Free Introductory Designs Online - Top Picks</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/easy-steps-pinning-screenshots-directly-onto-your-display/"><u>Easy Steps: Pinning Screenshots Directly Onto Your Display</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-choose-the-right-android-pdf-editor-in-2019-a-detailed-guide/"><u>How to Choose the Right Android PDF Editor in 2019: A Detailed Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-boosting-daily-use-tips-to-stay-active-on-facebook/"><u>In 2024, Boosting Daily Use Tips to Stay Active on Facebook</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-gt-neo-5-se-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme GT Neo 5 SE Device</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/latest-update-apowermirror-version-1463-now-includes-exciting-new-enhancements/"><u>Latest Update: ApowerMirror Version 1.4.6.3 Now Includes Exciting New Enhancements!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-on-transforming-flac-files-into-aacm4a-format/"><u>Step-by-Step Guide on Transforming FLAC Files Into AAC/M4A Format</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-rated-ios-8-keyboard-apps-enhance-your-typing-experience/"><u>Top-Rated iOS 8 Keyboard Apps: Enhance Your Typing Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-no-software-required-youtube-file-retrieval/"><u>[New] 2024 Approved No Software Required YouTube File Retrieval</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-easy-steps-for-achieving-facebooks-prestigious-blue-badge/"><u>[Updated] 2024 Approved Easy Steps for Achieving Facebook's Prestigious Blue Badge</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-download-your-adventure-get-high-quality-travel-channel-footage-in-mp4-and-avi-formats/"><u>1. 'Download Your Adventure: Get High-Quality Travel Channel Footage in MP4 & AVI Formats'</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-easily-grab-videos-from-now-tv-on-pc-or-mac-with-the-ultimate-video-extractor-tool/"><u>1. Easily Grab Videos From Now TV on PC or MAC with the Ultimate Video Extractor Tool</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-step-by-step-guide-converting-and-downloading-guitar-tricks-media-in-various-formats-mp4-mov-mp3-avi/"><u>1. Step-by-Step Guide: Converting and Downloading Guitar Tricks Media in Various Formats (MP4, MOV, MP3, AVI)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-mass-extraction-of-tiktok-content/"><u>2024 Approved Guide to Mass Extraction of TikTok Content</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nubia-red-magic-8s-proplus-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nubia Red Magic 8S Pro+ FRP</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/bulk-download-convert-and-save-zuzkas-video-collection-in-various-formats-mp4-mov-avi-etc/"><u>Bulk Download: Convert and Save Zuzka's Video Collection in Various Formats (MP4, MOV, AVI, Etc.)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mastering-template-customization-in-your-flipbook-tips-and-tricks/"><u>Mastering Template Customization in Your FlipBook - Tips & Tricks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/optimal-video-techniques-to-dominate-freefire-vlogs-for-2024/"><u>Optimal Video Techniques to Dominate FreeFire Vlogs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/proven-ways-to-enhance-fidelity-in-your-virtual-reality-captures/"><u>Proven Ways to Enhance Fidelity in Your Virtual Reality Captures</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-converting-your-ebooks-and-brochures-into-audiocd-with-flipbuilder-tools/"><u>Step-by-Step Guide: Converting Your eBooks and Brochures Into AudioCD with FlipBuilder Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-latest-in-video-capturing-apeaksoft-2023-edition-analysis/"><u>The Latest in Video Capturing Apeaksoft 2023 Edition Analysis</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-selection-leading-virtual-code-schools-of-the-year/"><u>The Ultimate Selection: Leading Virtual Code Schools of the Year</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/transform-your-pdfs-into-elegant-flip-books-master-customizable-templates-at-flipbuilder/"><u>Transform Your PDFs Into Elegant Flip Books - Master Customizable Templates at FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/transforming-your-camera-images-into-an-engaging-flipslider-showcase-using-flipbuilder/"><u>Transforming Your Camera Images Into an Engaging FlipSlider Showcase Using FlipBuilder</u></a></li>
 </ul></div>
 

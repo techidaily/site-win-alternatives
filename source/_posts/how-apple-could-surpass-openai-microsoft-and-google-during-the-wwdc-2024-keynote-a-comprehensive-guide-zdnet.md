@@ -1,7 +1,7 @@
 ---
 title: "How Apple Could Surpass OpenAI, Microsoft & Google During the WWDC 2024 Keynote: A Comprehensive Guide - ZDNet"
-date: 2024-10-03T20:34:32.864Z
-updated: 2024-10-05T16:50:37.451Z
+date: 2024-10-03T17:42:55.285Z
+updated: 2024-10-11T05:36:00.216Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/arnings-on-youtube-the-crucial-number-of-video-views-for-money/"><u>[New] Earnings on YouTube The Crucial Number of Video Views for Money</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-bridge-between-platforms-sharing-facebook-videos-on-whatsapp-for-2024/"><u>[Updated] Bridge Between Platforms Sharing Facebook Videos on WhatsApp for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensively-understanding-iphones-recording-feature/"><u>[Updated] Comprehensively Understanding iPhone's Recording Feature</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-11-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme 11 Pro Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/easy-steps-pinning-screenshots-directly-onto-your-display/"><u>Easy Steps: Pinning Screenshots Directly Onto Your Display</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-redmi-note-13-proplus-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Redmi Note 13 Pro+ 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-complete-srt-reference-manual/"><u>The Complete SRT Reference Manual</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-guide-to-androids-mobas/"><u>The Ultimate Guide to Android's MOBAs</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-rated-ios-8-keyboard-apps-enhance-your-typing-experience/"><u>Top-Rated iOS 8 Keyboard Apps: Enhance Your Typing Experience</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultimate-step-by-step-tutorial-downloading-instagram-reels-videos/"><u>Ultimate Step-by-Step Tutorial: Downloading Instagram Reels Videos</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultimate-techniques-to-boost-listenership-on-beat-1-radio-show/"><u>Ultimate Techniques to Boost Listenership on Beat 1 Radio Show</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-zoom-mastery-for-selfie-success-in-instagram-stories/"><u>[New] 2024 Approved Zoom Mastery for Selfie Success in Instagram Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-no-more-interrupted-instagram-videos-heres-how/"><u>[New] No More Interrupted Instagram Videos - Here's How</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlocking-video-potential-the-best-vlogging-cameras-ranked-for-2024/"><u>[New] Unlocking Video Potential The Best Vlogging Cameras Ranked for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-how-to-create-your-own-virtual-reality-gear-with-google-cards/"><u>[Updated] How to Create Your Own Virtual Reality Gear with Google Cards</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-innovative-platforms-simplifying-group-chats/"><u>2024 Approved Innovative Platforms Simplifying Group Chats</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-steelseries-engine-software-for-enhanced-keyboard-functionality/"><u>Get the Latest SteelSeries Engine Software for Enhanced Keyboard Functionality</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/improving-your-flipbook-reading-experience-a-guide-to-better-clarity-on-flipbuildercom/"><u>Improving Your Flipbook Reading Experience: A Guide to Better Clarity on FlipBuilder.com</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/integrating-flash-swf-files-into-flippingpage-presentations-a-step-by-step-tutorial-using-flipbuilder-tools/"><u>Integrating Flash SWF Files Into FlippingPage Presentations: A Step-by-Step Tutorial Using FlipBuilder Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-safari-image-errors-9-proven-solutions/"><u>IPhone Safari Image Errors: 9 Proven Solutions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/is-it-possible-to-keep-your-personalized-flipbook-configuration-alive-on-flipbuilder-between-sessions/"><u>Is It Possible to Keep Your Personalized Flipbook Configuration Alive on FlipBuilder Between Sessions?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/personalizing-your-flash-flipbooks-aesthetics-easy-step-by-step-guide/"><u>Personalizing Your Flash FlipBook's Aesthetics - Easy Step-by-Step Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/remove-unwanted-elements-from-your-slides-with-ease-at-flipbuildercom/"><u>Remove Unwanted Elements From Your Slides with Ease at FlipBuilder.com</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safe-dvd-duplication-can-you-rip-dvds-without-harming-them-and-best-techniques/"><u>Safe DVD Duplication: Can You Rip DVDs Without Harming Them & Best Techniques</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/seamlessly-integrate-songs-into-your-videos-using-flipbuilder/"><u>Seamlessly Integrate Songs Into Your Videos Using FlipBuilder</u></a></li>
 </ul></div>
 

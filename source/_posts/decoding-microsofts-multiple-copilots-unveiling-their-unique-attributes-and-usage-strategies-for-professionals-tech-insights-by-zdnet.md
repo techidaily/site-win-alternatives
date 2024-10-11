@@ -1,7 +1,7 @@
 ---
 title: "Decoding Microsoft's Multiple Copilots: Unveiling Their Unique Attributes & Usage Strategies for Professionals | Tech Insights by ZDNET"
-date: 2024-10-04T17:11:58.708Z
-updated: 2024-10-05T18:26:03.660Z
+date: 2024-10-09T06:58:52.911Z
+updated: 2024-10-10T22:56:02.261Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-essential-guide-to-muting-intruders-on-google-video-chats/"><u>[New] 2024 Approved The Essential Guide to Muting Intruders on Google Video Chats</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unplugged-fun-the-best-non-networked-android-apps/"><u>[New] Unplugged Fun The Best Non-Networked Android Apps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-have-too-many-tiktok-drafts-learn-how-to-edit-them/"><u>[Updated] 2024 Approved Have Too Many TikTok Drafts? Learn How to Edit Them</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-becoming-a-pro-in-lut-creation/"><u>2024 Approved Becoming a Pro in LUT Creation</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-expert-tips-for-spotifys-advertisers-for-2024/"><u>From Novice to Pro Expert Tips for Spotify's Advertisers for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-8s-proplus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 8S Pro+ Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-prevent-unwanted-recordings-quit-time-tricks/"><u>In 2024, Prevent Unwanted Recordings Quit Time Tricks</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/integrating-flash-swf-files-into-flippingpage-presentations-a-step-by-step-tutorial-using-flipbuilder-tools/"><u>Integrating Flash SWF Files Into FlippingPage Presentations: A Step-by-Step Tutorial Using FlipBuilder Tools</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/is-it-possible-to-keep-your-personalized-flipbook-configuration-alive-on-flipbuilder-between-sessions/"><u>Is It Possible to Keep Your Personalized Flipbook Configuration Alive on FlipBuilder Between Sessions?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/personalizing-your-flash-flipbooks-aesthetics-easy-step-by-step-guide/"><u>Personalizing Your Flash FlipBook's Aesthetics - Easy Step-by-Step Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/remove-unwanted-elements-from-your-slides-with-ease-at-flipbuildercom/"><u>Remove Unwanted Elements From Your Slides with Ease at FlipBuilder.com</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unveiling-the-mystery-of-msda80dll-essential-for-your-pc/"><u>Unveiling the Mystery of MSDA80.DLL - Essential for Your PC?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-visualvault-review-highlighting-the-best-recording-tools-for-2024/"><u>[Updated] VisualVault Review Highlighting the Best Recording Tools for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-non-connectivity-what-to-do-when-your-device-is-paired-but-fails-to-connect-on-windows-11/"><u>Diagnosing and Fixing Non-Connectivity: What to Do When Your Device Is Paired but Fails to Connect on Windows 11</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/discover-the-ultimate-list-of-2023s-top-rated-gaming-desks-expert-picks-from-zdnet/"><u>Discover the Ultimate List of 2023'S Top-Rated Gaming Desks | Expert Picks From ZDNET</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/experiencing-the-gardyn-home-kit-30-intelligent-indoor-farming-success-story-revealed/"><u>Experiencing the Gardyn Home Kit 3.0: Intelligent Indoor Farming Success Story Revealed!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/free-online-converter-convert-m4v-video-files-into-mp3-audio-effortless-with-movavi/"><u>Free Online Converter: Convert M4V Video Files Into MP3 Audio - Effortless with Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-ps5-wi-fi-issues-a-troubleshooting-guide/"><u>How to Fix PS5 Wi-Fi Issues: A Troubleshooting Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/major-overhaul-microsoft-revamps-windows-keyboard-design-after-years-insights-from-zdnet/"><u>Major Overhaul: Microsoft Revamps Windows Keyboard Design After Years – Insights From ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/microsoft-unveils-windows-11-latest-feature-pack-exclusive-ai-enhancements-and-rollout-details-on-zdnet/"><u>Microsoft Unveils Windows 11 Latest Feature Pack: Exclusive AI Enhancements & Rollout Details on ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-chatgpt-plus-a-comprehamoar-on-its-upsides-and-downsides/"><u>Navigating Through ChatGPT Plus: A Comprehamoar on Its Upsides and Downsides</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oneplus-ace-2-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best OnePlus Ace 2 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/redefining-visual-standards-hdr-vs-standard-sdr-for-2024/"><u>Redefining Visual Standards HDR Vs. Standard SDR for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/the-cost-of-staying-current-microsoft-announces-pricing-plan-for-windows-11-updates/"><u>The Cost of Staying Current: Microsoft Announces Pricing Plan for Windows 11 Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-choosing-the-right-dashcam-important-aspects-you-need-to-know-9/"><u>The Ultimate Guide to Choosing the Right Dashcam: Important Aspects You Need to Know (9)</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-ranking-office-seating-solutions-the-ultimate-guide-to-2024s-premier-chair-selection/"><u>Top-Ranking Office Seating Solutions: The Ultimate Guide to 2024'S Premier Chair Selection</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-rated-laptop-docking-station-comparison-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Laptop Docking Station Comparison: In-Depth Analysis by Tech Experts - ZDNet</u></a></li>
 </ul></div>
 

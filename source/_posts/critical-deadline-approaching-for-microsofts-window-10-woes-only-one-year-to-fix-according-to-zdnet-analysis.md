@@ -1,7 +1,7 @@
 ---
 title: Critical Deadline Approaching for Microsoft's Window 10 Woes; Only One Year to Fix, According to ZDNet Analysis
-date: 2024-09-28T20:55:56.735Z
-updated: 2024-10-05T19:14:24.513Z
+date: 2024-10-08T06:56:45.612Z
+updated: 2024-10-11T04:12:27.668Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>[New] In 2024, Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-inside-metaverse-how-to-build-memes-that-pop-online/"><u>[Updated] In 2024, Inside Metaverse How to Build Memes That Pop Online</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-crafting-compelling-videos-the-instagram-editors-playbook/"><u>2024 Approved Crafting Compelling Videos The Instagram Editor's Playbook</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-use-spotify-on-facebook-without-exit/"><u>How to Use Spotify on Facebook without Exit</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-11-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 11 and iPad?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-strategic-use-of-slug-lines-in-blogging/"><u>In 2024, Strategic Use of Slug Lines in Blogging</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-when-and-how-to-address-improper-pc-boot-problems/"><u>Mastering The Fix: When and How To Address Improper PC Boot Problems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-world-of-fpv-drone-propellers-for-2024/"><u>Navigating the World of FPV Drone Propellers for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-tutorial-for-downloading-and-saving-bellator-matches-as-mp4-videos-on-desktop-systems/"><u>Step-by-Step Tutorial for Downloading and Saving Bellator Matches as MP4 Videos on Desktop Systems</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-tutorial-on-acquiring-walla-walla-song-as-mp3-aac-flac-and-more/"><u>Step-by-Step Tutorial on Acquiring 'Walla Walla Song' As MP3, AAC, FLAC & More</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-tutorial-on-downloading-and-saving-aparat-films-as-mp4-avi-or-mov-files-to-watch-anywhere/"><u>Step-by-Step Tutorial on Downloading and Saving Aparat Films as MP4, AVI or MOV Files to Watch Anywhere</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/streamline-your-media-collection-with-tubidy-downloader-for-music-films-and-shows/"><u>Streamline Your Media Collection with Tubidy Downloader for Music, Films & Shows!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/streamsnap-toolkit-seamlessly-capture-videos-from-websites-like-vimeo-and-dailymotion/"><u>StreamSnap Toolkit: Seamlessly Capture Videos From Websites Like Vimeo & Dailymotion</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/transfer-your-spotify-favorites-two-effective-techniques-for-moving-playlists-to-tidal/"><u>Transfer Your Spotify Favorites: Two Effective Techniques for Moving Playlists to Tidal</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/transform-your-learning-experience-by-saving-and-converting-video-lessons-from-alphorm-to-preferred-file-types-using-the-reliable-alphorm-downloader-tool/"><u>Transform Your Learning Experience by Saving and Converting Video Lessons From Alphorm to Preferred File Types Using the Reliable Alphorm Downloader Tool</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1726792603321-y-y1-mx-xn/"><u> [ Y - Y_1 = M(x - X_n) </u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-youtube-journey-starter-pack-8-essential-online-courses/"><u>[New] In 2024, YouTube Journey Starter Pack 8 Essential Online Courses</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-premium-laravel-admin-panel-template-lightweight-bootstrap-integration-with-free-design-themes/"><u>1. Premium Laravel Admin Panel Template: Lightweight Bootstrap Integration with Free Design Themes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-evolutionary-leap-with-macos-11-big-sur-what-you-need/"><u>2024 Approved Evolutionary Leap with macOS 11 Big Sur – What You Need</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/3g23gp-movavi/"><u>線上無需付費3G2至3GP格式改變 – 利用Movavi專業轉換器</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/capturing-content-with-confidence-winning-strategies-for-igtv-acquisition-for-2024/"><u>Capturing Content with Confidence Winning Strategies for IGTV Acquisition for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-lava-blaze-2-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Lava Blaze 2 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/exclusive-argon-pro-designer-toolset-superior-bootstrap-press-by-creativetim/"><u>Exclusive Argon Pro Designer Toolset - Superior Bootstrap Press by @CreativeTim</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/experience-elite-monitoring-with-argon-dashboard-pro-advanced-nodejs-dashboard-by-creative-tim/"><u>Experience Elite Monitoring with Argon Dashboard Pro - Advanced Node.js Dashboard by Creative Tim</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c32-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia C32 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/maintaining-proportions-across-representations-ensures-accuracy-in-depicting-real-world-relationships-at-different-scales/"><u>Maintaining Proportions Across Representations Ensures Accuracy in Depicting Real-World Relationships at Different Scales.</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/premium-black-themed-react-admin-layout-using-bootstrap-n4-and-reactstrap-cost-free-template-by-creative-tim/"><u>Premium Black Themed React Admin Layout Using Bootstrap N4 & Reactstrap - Cost-Free Template by Creative Tim</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/pro-grade-purify-ui-control-center-built-on-chakra-tech-exclusive-design-from-creative-team/"><u>Pro-Grade Purify UI Control Center Built on Chakra Tech - Exclusive Design From Creative Team</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/social-marketing-milestones-the-2024-forecast-of-fb-ads/"><u>Social Marketing Milestones The 2024 Forecast of FB Ads</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-3-free-nodejs-website-designs-from-creative-tim-premium-alternatives-included/"><u>Top 3 Free Node.js Website Designs From Creative Tim: Premium Alternatives Included</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-edit-flv-files-with-ease-top-windows-8-video-editor/"><u>Updated In 2024, Edit FLV Files with Ease Top Windows 8 Video Editor</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

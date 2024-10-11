@@ -1,7 +1,7 @@
 ---
 title: "Experiencing the Gardyn Home Kit 3.0: Intelligent Indoor Farming Success Story Revealed!"
-date: 2024-09-29T19:29:22.531Z
-updated: 2024-10-05T18:32:54.396Z
+date: 2024-10-05T04:36:15.865Z
+updated: 2024-10-11T02:30:58.346Z
 tags:
   - office-furniture
 categories:
@@ -51,10 +51,10 @@ We've had the Gardyn for about two months and our first harvest is upon us. How 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setting up the Gardyn
@@ -73,6 +73,13 @@ The setup itself isn't complicated but it is involved. You're basically assembli
 
 Pro tip: Set this thing up in the location where it'll end up. I thought I was doing that, but once I had the Gardyn standing in front of me in its full glory, I realized it wasn't going to work in our boat's upstairs common area. Instead, it would be relegated to the engine room downstairs, where it would freshen the air even as our big Caterpillar diesel churned away.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How its technology works
 
 Gardyn employs what it calls Hybriponic technology, a riff on "Hydroponic," which is the generic term for growing plants in water without the use of soil.
@@ -90,10 +97,16 @@ Greg Nichols/ZDNET
 The coolest feature is also the one that's easiest to miss. The built-in cameras monitor plant growth and optimize the schedule based on your garden. The system can tell how fast your plants are growing and customize the light and watering cycle to suit your specific garden. This is vastly more powerful than simple timer-based devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## App experience 
@@ -116,13 +129,6 @@ One cool feature is that you can view your plants in real-time in your app throu
 
 The app's plant book allows for some great discoverability. I wasn't familiar with borage, for example, but look forward to growing the edible flower. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A quibble
 
 Overall I'm really impressed with the Gardyn Home Kit 3.0 and plan to use it onboard Lindy for years to come. But I do have some notes.
@@ -134,10 +140,10 @@ Lining up the tower as it's lifted back onto the base after cleaning has consist
 [Gardyn Home Kit 3.0 $695 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS4YMNQ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceafde7b8-7d82-4e79-b6cf-f79143fe6f84%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line 
@@ -192,18 +198,20 @@ A single growing stand that's expandable to 36 plants for a legit indoor farm.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-talk-turned-type-essential-apps-for-offline-speech-recognition/"><u>[New] Talk Turned Type Essential Apps for Offline Speech Recognition</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-step-by-step-strategies-downloading-audio-on-iphones/"><u>2024 Approved Step-by-Step Strategies Downloading Audio on iPhones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-s23plus-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from S23+</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-value-of-minecraft-realms-worth-your-money-or-not/"><u>Evaluating the Value of Minecraft Realms - Worth Your Money or Not?</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-honor-v-purse-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor V Purse in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-screen-recording-on-android-lollipop-a-comprehensive-tutorial/"><u>Mastering Screen Recording on Android Lollipop - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/quick-and-simple-technique-to-eliminate-text-watermarks-on-pdf-documents/"><u>Quick and Simple Technique to Eliminate Text Watermarks on PDF Documents</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/steps-to-save-your-favorite-ethiotube-videos-in-various-formats-like-mp4-mp3-mov/"><u>Steps to Save Your Favorite EthioTube Videos in Various Formats Like MP4, MP3, MOV</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-xiaomi-13-ultra-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Xiaomi 13 Ultra FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-mp3-song-download-sites-similar-to-mp3skull/"><u>Top MP3 Song Download Sites Similar to MP3Skull</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/understanding-the-legalities-apowersofts-backdrop-eliminator-license-conditions/"><u>Understanding the Legalities: Apowersoft's Backdrop Eliminator License Conditions</u></a></li>
-<li><a href="https://win11.techidaily.com/win-fixes-overcoming-firefox-page-load-issues-in-windows/"><u>Win Fixes: Overcoming Firefox Page Load Issues in Windows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-seamlessly-post-pictures-from-your-phone-for-2024/"><u>[New] How To Seamlessly Post Pictures From Your Phone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-video-hue-correction-11-steps/"><u>[New] The Essential Guide to Video Hue Correction (11 Steps)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-embark-on-avatar-adventures-building-characters-with-ease/"><u>[Updated] Embark on Avatar Adventures Building Characters with Ease</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-navigating-photo-curvature-techniques-in-ps/"><u>2024 Approved Navigating Photo Curvature Techniques in PS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-premier-moba-experiences-on-your-android-device/"><u>2024 Approved Premier MOBA Experiences on Your Android Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-memorable-visual-narratives-with-instagram-captions-for-2024/"><u>Crafting Memorable Visual Narratives with Instagram Captions for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/easy-steps-pinning-screenshots-directly-onto-your-display/"><u>Easy Steps: Pinning Screenshots Directly Onto Your Display</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-choose-the-right-android-pdf-editor-in-2019-a-detailed-guide/"><u>How to Choose the Right Android PDF Editor in 2019: A Detailed Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-motorola-moto-g84-5g-easily-by-drfone-android/"><u>How To Unlock a Motorola Moto G84 5G Easily?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-transition-from-original-pictures-to-standout-youtube-thumbnails/"><u>In 2024, Quick Transition From Original Pictures To Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/latest-update-apowermirror-version-1463-now-includes-exciting-new-enhancements/"><u>Latest Update: ApowerMirror Version 1.4.6.3 Now Includes Exciting New Enhancements!</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/leading-software-for-modifying-image-canvases-perfect-background-hue-adjustments-made-simple/"><u>Leading Software for Modifying Image Canvases - Perfect Background Hue Adjustments Made Simple</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-on-transforming-flac-files-into-aacm4a-format/"><u>Step-by-Step Guide on Transforming FLAC Files Into AAC/M4A Format</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-rated-ios-8-keyboard-apps-enhance-your-typing-experience/"><u>Top-Rated iOS 8 Keyboard Apps: Enhance Your Typing Experience</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ultimate-step-by-step-tutorial-downloading-instagram-reels-videos/"><u>Ultimate Step-by-Step Tutorial: Downloading Instagram Reels Videos</u></a></li>
 </ul></div>
 

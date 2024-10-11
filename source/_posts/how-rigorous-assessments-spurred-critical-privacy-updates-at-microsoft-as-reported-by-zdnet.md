@@ -1,7 +1,7 @@
 ---
 title: How Rigorous Assessments Spurred Critical Privacy Updates at Microsoft, as Reported by ZDNet
-date: 2024-10-04T18:56:01.899Z
-updated: 2024-10-05T23:33:19.189Z
+date: 2024-10-09T16:14:53.646Z
+updated: 2024-10-10T22:46:11.080Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -123,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/0-best-yoga-youtube-channels-to-follow-keep-fit/"><u>[New] 10 Best Yoga YouTube Channels to Follow - Keep Fit</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-framingfraction-analysis/"><u>[Updated] 2024 Approved FramingFraction Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/change-steams-primary-linguistic-configuration/"><u>Change Steam’s Primary Linguistic Configuration</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-embrace-the-big-picture-facebooks-full-screen-feature-explained/"><u>In 2024, Embrace the Big Picture Facebook's Full Screen Feature Explained</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-screen-recording-on-android-lollipop-a-comprehensive-tutorial/"><u>Mastering Screen Recording on Android Lollipop - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/navigating-casttingos-member-terms-and-services-guidelines/"><u>Navigating Casttingo's Member Terms and Services Guidelines</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/quick-and-simple-technique-to-eliminate-text-watermarks-on-pdf-documents/"><u>Quick and Simple Technique to Eliminate Text Watermarks on PDF Documents</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/revive-your-aging-iphone-with-this-innovative-flash-drive-essential-tips-from-zdnet/"><u>Revive Your Aging iPhone with This Innovative Flash Drive - Essential Tips From ZDNet!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-guide-to-insta-image-perfection-for-2024/"><u>The Ultimate Guide to Insta Image Perfection for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/the-ultimate-pick-of-five-superior-online-services-for-gif-compression/"><u>The Ultimate Pick of Five Superior Online Services for GIF Compression</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-free-ai-powered-video-editing-tools-unlock-the-future-of-content-creation/"><u>Top Free AI-Powered Video Editing Tools: Unlock the Future of Content Creation</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-mp3-song-download-sites-similar-to-mp3skull/"><u>Top MP3 Song Download Sites Similar to MP3Skull</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-heimdalls-eye-the-watchers-of-ragnarok-for-2024/"><u>[Updated] Heimdall's Eye The Watchers of Ragnarok for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-infinix-note-30-vip-racing-edition-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Infinix Note 30 VIP Racing Edition via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/crafting-engaging-bio-stories-a-guide-to-stand-out-on-fb-for-2024/"><u>Crafting Engaging Bio Stories – A Guide to Stand Out on FB for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/extract-chirbit-sounds-to-various-formats-mp3-wav-flac-for-pcs-and-mac-computers/"><u>Extract Chirbit Sounds to Various Formats (MP3, WAV, FLAC) for PCs and Mac Computers</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/free-educational-videos-get-your-study-materials-from-learnerstv/"><u>Free Educational Videos - Get Your Study Materials From LearnersTV</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/get-the-best-of-online-poker-with-ruunitonce-downloads-now/"><u>Get the Best of Online Poker with RuUnItOnce Downloads Now!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/get-your-favorite-shows-on-demand-by-downloading-from-alexanders-exclusive-collection/"><u>Get Your Favorite Shows on Demand by Downloading From Alexander's Exclusive Collection</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-to-saving-wistia-embeds-as-mp4-or-mov-files-on-your-device/"><u>Guide to Saving Wistia Embeds as MP4 or MOV Files on Your Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-obtain-and-enjoy-premium-criterion-content-downloading-award-winning-cinema/"><u>How to Obtain and Enjoy Premium Criterion Content: Downloading Award-Winning Cinema</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-transfer-your-favorite-tracks-from-spotify-to-ipad-compatible-formats-included/"><u>How to Transfer Your Favorite Tracks From Spotify to iPad - Compatible Formats Included</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instant-collage-creation-tips-for-social-media-posts/"><u>In 2024, Instant Collage Creation Tips for Social Media Posts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-scrutinizing-tseries-earnings-from-digital-viewership-on-youtube/"><u>In 2024, Scrutinizing TSeries’ Earnings From Digital Viewership on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visionaries-of-marvellous-marvel-realities/"><u>In 2024, Visionaries of Marvellous Marvel Realities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-against-windows-11-taskbar-freezing-a-comprehensive-fix-list/"><u>Winning Strategies Against Windows 11 Taskbar Freezing: A Comprehensive Fix List</u></a></li>
 </ul></div>
 

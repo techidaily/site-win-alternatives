@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look: How Microsoft's New AI Chip Could Outperform Apple MacBook in Tech Showdown | ZDNet Report"
-date: 2024-10-03T22:44:32.882Z
-updated: 2024-10-05T20:49:49.505Z
+date: 2024-10-09T10:20:24.121Z
+updated: 2024-10-11T08:03:04.229Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,22 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,19 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-share-tiktok-videos-to-facebook-in-2024/"><u>[New] How to Share TikTok Videos to Facebook, In 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-perfecting-your-tone-techniques-for-zoom-podcast-sessions/"><u>[Updated] Perfecting Your Tone Techniques for ZOOM Podcast Sessions</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-top-sites-for-hilarious-audio-pranks-and-noises/"><u>1. Top Sites for Hilarious Audio Pranks and Noises</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/a-step-by-step-plan-efficient-vimeo-video-logging/"><u>A Step-by-Step Plan Efficient Vimeo Video Logging</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-free-hard-drive-defrag-software-selection-for-july-2024-reviewed/"><u>Best Free Hard Drive Defrag Software Selection for July 2024 Reviewed</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-free-from-code-breakdowns-quick-windows-fixes/"><u>Breaking Free From Code Breakdowns: Quick Windows Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/debunking-myths-gpt-pc-app-wrongly-categorized/"><u>Debunking Myths: GPT PC App Wrongly Categorized</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/discover-the-best-free-introductory-designs-online-top-picks/"><u>Discover the Best Free Introductory Designs Online - Top Picks</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-choose-the-right-android-pdf-editor-in-2019-a-detailed-guide/"><u>How to Choose the Right Android PDF Editor in 2019: A Detailed Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-effortless-techniques-for-lenovo-capture-tasks/"><u>In 2024, Effortless Techniques for Lenovo Capture Tasks</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/latest-update-apowermirror-version-1463-now-includes-exciting-new-enhancements/"><u>Latest Update: ApowerMirror Version 1.4.6.3 Now Includes Exciting New Enhancements!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-xp-pen-driver-installation-a-step-by-step-tutorial/"><u>Mastering XP-Pen Driver Installation: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-editing-made-easy-a-wax-tutorial-for-beginners/"><u>New 2024 Approved Free Video Editing Made Easy A Wax Tutorial for Beginners</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-on-transforming-flac-files-into-aacm4a-format/"><u>Step-by-Step Guide on Transforming FLAC Files Into AAC/M4A Format</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-live-tv-on-your-desktop-windows-pc-masterclass-in-capturing-screens-for-2024/"><u>[New] Live TV on Your Desktop Windows PC Masterclass in Capturing Screens for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/a-comprehensive-guide-on-funding-your-flipbuildercom-uploads/"><u>A Comprehensive Guide on Funding Your FlipBuilder.com Uploads</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/can-you-display-business-details-in-a-rotating-ebook-format-with-flipbuilder/"><u>Can You Display Business Details in a Rotating eBook Format with FlipBuilder?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/create-stylish-digital-magazines-effortlessly-using-our-trendy-templates-at-flipbuildercom/"><u>Create Stylish Digital Magazines Effortlessly Using Our Trendy Templates at FlipBuilder.com</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/create-trendy-digital-scrapbooks-using-stylish-templates-on-flipbook-builder/"><u>Create Trendy Digital Scrapbooks Using Stylish Templates on FlipBook Builder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/discovering-the-variety-of-transformations-in-photo-inversion-flipbuilders-insight/"><u>Discovering the Variety of Transformations in Photo Inversion - FlipBuilder's Insight</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/email-tutorial-how-to-send-a-flipbook-file-with-displayed-cover-via-email-platforms-flipbuilder/"><u>Email Tutorial: How to Send a FlipBook File with Displayed Cover via Email Platforms (FlipBuilder)</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/enhance-your-web-projects-with-notus-design-system-pro-the-ultimate-advanced-tailwind-css-framework-from-creative-tim/"><u>Enhance Your Web Projects with Notus Design System Pro - The Ultimate Advanced Tailwind CSS Framework From Creative Tim</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-windows-update-problems-a-comprehve-guide/"><u>How to Overcome Windows Update Problems - A Comprehve Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-stop-recording-on-quicktime/"><u>How To Stop Recording on QuickTime</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-xr-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone XR Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-television-archive-advanced-techniques-for-online-streams/"><u>In 2024, Television Archive Advanced Techniques for Online Streams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-bargains-what-to-expect-from-amazon-prime-day-2024/"><u>Navigating the Bargains: What to Expect From Amazon Prime Day 2024?</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-your-lenovos-malfunctioning-fingerprint-scanner/"><u>Quick Solutions: Resolving Your Lenovo's Malfunctioning Fingerprint Scanner</u></a></li>
+<li><a href="https://techidaily.com/starting-windows-10-safely-discover-the-top-4-techniques-with-visual-guides/"><u>Starting Windows 10 Safely: Discover the Top 4 Techniques with Visual Guides</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Unveils Latest Innovations at AI Event - Top 5 Key Updates From Surface Tech Expo | ZDNet Insights
-date: 2024-09-30T18:22:29.602Z
-updated: 2024-10-05T18:34:18.321Z
+date: 2024-10-07T00:11:19.453Z
+updated: 2024-10-11T11:38:30.345Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-identifying-exclusion-from-chatsphere/"><u>[Updated] Identifying Exclusion From Chatsphere</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-impact-with-googles-podcast-platform/"><u>2024 Approved Maximizing Impact with Google’s Podcast Platform</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-screen-geometry-with-precision/"><u>Adjusting Screen Geometry with Precision</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/beware-latest-microsoft-patch-could-worsen-evening-work-struggles-insights-from-zdnet/"><u>Beware: Latest Microsoft Patch Could Worsen Evening Work Struggles - Insights From ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/exclusive-look-how-microsofts-new-ai-chip-could-outperform-apple-macbook-in-tech-showdown-zdnet-report/"><u>Exclusive Look: How Microsoft's New AI Chip Could Outperform Apple MacBook in Tech Showdown | ZDNet Report</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-gpts-role-in-academic-endeavors/"><u>Exploring GPT's Role in Academic Endeavors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-video-editing-with-device-filters/"><u>In 2024, Streamlining Your Video Editing with Device Filters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-evolved-sony-bdp-s6700-unveiled/"><u>In 2024, The Evolved Sony BDP-S6700 Unveiled</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/microsoft-announces-subscription-model-for-windows-11-updates-what-it-costs-you-zdnet/"><u>Microsoft Announces Subscription Model for Windows 11 Updates - What It Costs You? [ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/new-plan-alert-microsoft-to-implement-cost-for-future-windows-0s-updates-starting-next-year-what-youll-need-to-budget-for/"><u>New Plan Alert: Microsoft to Implement Cost for Future Windows ˈ0s Updates Starting Next Year – What You'll Need to Budget For</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connect-your-nintendo-switch-to-any-television/"><u>Ultimate Guide: Connect Your Nintendo Switch to Any Television</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultimate-tutorial-on-building-an-optimal-windows-11-virtual-environment-insights-from-zdnet/"><u>Ultimate Tutorial on Building an Optimal Windows 11 Virtual Environment - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-need-for-stricter-ai-oversight-insights-from-openais-leader/"><u>Understanding the Need for Stricter AI Oversight: Insights From OpenAI's Leader</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/unveiling-microsofts-latest-ai-leap-in-generative-search-harmonizing-tradition-with-modernity-tech-analysis-by-zdnet/"><u>Unveiling Microsoft's Latest AI Leap in Generative Search: Harmonizing Tradition with Modernity | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/zdnet-exclusive-openai-unveils-commercial-variant-of-chatgpt-for-enterprises/"><u>ZDNet Exclusive: OpenAI Unveils Commercial Variant of ChatGPT for Enterprises</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-capture-your-skype-sessions-on-mac-and-windows/"><u>[Updated] In 2024, How to Capture Your Skype Sessions on Mac and Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tactical-approach-to-effortless-ipad-screen-records/"><u>[Updated] Tactical Approach to Effortless iPad Screen Records</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-transforming-unboxing-into-art/"><u>2024 Approved Transforming Unboxing Into Art</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/a-step-by-step-guide-to-adjusting-flipbooks-background-gradient-colors-effectively/"><u>A Step-by-Step Guide to Adjusting FlipBook's Background Gradient Colors Effectively</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/beginning-sessions-with-ease-customize-your-startup-apps-using-flipbuilder/"><u>Beginning Sessions with Ease: Customize Your Startup Apps Using FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/complete-flippdf-professional-tutorial-and-resources-hub-for-professionals-at-flipbuildercom/"><u>Complete FlipPDF Professional Tutorial & Resources Hub for Professionals at FlipBuilder.com</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/comprehensive-guide-to-mastering-flip-presentations-unlock-your-potential-with-flippowerpoint-explore-at-flipbuildercom/"><u>Comprehensive Guide to Mastering Flip Presentations: Unlock Your Potential with FlipPowerPoint | Explore at FlipBuilder.com</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/create-professional-android-books-with-flipbuilder-transform-text-and-images-into-interactive-ebooks-flipbuildercom/"><u>Create Professional Android Books with FlipBuilder: Transform Text & Images Into Interactive eBooks [flipbuilder.com]</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/customize-your-own-book-layout-and-background-with-flipbuilder/"><u>Customize Your Own Book Layout & Background with FlipBuilder</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/direct-display-of-flipbooks-on-facebook-pages-a-step-by-step-guide-with-flipbuilder/"><u>Direct Display of FlipBooks on Facebook Pages: A Step-by-Step Guide with FlipBuilder</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-mystery-maneuvers-effortless-enhancement-techniques/"><u>In 2024, Mystery Maneuvers Effortless Enhancement Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-tv-deactivation-made-easy/"><u>Instagram TV Deactivation Made Easy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-6-best-large-language-models/"><u>The 6 Best Large Language Models</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-motorola-one-hyper-reviewed-exceptional-specs-and-value-for-a-budget-friendly-device/"><u>The Motorola One Hyper Reviewed - Exceptional Specs and Value for a Budget-Friendly Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oneplus-nord-ce-3-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from OnePlus Nord CE 3 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-update-failure-code-0x8024800c/"><u>Troubleshooting Windows Update Failure: Code 0X8024800C</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-multiple-output-format-capabilities-in-flip-office-pro-features-and-limits-flipbuildercom/"><u>Understanding Multiple Output Format Capabilities in Flip Office Pro: Features and Limits [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/upgrade-your-chm-documentation-to-dynamic-ebooks-a-step-by-step-guide-using-flipbuildercom/"><u>Upgrade Your CHM Documentation to Dynamic eBooks: A Step-by-Step Guide Using FlipBuilder.com</u></a></li>
 </ul></div>
 
