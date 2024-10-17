@@ -1,7 +1,7 @@
 ---
 title: EmEditor HTML Bar Plugin Options - Text Editing Enhancements From Beta 8 to Beta 12
-date: 2024-10-08T19:23:47.975Z
-updated: 2024-10-10T20:10:08.340Z
+date: 2024-10-13T16:00:24.950Z
+updated: 2024-10-17T16:01:29.113Z
 tags:
   - product
 categories:
@@ -49,27 +49,26 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-2023s-leading-vr-game-development-tools/"><u>[New] 2024 Approved 2023'S Leading VR Game Development Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nsightful-analysis-the-impact-and-mechanics-of-youtubes-shorts-fund-for-2024/"><u>[New] Insightful Analysis The Impact and Mechanics of YouTube's Shorts Fund for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-achieve-financial-insight-the-simple-three-steps-to-assess-youtube-earning-potential/"><u>[Updated] 2024 Approved Achieve Financial Insight The Simple Three Steps To Assess YouTube Earning Potential</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-masterful-gameplay-transmission-with-obs-studio/"><u>[Updated] Masterful Gameplay Transmission with OBS Studio</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/download-educational-videos-from-creativelive-as-mp4-with-easy-converter/"><u>Download Educational Videos From CreativeLive as MP4 with Easy Converter</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/download-full-episodes-from-the-extensive-alexander-media-library/"><u>Download Full Episodes From the Extensive Alexander Media Library</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/download-nerdcubeds-latest-episodes-in-various-formats-mp4-avi-and-more/"><u>Download Nerdcubed's Latest Episodes in Various Formats - MP4, AVI & More</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effective-strategies-for-accessing-and-saving-professional-trade-tutorials-on-pro-traders-club/"><u>Effective Strategies for Accessing and Saving Professional Trade Tutorials on Pro Traders CLUB</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/efficient-orbit-downloader-app-the-swift-file-transfer-solution-for-mac-os-x-and-window-users/"><u>Efficient Orbit Downloader App: The Swift File Transfer Solution for Mac OS X & Window Users</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effortless-guide-how-to-get-your-favorite-bbc-shows-on-itunes-and-dvds-using-our-simple-downloader/"><u>Effortless Guide: How to Get Your Favorite BBC Shows on iTunes & DVDs Using Our Simple Downloader</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/extract-chirbit-sounds-to-various-formats-mp3-wav-flac-for-pcs-and-mac-computers/"><u>Extract Chirbit Sounds to Various Formats (MP3, WAV, FLAC) for PCs and Mac Computers</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-razr-40-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Razr 40 Ultra to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-raw-to-polished-a-complete-picture-guide/"><u>In 2024, From Raw to Polished A Complete Picture Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-expert-advice-on-archiving-sports-from-live-feeds-for-2024/"><u>[New] Expert Advice on Archiving Sports From Live Feeds for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-25-essential-hashtags-for-increased-instagram-engagement-for-2024/"><u>[Updated] 25 Essential Hashtags for Increased Instagram Engagement for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/s/"><u>「処理完了：ドライブを使用している間、システム保護モードをオンにしてくだsれ」</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/comprehensive-free-nas-backup-strategies-for-windows-users-insights-for-versions-11-10-8-and-7/"><u>Comprehensive Free NAS Backup Strategies for Windows Users: Insights for Versions 11, 10, 8 and 7</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/exclusive-melodic-selections-for-video-editing-for-2024/"><u>Exclusive Melodic Selections for Video Editing for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guia-completa-para-la-creacion-de-copias-de-seguridad-incrementales-y-diferenciales/"><u>Guía Completa Para La Creación De Copias De Seguridad Incrementales Y Diferenciales</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-storage-deals-cloud-pricing-of-future-year/"><u>In 2024, Best Storage Deals Cloud Pricing of Future Year</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-2023-no-cost-live-stream-tools-cross-platform-edition/"><u>In 2024, Top 2023 No-Cost Live Stream Tools Cross-Platform Edition</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/la-methode-la-plus-efficace-pour-transferer-les-fichiers-donedrive-vers-un-ordinateur-windows-11/"><u>La Méthode La Plus Efficace Pour Transférer Les Fichiers D'OneDrive Vers Un Ordinateur Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/meet-more-people-today-with-these-5-recommended-apps/"><u>Meet More People Today with These 5 Recommended Apps</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/resolved-how-to-retrieve-lost-information-following-ios-15-upgrade-issues/"><u>Resolved: How To Retrieve Lost Information Following iOS 15 Upgrade Issues</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/section-3a-advanced-goal-setting-techniques-in-social-work/"><u>Section 3A: Advanced Goal Setting Techniques in Social Work</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-streamers-for-real-time-television-content/"><u>Top 10 Streamers for Real-Time Television Content</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
