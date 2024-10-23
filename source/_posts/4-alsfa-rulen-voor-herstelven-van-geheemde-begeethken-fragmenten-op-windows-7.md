@@ -1,7 +1,7 @@
 ---
 title: 4 ALSFA RULEN VOOR HERSTELVEN VAN GEHEEMDE BEGEETHĈKEN FRAGMENTEN Op Windows 7
-date: 2024-10-12T16:00:39.940Z
-updated: 2024-10-17T16:00:58.590Z
+date: 2024-10-15T23:49:17.887Z
+updated: 2024-10-23T03:09:56.205Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4f442cf2fb2227aedd89e7821028b21747d22144c354cf210b05071a53d43806.jpg
@@ -36,10 +36,10 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
@@ -73,10 +73,10 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
@@ -87,6 +87,13 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -94,6 +101,13 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -104,10 +118,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
@@ -142,23 +156,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -188,14 +188,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,22 +218,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-integrating-slack-and-filmora-for-smooth-meeting-operations-for-2024/"><u>[New] Integrating Slack & Filmora for Smooth Meeting Operations for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>[New] Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-finest-iosdesktop-video-to-file-converters/"><u>[Updated] Explore the Finest iOS/Desktop Video to File Converters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-cost-effective-high-performance-asmr-microphones-guide/"><u>2024 Approved Cost-Effective, High-Performance ASMR Microphones Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/5pa55rov5q246yke5asw572u56gs55uk5yiw5ywi5ymn54mi5pysic0g6k6t5l2g6yen5l6g5lia5qyh/"><u>方法歸還外置硬盤到先前版本 - 讓你重來一次</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/automatiser-les-planifications-avec-synctoy-sur-windows-11-guide-complet/"><u>Automatiser Les Planifications Avec Synctoy Sur Windows 11 - Guide Complet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/clear-shots-for-youtube-filmmakers/"><u>Clear Shots for YouTube Filmmakers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversione-gratuita-da-mp3-a-wav-offline-videosoft/"><u>Conversione Gratuita Da MP3 a WAV Offline - VideoSoft</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/expert-guide-discovering-and-showcasing-the-recovery-partition-within-your-windows-operating-system/"><u>Expert Guide: Discovering and Showcasing the Recovery Partition Within Your Windows Operating System</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/fixing-iphone-touchscreen-issues-following-ios-15-and-16-software-updates/"><u>Fixing iPhone Touchscreen Issues Following iOS 15 and 16 Software Updates</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guia-completa-para-configurar-una-unidad-de-emergencia-en-windows-10-dos-metodos-practicos/"><u>Guía Completa Para Configurar Una Unidad De Emergencia en Windows 10: Dos Métodos Prácticos</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guide-complet-pour-reactiver-les-fonctions-systemes-avec-une-recharge-propre-sur-windows-10-ou-11/"><u>Guide Complet Pour Reactiver Les Fonctions Systemes Avec Une Recharge Propre Sur Windows 10 Ou 11</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-fix-inaccessible-boot-device-on-windows-server-2012-r2-top-6-tips/"><u>How to Fix Inaccessible Boot Device on Windows Server 2012 R2 - Top 6 Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-c53-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme C53 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-selection-of-windows-compatible-vo-recording-apps-for-professionals/"><u>The Ultimate Selection of Windows-Compatible VO Recording Apps for Professionals</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/tout-migration-realisee-facilement-avec-le-logiciel-de-clonage-sk-hynix-top/"><u>Tout Migration Réalisée Facilement Avec Le Logiciel De Clonage SK Hynix Top</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-how-to-add-effects-in-3-steps-do-with-fcp-x-for-2024/"><u>Updated How To Add Effects in 3 Steps? Do with FCP X for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pros-picks-for-shaky-free-footage-the-top-10-camcorder-lineup/"><u>2024 Approved Pro's Picks for Shaky-Free Footage The Top 10 Camcorder Lineup</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/5lin5pio556t44gq44or44o844og44kj44k344on44oz44gl44kj44gu44oh44o844k5yplusw5b6x44o75lplusu5b6p44ks44kk44oj44op44kk44oz/"><u>不明瞭なパーティションからのデータ取得・修復ガイドライン</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/efficient-language-learning-10-minute-routines/"><u>Efficient Language Learning, 10-Minute Routines</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-vimeo-video-downloads-unveiling-3-premium-yet-gratis-applications-for-seamless-saving/"><u>Effortless Vimeo Video Downloads: Unveiling 3 Premium Yet Gratis Applications for Seamless Saving</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guida-completa-come-configurare-windows-7-su-un-nvme-ssd-in-tre-metodi-efficaci/"><u>Guida Completa: Come Configurare Windows 7 Su Un NVMe SSD in Tre Metodi Efficaci</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-facile-pour-transferer-windows-11-dun-ssd-a-un-autre-sous-securite-de-demarrage/"><u>Guide Facile Pour Transférer Windows 11 D'un SSD À Un Autre Sous Sécurité De Démarrage</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-14-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 14</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-solve-non-responsive-download-folders-in-windows-11-repair-techniques/"><u>How To Solve Non-Responsive Download Folders in Windows 11 | Repair Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-find-n3-flip-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Find N3 Flip FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-free-wmv-video-concatenation-software/"><u>New 2024 Approved The Best Free WMV Video Concatenation Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/procedures-simples-pour-activer-la-sauvegarde-programmee-sur-le-serveur-windows/"><u>Procédures Simples Pour Activer La Sauvegarde Programmée Sur Le Serveur Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolved-windows-error-during-disk-formatting-fix-and-steps/"><u>Resolved: Windows Error During Disk Formatting - Fix and Steps</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-how-to-transfer-your-windows-os-111087-onto-a-new-pc/"><u>Step by Step Guide: How to Transfer Your Windows OS (11/10/8/7) Onto a New PC</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-activating-hyper-v-remote-management-features/"><u>Step-by-Step Guide: Activating Hyper-V Remote Management Features</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-code-6-bugs-enhancing-your-experience-with-call-of-duty-on-pc/"><u>Troubleshooting Code 6 Bugs: Enhancing Your Experience with Call of Duty on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-mystery-of-affective-computing-can-artificial-intelligence-genuinely-comprehend-your-emotional-state/"><u>Unveiling the Mystery of Affective Computing: Can Artificial Intelligence Genuinely Comprehend Your Emotional State?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/wie-beeinflusst-das-loschen-von-alt-iphones-die-funktion-auf-neueren-modellen/"><u>Wie Beeinflusst Das Löschen Von Alt-iPhones Die Funktion Auf Neueren Modellen?</u></a></li>
 </ul></div>
 

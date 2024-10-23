@@ -1,7 +1,7 @@
 ---
 title: EmEditor HTML Bar Plugin Options - Text Editing Enhancements From Beta 8 to Beta 12
-date: 2024-10-13T16:00:24.950Z
-updated: 2024-10-17T16:01:29.113Z
+date: 2024-10-15T18:40:59.767Z
+updated: 2024-10-23T01:29:19.705Z
 tags:
   - product
 categories:
@@ -49,26 +49,29 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-expert-advice-on-archiving-sports-from-live-feeds-for-2024/"><u>[New] Expert Advice on Archiving Sports From Live Feeds for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-25-essential-hashtags-for-increased-instagram-engagement-for-2024/"><u>[Updated] 25 Essential Hashtags for Increased Instagram Engagement for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/s/"><u>「処理完了：ドライブを使用している間、システム保護モードをオンにしてくだsれ」</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comprehensive-free-nas-backup-strategies-for-windows-users-insights-for-versions-11-10-8-and-7/"><u>Comprehensive Free NAS Backup Strategies for Windows Users: Insights for Versions 11, 10, 8 and 7</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/exclusive-melodic-selections-for-video-editing-for-2024/"><u>Exclusive Melodic Selections for Video Editing for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guia-completa-para-la-creacion-de-copias-de-seguridad-incrementales-y-diferenciales/"><u>Guía Completa Para La Creación De Copias De Seguridad Incrementales Y Diferenciales</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-storage-deals-cloud-pricing-of-future-year/"><u>In 2024, Best Storage Deals Cloud Pricing of Future Year</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-2023-no-cost-live-stream-tools-cross-platform-edition/"><u>In 2024, Top 2023 No-Cost Live Stream Tools Cross-Platform Edition</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/la-methode-la-plus-efficace-pour-transferer-les-fichiers-donedrive-vers-un-ordinateur-windows-11/"><u>La Méthode La Plus Efficace Pour Transférer Les Fichiers D'OneDrive Vers Un Ordinateur Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/meet-more-people-today-with-these-5-recommended-apps/"><u>Meet More People Today with These 5 Recommended Apps</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/resolved-how-to-retrieve-lost-information-following-ios-15-upgrade-issues/"><u>Resolved: How To Retrieve Lost Information Following iOS 15 Upgrade Issues</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/section-3a-advanced-goal-setting-techniques-in-social-work/"><u>Section 3A: Advanced Goal Setting Techniques in Social Work</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-streamers-for-real-time-television-content/"><u>Top 10 Streamers for Real-Time Television Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-legitimate-tiktok-following-services/"><u>[New] 2024 Approved Legitimate TikTok Following Services</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-essential-software-for-live-video-recording/"><u>[New] In 2024, Essential Software for Live Video Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-thrifty-audio-tools-youtubers-economical-options/"><u>[New] Thrifty Audio Tools Youtubers’ Economical Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-film-creation-tools-go-free-and-green/"><u>2024 Approved Film Creation Tools Go Free and Green</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728507568183-windowspc/"><u>使用しなくなったWindowsPC上のファイルを発見する手順</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/windows-1087-11/"><u>無償恢復 Windows 10、8、7 與 11 中被磁碟分割的隔空</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/difficultes-de-clonage-du-systeme-avec-transcend-ssd-le-defi-des-fonctions-non-operationnelles/"><u>Difficultés De Clonage Du Système Avec Transcend SSD : Le Défi Des Fonctions Non Opérationnelles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-online-music-archives-copyright-free-gaming-tunes/"><u>Free Online Music Archives (Copyright-Free Gaming Tunes)</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/paso-a-paso-como-convertir-tu-computadora-fisica-en-una-maquina-virtual-con-windows-11-8-o-7/"><u>Paso a Paso: Cómo Convertir Tu Computadora Física en Una Máquina Virtual Con Windows 11, 8 O 7</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/reconociendo-y-rescatando-imagenes-borradas-en-la-papelera-de-rechazo-post-vaciado-metodos-eficaces/"><u>Reconociendo Y Rescatando Imágenes Borradas en La Papelera De Rechazo Post-Vaciado: Métodos Eficaces</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-tutorial-for-cloning-vms-on-vmware-esxi-including-methods-both-with-and-without-vcenter-support/"><u>Step-by-Step Tutorial for Cloning VMs on VMware ESXi - Including Methods Both with and without vCenter Support</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/strategies-for-restoring-accidentally-erased-or-corrupted-autodesk-autocad-documents/"><u>Strategies for Restoring Accidentally Erased or Corrupted Autodesk AutoCAD Documents</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-10-unique-gaming-screen-capture-applications/"><u>Top 10 Unique Gaming Screen Capture Applications</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ultimate-guide-to-the-best-hard-drive-copying-software-compatible-with-windows-systems/"><u>Ultimate Guide to the Best Hard Drive Copying Software Compatible with Windows Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/umgang-mit-digiarty-software-verkaufsinformationen-lizenzdetails-aktualisierungsprozesse-and-zusammenarbeit/"><u>Umgang Mit Digiarty-Software: Verkaufsinformationen, Lizenzdetails, Aktualisierungsprozesse & Zusammenarbeit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/"><u>Understanding Batch Files: A Comprehensive Guide on What They Are & How To Access Them</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s17t-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17t Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
