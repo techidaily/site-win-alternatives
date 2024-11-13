@@ -1,7 +1,7 @@
 ---
 title: "EmEditor Professional v10 RC 19 (Version 9.90.28): The Ultimate Open Source Text Editor Experience"
-date: 2024-10-27T16:02:52.837Z
-updated: 2024-11-03T17:13:34.934Z
+date: 2024-11-08T22:02:49.120Z
+updated: 2024-11-12T19:15:03.996Z
 tags:
   - product
 categories:
@@ -56,28 +56,25 @@ Viewing 1 post (of 1 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-empowering-video-content-with-advanced-aiseesoft-tech-for-2024/"><u>[New] Empowering Video Content with Advanced Aiseesoft Tech for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premium-recommendations-for-ultra-hd-monitoring-tools-for-2024/"><u>[New] Premium Recommendations for Ultra-HD Monitoring Tools for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide/"><u>[Updated] The iPhone & iCloud Sync A Step-by-Step Photo Arrangement Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728504402361-windows-11-windows-10/"><u>準備 Windows 11 更新前的 Windows 10 資料保存方法</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effective-strategies-setting-up-instant-mysql-database-backups/"><u>Effective Strategies: Setting Up Instant MySQL Database Backups</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/productivity-soared-the-finest-8-ai-enabled-chrome-extensions/"><u>Productivity Soared: The Finest 8 AI-Enabled Chrome Extensions</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/resolve-clonezilla-errors-caused-by-mbrgpt-format-inconsistencies-a-three-step-guide/"><u>Resolve Clonezilla Errors Caused by MBR/GPT Format Inconsistencies: A Three-Step Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/sd-speicherkarte-unverschlossen-entfernen-melden-sie-sich-umgehend-an-damit-wir-ihnen-helfen/"><u>SD-Speicherkarte Unverschlossen Entfernen? Melden Sie Sich Umgehend an, Damit Wir Ihnen Helfen!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-forgotten-facets-of-ai-chatter-top-5-gpt-features/"><u>The Forgotten Facets of AI Chatter: Top 5 GPT Features</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-ranking-windows-10-data-duplication-applications-your-ultimate-guide/"><u>Top-Ranking Windows 10 Data Duplication Applications: Your Ultimate Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-visual-storytellers-unite-7-prime-3d-design-and-animation-applications/"><u>[New] In 2024, Visual Storytellers Unite 7 Prime 3D Design & Animation Applications</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-cutting-edge-techniques-in-logitech-webcam-filming-and-streaming-guide/"><u>[Updated] Cutting-Edge Techniques in Logitech Webcam Filming and Streaming Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-purchase-to-use-installing-vrecord/"><u>[Updated] From Purchase to Use Installing VRecord</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/browser-based-strategies-exporting-and-preserving-your-outlook-emails-in-three-simple-steps/"><u>Browser-Based Strategies: Exporting and Preserving Your Outlook Emails in Three Simple Steps</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/example-usage/"><u>Example Usage:</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/fuhrende-kostenfreie-systemwiederherstellungstools-die-beste-wahl-fur-sie/"><u>Führende Kostenfreie Systemwiederherstellungstools: Die Beste Wahl Für Sie</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-epson-xp-310-software-updates-online/"><u>Get the Newest Epson XP 310 Software Updates Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027883227-gif/"><u>GIFアニメートをスムーズに回転させる究極のテクニック</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/partitionierte-festplatten-wiederherstellen-schritt-fur-schritt-anleitung/"><u>Partitionierte Festplatten Wiederherstellen - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016856796-troubleshooting-tips-making-your-logitech-g-pro-x-mic-work-again/"><u>Troubleshooting Tips: Making Your Logitech G PRO X Mic Work Again</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/wie-man-speicherkapazitat-erweitert-wenn-sicherungsvorgange-den-platz-auf-einer-windows-ebenso-ausfullen/"><u>Wie Man Speicherkapazität Erweitert, Wenn Sicherungsvorgänge Den Platz Auf Einer Windows Ebenso Ausfüllen?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/aalm-halat-khta-bsraaa-islahat-nasqip-alamna-l-windows-10/"><u>علم حالات خطأ بسرعة: إصلاحات NASQIP الآمنة ل Windows 10</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

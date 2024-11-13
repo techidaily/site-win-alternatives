@@ -1,7 +1,7 @@
 ---
 title: Manage File Names with Shared Basenames in EmEditor - Unique Extensions Handled Effortlessly
-date: 2024-10-29T19:36:21.822Z
-updated: 2024-11-03T18:47:13.021Z
+date: 2024-11-09T18:30:29.557Z
+updated: 2024-11-13T01:00:33.820Z
 tags:
   - product
 categories:
@@ -43,23 +43,27 @@ Viewing 1 post (of 1 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/building-your-brand-on-instagram-the-top-9-actions-of-industry-stars-for-2024/"><u>Building Your Brand on Instagram The Top 9 Actions of Industry Stars for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-non-functional-dolby-audio-drivers-in-windows-environment-fixed/"><u>Fixing Non-Functional Dolby Audio Drivers in Windows Environment – Fixed! ✅</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/from-camera-to-feed-iphone-and-android-broadcast-guide-for-facebook/"><u>From Camera to Feed IPhone & Android Broadcast Guide for Facebook</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-pro-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 Pro 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mmo-galaxy-the-finest-10-free-online-roleplayers-for-2024/"><u>MMO Galaxy The Finest 10 Free Online Roleplayers for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/pruebe-nuestra-facil-solucion-de-respaldo-y-copia-de-seguridad-para-volumenes-de-disco-dinamico-con-version-gratuita/"><u>Pruebe Nuestra Fácil Solución De Respaldo Y Copia De Seguridad Para Volúmenes De Disco Dinámico Con Versión Gratuita</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96489588-9781578594092-real-nightmares-book-4/"><u>Real Nightmares (Book 4) | Free Book</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/wie-man-versteckte-dateien-wieder-sichtbar-macht-ein-leitfaden-zum-herausstellen-von-verschutteten-daten/"><u>Wie Man Versteckte Dateien Wieder Sichtbar Macht: Ein Leitfaden Zum Herausstellen Von Verschütteten Daten</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728481310972-windows-1011-hdd/"><u>Windows 10/11 HDDのシステム移行と起動手順</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728486313924-windows-10/"><u>Windows 10における問題:システムの復元機能が使用不可</u></a></li>
-<li><a href="https://win-docs.techidaily.com/povyshenie-vashego-internet-vidimosti-vybor-luchshih-seo-specialistov-iz-hajfa-izrail-seo-powersuite/"><u>Повышение Вашего Интернет-Видимости - Выбор Лучших SEO Специалистов Из Хайфа, Израиль | SEO PowerSuite</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-handy-tips-downloading-youtube-like-content-via-android/"><u>[New] 2024 Approved Handy Tips Downloading YouTube-Like Content via Android</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/windows-server-202nw/"><u>簡単なガイド：Windows Server 202Nwを新しいディスクにコピーする方法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-5-fpv-goggles-for-drone-racing/"><u>Best 5 FPV Goggles for Drone Racing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/como-recuperar-e-iconos-del-escritorio-en-windows-tutorial-paso-a-paso-para-sistemas-operativos-windows-1011/"><u>Cómo Recuperar E Iconos Del Escritorio en Windows: Tutorial Paso a Paso Para Sistemas Operativos Windows 10/11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-instructions-on-how-to-erase-your-presence-from-twitch-platform/"><u>Complete Instructions on How to Erase Your Presence From Twitch Platform</u></a></li>
+<li><a href="https://fox-http.techidaily.com/eyemosaic-the-essential-photo-patcher-for-2024/"><u>EyeMosaic The Essential Photo Patcher for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-your-logitech-k350-issues-by-downloading-the-proper-driver-software-heres-how/"><u>Fix Your Logitech K350 Issues by Downloading the Proper Driver Software - Here's How</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/forma-eficiente-de-duplicar-discos-duros-ntfs-usando-freeware-en-sistemas-operativos-windows/"><u>Forma Eficiente De Duplicar Discos Duros NTFS Usando Freeware en Sistemas Operativos Windows.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simple-steps-to-master-no-cost-time-tracking/"><u>In 2024, Simple Steps to Master No-Cost Time Tracking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-tech-trends-with-precision-at-toms-hardware-reviews/"><u>Navigating Tech Trends with Precision at Tom's Hardware Reviews</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/problemlosung-fur-verlorene-daten-auf-seagate-external-hd-losungsanleitung/"><u>Problemlösung Für Verlorene Daten Auf Seagate External HD - Lösungsanleitung</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/rescue-your-workflow-find-and-restore-unsaved-files-in-microsoft-excel-for-windows-11-users/"><u>Rescue Your Workflow: Find and Restore Unsaved Files in Microsoft Excel for Windows 11 Users</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/schnelle-methode-zur-wiederherstellung-von-daten-auf-einer-nicht-mehr-bootbaren-windows-11-version/"><u>Schnelle Methode Zur Wiederherstellung Von Daten Auf Einer Nicht Mehr Bootbaren Windows 11-Version</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/tecnicas-efectivas-para-restablecer-su-computadora-e-instalar-los-sistemas-correctamente/"><u>Técnicas Efectivas Para Restablecer Su Computadora E Instalar Los Sistemas Correctamente</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/videos-that-stand-out-the-perfect-size-for-insta/"><u>Videos That Stand Out The Perfect Size for Insta</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
