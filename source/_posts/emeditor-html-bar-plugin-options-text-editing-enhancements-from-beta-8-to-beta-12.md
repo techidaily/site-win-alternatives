@@ -1,7 +1,7 @@
 ---
 title: EmEditor HTML Bar Plugin Options - Text Editing Enhancements From Beta 8 to Beta 12
-date: 2024-11-10T18:51:48.391Z
-updated: 2024-11-12T20:50:03.196Z
+date: 2024-11-16T00:16:28.797Z
+updated: 2024-11-22T16:11:22.823Z
 tags:
   - product
 categories:
@@ -49,31 +49,19 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-conveniently-connect-with-others-via-your-playlist/"><u>[New] 2024 Approved Conveniently Connect with Others via Your Playlist</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ideal-screencasting-tools-for-enhancing-online-learning-for-2024/"><u>[New] Ideal Screencasting Tools for Enhancing Online Learning for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unlock-mysteries-select-top-puzzle-houses/"><u>[Updated] Unlock Mysteries Select Top Puzzle Houses</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/5aac5l2v5lplusu5asn55u45py66k6w5bplusg5y2h5lik5asx5y675zuplus54mh6zeu6akyic0g5lik56en5pyj5pwi562w55wl/"><u>如何修复相机记忆卡上失去图片问题 - 两种有效策略</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehhavisnce-guide-refresh-your-ios-device-by-factory-restoring/"><u>Comprehhavisnce Guide: Refresh Your iOS Device by Factory Restoring</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/die-beste-methode-zur-softwareaktualisierung-cloud-vs-lokaler-download/"><u>Die Beste Methode Zur Softwareaktualisierung - Cloud Vs. Lokaler Download</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effizientes-tool-zum-recoverieren-von-dateien-aus-usbs-unter-windows-10-mit-myrecover/"><u>Effizientes Tool Zum Recoverieren Von Dateien Aus USBs Unter Windows 10 Mit MyRecover</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-recover-your-lost-d-hard-drive-after-updating-to-windows-11/"><u>How To Recover Your Lost D: Hard Drive After Updating to Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-xiaomi-13-ultra-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Xiaomi 13 Ultra to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-quick-access-windows-11-screen-grab-utility/"><u>Mastering Quick Access: Windows 11 Screen Grab Utility</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/quick-guide-two-simple-methods-to-perform-a-factory-reset-on-your-windows-11-laptop/"><u>Quick Guide: Two Simple Methods to Perform a Factory Reset on Your Windows 11 Laptop</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/stability/"><u>Stability</u></a></li>
-<li><a href="https://fox-search.techidaily.com/top-obs-replacement-software-compared-best-mac-and-windows-options-by-allavsoft/"><u>Top OBS Replacement Software Compared: Best Mac & Windows Options by Allavsoft</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/transferer-sans-encombrement-windows-11-sur-un-nouveau-pc-solutions-en-deux-etapes/"><u>Transférer Sans Encombrement Windows 11 Sur Un Nouveau PC - Solutions en Deux Étapes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-value-and-power-of-ibuypowers-customized-game-machine-a-comprehnive-review/"><u>Unveiling the Value and Power of iBUYPOWER's Customized Game Machine: A Comprehnive Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visionary-groups-redefining-virtual-space/"><u>Visionary Groups Redefining Virtual Space</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/wie-man-windows-11-auf-eine-neue-festplatte-migriert-keine-neukonfiguration-erforderlich/"><u>Wie Man Windows 11 Auf Eine Neue Festplatte Migriert - Keine Neukonfiguration Erforderlich</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/wiederherstellung-ihrer-daten-nach-einem-festplatteninitialisierungsvorgang-einfach-gehalten/"><u>Wiederherstellung Ihrer Daten Nach Einem Festplatteninitialisierungsvorgang – Einfach Gehalten</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-boost-youtube-video-spacing-for-2024/"><u>[Updated] How to Boost YouTube Video Spacing for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-swift-students-guide-to-bypassing-edgenuity-videos/"><u>[Updated] The Swift Student's Guide to Bypassing Edgenuity Videos</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728492985423-youtube/"><u>失われたYouTube履歴とダウンロードした動画を元に戻す実用的なヒント : 完全解析</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/design-and-construct-your-dream-mc-house/"><u>Design and Construct Your Dream MC House</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/il-migliore-software-di-copia-e-sincronizzazione-per-windows-10-guida-completa/"><u>Il Migliore Software Di Copia E Sincronizzazione per Windows 10: Guida Completa</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/problembehebung-fur-fehlende-icloud-musikmedien-im-iphone-menu/"><u>Problembehebung Für Fehlende iCloud-Musikmedien Im iPhone Menü</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-hacks-crafting-an-invisible-context-menu/"><u>Windows 11 Hacks: Crafting an Invisible Context Menu</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/windows-pc-taskbar-mystery-solved-quickly/"><u>Windows PC Taskbar Mystery Solved Quickly</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: How Did the 2017 WannaCry Ransomware Cyberattack Impact Global Computing?
-date: 2024-11-07T19:42:01.805Z
-updated: 2024-11-12T19:21:11.992Z
+date: 2024-11-17T16:03:42.500Z
+updated: 2024-11-22T16:57:45.973Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a25aa2285ca573b91b9719e8.jpg
@@ -24,6 +24,10 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -43,25 +47,11 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -82,6 +72,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -119,13 +113,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -145,10 +132,7 @@ Passo 4\. Attendi il Completamento:
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
@@ -164,6 +148,10 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -190,6 +178,10 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -246,10 +238,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -270,14 +259,11 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,21 +280,21 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-story-stream-sequencer-app/"><u>[New] In 2024, Story Stream Sequencer App</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-masterclass-in-capturing-conversations-for-later-review/"><u>[Updated] Masterclass in Capturing Conversations for Later Review</u></a></li>
 <li><a href="https://win-alternatives.techidaily.com/windows-server-202nw/"><u>簡単なガイド：Windows Server 202Nwを新しいディスクにコピーする方法</u></a></li>
 <li><a href="https://win-alternatives.techidaily.com/54sh5y2w6lgh44gn44k744od44oi44ki44od44oxieoctplusocueodhuodooocpoodsplusocueodioodvoodqplusobquoblplusobqplusodluodvoodioodkeodvoodhuocoplusoctplusodpplusod243/"><u>無印象でセットアップ!システムインストールなしにブートパーティションを変更する手順</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/como-recuperar-e-iconos-del-escritorio-en-windows-tutorial-paso-a-paso-para-sistemas-operativos-windows-1011/"><u>Cómo Recuperar E Iconos Del Escritorio en Windows: Tutorial Paso a Paso Para Sistemas Operativos Windows 10/11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/complete-guide-to-record-google-meet-for-free-as-hostpaticipants-for-2024/"><u>Complete Guide to Record Google Meet for Free [As Host/Paticipants] for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/download-and-setup-adobe-premiere-prores-codec-on-windows-11107-without-charge/"><u>Download and Setup Adobe Premiere ProRes Codec on Windows 11/10/7 Without Charge</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728487514847-win11-lenovo/"><u>重建失效的 Win11 Lenovo分區設定- 深入指南</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dayz-frame-rate-woes-speedily-resolve-with-easy-to-follow-tips/"><u>DayZ Frame Rate Woes? Speedily Resolve with Easy-to-Follow Tips</u></a></li>
 <li><a href="https://win-alternatives.techidaily.com/forma-eficiente-de-duplicar-discos-duros-ntfs-usando-freeware-en-sistemas-operativos-windows/"><u>Forma Eficiente De Duplicar Discos Duros NTFS Usando Freeware en Sistemas Operativos Windows.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-disabling-or-enabling-device-connections-on-windows/"><u>Guide to Disabling or Enabling Device Connections on Windows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-insightful-comparisons-top-android-applications-for-youtube-download/"><u>In 2024, Insightful Comparisons Top Android Applications for YouTube Download</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-completely-erase-a-windows-printer/"><u>Guide: Completely Erase a Windows Printer</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-design-and-deploy-bespoke-ringtone-options-for-whatsapp-users/"><u>How to Design & Deploy Bespoke Ringtone Options for WhatsApp Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-yuva-3-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Lava Yuva 3 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Nokia C300 | Dr.fone</u></a></li>
 <li><a href="https://win-alternatives.techidaily.com/problemlosung-fur-verlorene-daten-auf-seagate-external-hd-losungsanleitung/"><u>Problemlösung Für Verlorene Daten Auf Seagate External HD - Lösungsanleitung</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/quattro-migliori-modi-per-ritornare-da-windows-11-a-windows-10/"><u>Quattro Migliori Modi per Ritornare Da Windows 11 a Windows 10</u></a></li>
 <li><a href="https://win-alternatives.techidaily.com/recuperacion-exitosa-de-particiones-perdidas-tus-4-procedimientos-esenciales-para-windows-10-y-11/"><u>Recuperación Exitosa De Particiones Perdidas: Tus 4 Procedimientos Esenciales Para Windows 10 Y 11</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/rescue-your-workflow-find-and-restore-unsaved-files-in-microsoft-excel-for-windows-11-users/"><u>Rescue Your Workflow: Find and Restore Unsaved Files in Microsoft Excel for Windows 11 Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/sword-and-shield-the-ultimate-10-game-collection/"><u>Sword and Shield The Ultimate 10-Game Collection</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/tivo-or-comcast-which-dvr-is-right-for-you/"><u>TiVo or Comcast Which DVR Is Right for You ?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-70-lite-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor 70 Lite 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-strategies-for-limiting-steam-web-helpers-ram-use/"><u>Top Strategies for Limiting Steam Web Helper's RAM Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformation-gratuite-de-fichier-tiff-en-image-gif-en-ligne-movavi/"><u>Transformation Gratuite De Fichier TIFF en Image GIF en Ligne - Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/syncing-socials-a-step-by-step-guide-to-linking-instagram-and-tiktok-for-2024/"><u>Syncing Socials A Step-by-Step Guide to Linking Instagram and TikTok for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Manage File Names with Shared Basenames in EmEditor - Unique Extensions Handled Effortlessly
-date: 2024-11-09T18:30:29.557Z
-updated: 2024-11-13T01:00:33.820Z
+date: 2024-11-22T02:00:15.445Z
+updated: 2024-11-22T16:35:18.570Z
 tags:
   - product
 categories:
@@ -43,27 +43,25 @@ Viewing 1 post (of 1 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-handy-tips-downloading-youtube-like-content-via-android/"><u>[New] 2024 Approved Handy Tips Downloading YouTube-Like Content via Android</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/windows-server-202nw/"><u>簡単なガイド：Windows Server 202Nwを新しいディスクにコピーする方法</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-5-fpv-goggles-for-drone-racing/"><u>Best 5 FPV Goggles for Drone Racing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/como-recuperar-e-iconos-del-escritorio-en-windows-tutorial-paso-a-paso-para-sistemas-operativos-windows-1011/"><u>Cómo Recuperar E Iconos Del Escritorio en Windows: Tutorial Paso a Paso Para Sistemas Operativos Windows 10/11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-instructions-on-how-to-erase-your-presence-from-twitch-platform/"><u>Complete Instructions on How to Erase Your Presence From Twitch Platform</u></a></li>
-<li><a href="https://fox-http.techidaily.com/eyemosaic-the-essential-photo-patcher-for-2024/"><u>EyeMosaic The Essential Photo Patcher for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fix-your-logitech-k350-issues-by-downloading-the-proper-driver-software-heres-how/"><u>Fix Your Logitech K350 Issues by Downloading the Proper Driver Software - Here's How</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/forma-eficiente-de-duplicar-discos-duros-ntfs-usando-freeware-en-sistemas-operativos-windows/"><u>Forma Eficiente De Duplicar Discos Duros NTFS Usando Freeware en Sistemas Operativos Windows.</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simple-steps-to-master-no-cost-time-tracking/"><u>In 2024, Simple Steps to Master No-Cost Time Tracking</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-tech-trends-with-precision-at-toms-hardware-reviews/"><u>Navigating Tech Trends with Precision at Tom's Hardware Reviews</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/problemlosung-fur-verlorene-daten-auf-seagate-external-hd-losungsanleitung/"><u>Problemlösung Für Verlorene Daten Auf Seagate External HD - Lösungsanleitung</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/rescue-your-workflow-find-and-restore-unsaved-files-in-microsoft-excel-for-windows-11-users/"><u>Rescue Your Workflow: Find and Restore Unsaved Files in Microsoft Excel for Windows 11 Users</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/schnelle-methode-zur-wiederherstellung-von-daten-auf-einer-nicht-mehr-bootbaren-windows-11-version/"><u>Schnelle Methode Zur Wiederherstellung Von Daten Auf Einer Nicht Mehr Bootbaren Windows 11-Version</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/tecnicas-efectivas-para-restablecer-su-computadora-e-instalar-los-sistemas-correctamente/"><u>Técnicas Efectivas Para Restablecer Su Computadora E Instalar Los Sistemas Correctamente</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/videos-that-stand-out-the-perfect-size-for-insta/"><u>Videos That Stand Out The Perfect Size for Insta</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-starting-point-for-motion-visual-effects/"><u>[New] In 2024, Starting Point for Motion Visual Effects</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-snapchat-sharing-with-twitter-videos/"><u>[Updated] 2024 Approved Mastering Snapchat Sharing with Twitter Videos</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-comment-pouvez-vous-recuperer-vos-documents-microsoft-word-apres-un-plantage/"><u>1. Comment Pouvez-Vous Récupérer Vos Documents Microsoft Word Après Un Plantage ?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/design-a-unique-workspace-saving-windows-spotlight-images-as-wallpapers/"><u>Design a Unique Workspace: Saving Window's Spotlight Images as Wallpapers</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/efficient-geheugen-verbetering-7-houdbaar-strategieen-voor-het-oplossen-van-windows-met-fotos-op-een-hard-schijf/"><u>Efficiënt Geheugen Verbetering: 7 Houdbaar Strategieën Voor Het Oplossen Van Windows Met Foto's Op Een Hard Schijf</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/emeditor-text-editor-fixing-problems-with-multi-line-selections/"><u>EmEditor Text Editor: Fixing Problems with Multi-Line Selections</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-swiftly-move-information-from-an-old-to-a-new-iphone-discover-four-effective-techniques/"><u>How to Swiftly Move Information From an Old to a New iPhone - Discover Four Effective Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-assessing-the-apex-of-video-recording-is-it-splitcam/"><u>In 2024, Assessing the Apex of Video Recording Is It SplitCam?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-piecing-together-memories-your-guide-to-montages/"><u>In 2024, Piecing Together Memories Your Guide to Montages</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-tecno-spark-20-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Tecno Spark 20 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-your-unboxing-game-8-tips-from-experts-for-2024/"><u>Perfect Your Unboxing Game 8 Tips From Experts for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/quick-and-effortless-guide-accelerate-samsung-data-moving-with-these-5-safe-strategies/"><u>Quick & Effortless Guide: Accelerate Samsung Data Moving with These 5 Safe Strategies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-z-flip-5-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy Z Flip 5 Location | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ultimate-step-by-step-guide-for-disabling-integration-support-dism-in-windows-aturday-7-systems-a-diy-approach-to-image-optimization/"><u>Ultimate Step-by-Step Guide for Disabling Integration Support (DISM) in Windows Aturday 7 Systems – A DIY Approach to Image Optimization</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-versus-vital-gears-in-the-pursuit-of-perfect-pixels/"><u>Virtual Versus Vital Gears in the Pursuit of Perfect Pixels</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728498070998-404/"><u>エラー404：ご利用サイト内でページをお探し中</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
