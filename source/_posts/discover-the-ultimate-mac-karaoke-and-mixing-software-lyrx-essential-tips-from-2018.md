@@ -1,0 +1,97 @@
+---
+title: Discover the Ultimate MAC Karaoke and Mixing Software LYRX - Essential Tips From 2018
+date: 2024-11-27T23:45:19.365Z
+updated: 2024-11-30T18:02:21.032Z
+tags:
+  - product
+categories:
+  - pcdj
+thumbnail: https://thmb.techidaily.com/8b86753cae048297a750321083f2087f1622c0cfcb3cab69136de042dba1a8be.jpg
+---
+
+## Discover the Ultimate MAC Karaoke and Mixing Software LYRX - Essential Tips From 2018
+
+[![LYRX karaoke player for MAC in 2018](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrx2018-now-available.jpg?resize=706%2C321&ssl=1)](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrx2018-now-available.jpg?fit=706%2C360&ssl=1 "LYRX karaoke player for MAC in 2018")
+
+[![LYRX karaoke for MAC icon](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/lyrx-appicon.png?resize=80%2C80&ssl=1 "LYRX for MAC Icon")](http://www.lyrxkaraoke.com)
+
+**What’s in store for LYRX, karaoke software designed exclusively for MAC, in 2018?**
+
+[LYRX](http://www.lyrxkaraoke.com) is the youngest member of the Digital 1 Audio lineup of live performance software products. Designed exclusively for MAC and built around our [DEX 3](https://tools.techidaily.com/pcdj/products/) technology, LYRX has already become the **top karaoke player for MAC** through a series of updates in 2017 — and we’re just getting started!
+
+[LEARN MORE ABOUT LYRX AND DOWNLOAD A FREE TRIAL ![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?fit=300%2C188&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](http://www.lyrxkaraoke.com)
+
+As DEX 3 continues to evolve as a professional level karaoke show hosting solution in 2018 so will LYRX. LYRX is essentially the karaoke-specific features of DEX 3 stripped out into it’s own stand-alone software solution. For KJs using a MAC to host karaoke that do not require the additional DJ and video mixing capabilities found in [DEX 3](https://tools.techidaily.com/pcdj/products/) it’s an ideal solution.
+
+With the recent addition of the in-app [Party Tyme Karaoke subscription](https://youtu.be/HTVGGLLeS%5Fk) we’ve seen a massive influx of new LYRX customers — and it’s clear they are looking for a handful of new features that will make their jog even easier. We plan to speed up the development of these items in 2018, with a few of them well under way now.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Here’s a look at some of our goals for LYRX in 2018:
+
+* **Singer rotation management options:** Instead of the basic singers list available in LYRX today we plan to include a more ‘fixed’ style rotation (similar to what is found in Karaoki for Windows). This feature will help to automate the singer rotation.
+* **Singer/Song History:** LYRX will soon store history of your karaoke singers and what they sang.
+* **Automated Filler Music Player:** An option to have a playlist of regular music (not karaoke) play automatically in between singers and sets = no dead air!
+* **Multiplex Support:** Support for karaoke files where the vocal resides in one channel (mute or un-mute the lead vocal).
+* **Slide Show:** During filler music the host will be able to display a slideshow of images on screen (in addition to the existing ability to display text, image, and video overlays on screen).
+* **Built in Ala Carte Song Store:** Not only will LYRX users have the ability to subscribe to [Party Tyme Karaoke](https://tools.techidaily.com/pcdj/products/) but will have the option to purchase/download songs on demand. The songs will be downloaded to your hard drive and are yours to keep.
+
+These are just a few of our top design goals for LYRX in 2018\. What would you like to see added to LYRX? We’d love to hear from you! Please leave your suggestions in the comments section below!
+
+[LEARN MORE ABOUT LYRX](http://www.lyrxkaraoke.com)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### How Party Tyme Karaoke Works In LYRX
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### _Related_
+
+https://i1.wp.com/pcdj.com/wp-content/uploads/2017/12/lyrx2018-now-available.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2017-12-29 09:23:342018-10-02 12:57:22Karaoke Software For MAC | LYRX in 2018}
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-hidden-methods-for-dodging-digital-study-vids/"><u>[New] Hidden Methods for Dodging Digital Study Vids</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-prime-mac-gif-cutter/"><u>[New] In 2024, Prime Mac GIF Cutter</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-your-first-video-journey-using-pixiz-effectively/"><u>[New] Your First Video Journey Using Pixiz Effectively</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-green-screen-essentials-your-first-step-guide-into-color-key-techniques-for-2024/"><u>[Updated] Green Screen Essentials Your First-Step Guide Into Color Key Techniques for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728493342062-hddssd/"><u>全新方法：通过预算友好的软件将大容量HDD转移到小型快速SSD上</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728476953985-windowsmac/"><u>如何在Windows和Mac电脑上恢复失去的文件？</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/dropboxssd/"><u>Dropboxと外部SSDを結び付けるシンプルな手順</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/effizientes-kopieren-von-windows-10-systemen-keine-neukonfiguration-erforderlich/"><u>Effizientes Kopieren Von Windows 10-Systemen - Keine Neukonfiguration Erforderlich</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/festplattensicherheit-mit-r-drive-erfahren-sie-uber-effektive-alternativmethoden-fur-ihr-datenabbildungsszenario/"><u>Festplattensicherheit Mit R-Drive - Erfahren Sie Über Effektive Alternativmethoden Für Ihr Datenabbildungsszenario!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/la-guia-definitiva-comparando-los-mejores-clonadores-gratuitos-para-tus-discos-samsung-970-evo-y-modelos-evo-plus/"><u>La Guía Definitiva: Comparando Los Mejores Clonadores Gratuitos Para Tus Discos Samsung 970 EVO Y Modelos EVO Plus</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/navigating-windows-11-uncovering-synonyms-for-sync-center-and-detailed-tutorial/"><u>Navigating Windows 11: Uncovering Synonyms for Sync Center and Detailed Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-selection-top-8-webcams-transform-livestreaming/"><u>Premier Selection Top 8 Webcams Transform Livestreaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/professional-macx-video-editor-the-top-choice-for-premium-hd-and-4k-format-conversions/"><u>Professional MacX Video Editor: The Top Choice for Premium HD and 4K Format Conversions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/recovering-deleted-documents-from-windowsold-directories-in-windows-10/"><u>Recovering Deleted Documents From Windows.old Directories in Windows 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/techniques-to-frame-photos-with-leading-lines-iphone/"><u>Techniques to Frame Photos with Leading Lines (iPhone)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-spots-unveiling-stunning-no-cost-tiktok-backgrounds-for-2024/"><u>Top Spots Unveiling Stunning, No-Cost TikTok Backgrounds for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-youtube-writers-royalties-with-ad-driven-earnings-cpm-for-2024/"><u>Unlocking YouTube' Writers' Royalties with Ad-Driven Earnings (CPM) for 2024</u></a></li>
+</ul></div>
+

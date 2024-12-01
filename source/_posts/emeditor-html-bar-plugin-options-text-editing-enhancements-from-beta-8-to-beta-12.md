@@ -1,7 +1,7 @@
 ---
 title: EmEditor HTML Bar Plugin Options - Text Editing Enhancements From Beta 8 to Beta 12
-date: 2024-11-16T00:16:28.797Z
-updated: 2024-11-22T16:11:22.823Z
+date: 2024-11-24T17:37:39.462Z
+updated: 2024-11-30T17:09:51.496Z
 tags:
   - product
 categories:
@@ -49,19 +49,19 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-how-to-boost-youtube-video-spacing-for-2024/"><u>[Updated] How to Boost YouTube Video Spacing for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-swift-students-guide-to-bypassing-edgenuity-videos/"><u>[Updated] The Swift Student's Guide to Bypassing Edgenuity Videos</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728492985423-youtube/"><u>失われたYouTube履歴とダウンロードした動画を元に戻す実用的なヒント : 完全解析</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/design-and-construct-your-dream-mc-house/"><u>Design and Construct Your Dream MC House</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/il-migliore-software-di-copia-e-sincronizzazione-per-windows-10-guida-completa/"><u>Il Migliore Software Di Copia E Sincronizzazione per Windows 10: Guida Completa</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/problembehebung-fur-fehlende-icloud-musikmedien-im-iphone-menu/"><u>Problembehebung Für Fehlende iCloud-Musikmedien Im iPhone Menü</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-hacks-crafting-an-invisible-context-menu/"><u>Windows 11 Hacks: Crafting an Invisible Context Menu</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/windows-pc-taskbar-mystery-solved-quickly/"><u>Windows PC Taskbar Mystery Solved Quickly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-full-overview-of-installing-wm6/"><u>2024 Approved Full Overview of Installing WM6</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlocking-viral-potential-in-digital-content-creation/"><u>2024 Approved Unlocking Viral Potential in Digital Content Creation</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ssd-msi/"><u>遊戲筆記本的驕人改造：以 SSD 取代 MSI 原有硬碟的最佳方式</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/galaxy-sd/"><u>Galaxyデバイスのデータ確実なバックアップ: SDカードを守る優れた戦略</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-duplicate-the-recovery-partition-on-an-ssd-in-windows-operating-systems/"><u>How to Duplicate the Recovery Partition on an SSD in Windows Operating Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-fade-out-in-audacity/"><u>How to Fade Out in Audacity</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/quick-and-easy-upgrading-your-pc-with-windows-11-on-ssd-by-bypassing-reinstallation-learn-two-techniques/"><u>Quick and Easy: Upgrading Your PC with Windows 11 on SSD by Bypassing Reinstallation - Learn Two Techniques</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleash-your-podcast-potential-with-cutting-edge-techniques-for-2024/"><u>Unleash Your Podcast Potential with Cutting-Edge Techniques for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
