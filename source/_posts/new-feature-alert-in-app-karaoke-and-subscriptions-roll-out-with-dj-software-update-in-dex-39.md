@@ -1,7 +1,7 @@
 ---
 title: "New Feature Alert: In-App Karaoke & Subscriptions Roll Out with DJ Software Update in DEX 3.9!"
-date: 2024-11-29T05:03:07.767Z
-updated: 2024-11-30T19:30:45.166Z
+date: 2024-12-03T03:22:31.001Z
+updated: 2024-12-09T06:56:00.440Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As we forge forward with our unwavering design goal to make [DEX 3](https://tool
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### An in-app Karaoke Subscription is coming to DEX 3.9 compliments of [Party Tyme Karaoke](https://www.partytyme.com/).
@@ -45,7 +45,7 @@ We’ll email all newsletter subscribers when DEX 3.9 and the Party Tyme Karaoke
 _Have questions about the Party Tyme **Karaoke Subscription** coming to **DEX 3.9**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,16 +67,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/dex3partytyme-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fine-tune-youtube-video-pacing-desktopmobile-for-2024/"><u>[New] Fine-Tune YouTube Video Pacing - Desktop/Mobile for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigating-the-best-dates-and-hours-for-youtube-impact-for-2024/"><u>[Updated] Navigating the Best Dates and Hours for YouTube Impact for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ultimate-fast-forward-tools-mastering-video-controls/"><u>[Updated] Ultimate Fast-Forward Tools Mastering Video Controls</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-navigating-cloud-data-costs-comparison-and-best-price-paths/"><u>2024 Approved Navigating Cloud Data Costs Comparison & Best Price Paths</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/asus-os/"><u>Asus システムリカバリーを使った初期状態へのOS復元方法</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-value-in-tech-lenovo-tab-m10-fhd-plus-2n-review-spectacular-screen-for-cost-conscious-buyers/"><u>Discovering Value in Tech: Lenovo Tab M10 FHD Plus (2N, Review) – Spectacular Screen for Cost-Conscious Buyers</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/easy-to-follow-guide-to-restore-files-from-windows-11-recycle-bin/"><u>Easy-to-Follow Guide to Restore Files From Windows 11 Recycle Bin</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guia-passo-a-passo-sobre-a-mudanca-de-hdds-tradicionais-discos-rigidos-para-unidades-ssd-rapidas-e-confiaveis/"><u>Guia Passo-a-Passo Sobre a Mudança De HDDs Tradicionais (Discos Rígidos) Para Unidades SSD Rápidas E Confiáveis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722976452202-install-new-intel-wireless-ac-nacuate-driver-enhance-your-devices-wi-fi-capabilities-today/"><u>Install New Intel Wireless AC nAcuate Driver: Enhance Your Device's Wi-Fi Capabilities Today</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/recuperacion-efectiva-de-informacion-en-iphone-sin-copias-anteriores-metodos-recomendados/"><u>Recuperación Efectiva De Información en iPhone Sin Copias Anteriores - Métodos Recomendados</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-concept-to-completion-an-instagram-video-strategy-manual-for-2024/"><u>[New] From Concept to Completion An Instagram Video Strategy Manual for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-webinar-capture-straightforward-steps-for-os-xwindows/"><u>[New] Mastering Webinar Capture Straightforward Steps for OS X/Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/could-your-graphics-card-be-the-culprit-in-computer-failures-understanding-the-risks-with-yl-software-experts/"><u>Could Your Graphics Card Be the Culprit in Computer Failures? Understanding the Risks with YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ensuring-your-pcs-readiness-for-upgrades-a-guide-on-compatibility-checks-yl-computing/"><u>Ensuring Your PC's Readiness for Upgrades: A Guide on Compatibility Checks - YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/get-your-new-dx-314-dj-suite-by-pioneer-corporation-complete-with-mac-os-catalina-support-and-exciting-updates/"><u>Get Your New DX 3.14 DJ Suite by Pioneer Corporation: Complete with Mac OS Catalina Support & Exciting Updates!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-on-the-market-apps-for-dji-video-edits/"><u>In 2024, Best on the Market Apps for DJi Video Edits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-guide-to-adding-filters-effects-and-masks-in-google-meet/"><u>In 2024, Guide to Adding Filters, Effects, and Masks in Google Meet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/is-it-essential-to-shut-down-and-start-your-pc-when-troubleshooting-gpu-issues-guidance-by-yl-software/"><u>Is It Essential to Shut Down and Start Your PC When Troubleshooting GPU Issues? – Guidance by YL Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/663568-9781583943533-natural-chi-movement/"><u>Natural Chi Movement | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-steps-to-install-or-update-microsoft-drivers-on-windows-11-8-and-7/"><u>Quick and Simple Steps to Install or Update Microsoft Drivers on Windows 11, 8, & 7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-narzo-60-pro-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Narzo 60 Pro 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210446578-solution-found-keyboard-functionality-restored-now-works-perfectly/"><u>Solution Found: Keyboard Functionality Restored - Now Works Perfectly</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/the-importance-of-consistent-hardware-upkeep-for-your-pc-expert-advice-by-yl-software-experts/"><u>The Importance of Consistent Hardware Upkeep for Your PC: Expert Advice by YL Software Experts</u></a></li>
 </ul></div>
 
