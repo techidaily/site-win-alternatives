@@ -1,7 +1,7 @@
 ---
 title: "LYRX Version 1.6.0.1 Release: Enhanced Karaoke Experience with PCDJ Software Upgrade"
-date: 2024-12-02T07:21:48.506Z
-updated: 2024-12-09T00:13:35.073Z
+date: 2024-12-14T07:41:25.039Z
+updated: 2024-12-15T06:29:45.667Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Version 1.6.0.2 of LYRX karaoke software is ready for download!
@@ -31,7 +31,7 @@ You can test software all you want internally, and iron out issues with your bet
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Not only does the free 1.6.0.2 LYRX update address the reported problems, we were able to apply extensive under-the-hood optimizations and performance improvements. The updates should be noticeable, to the extent your MAC or PC will run cooler than with prior versions.
@@ -45,7 +45,7 @@ Again, we appreciate all the tremendous and extensive feedback we’ve received 
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.0.2
@@ -63,7 +63,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest 1.6.0.2 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,24 +85,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrxforwin-cover-1.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-elevate-gaming-experience-through-perfect-recordings/"><u>[Updated] 2024 Approved Elevate Gaming Experience Through Perfect Recordings</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-breaking-ground-in-vr-content-development/"><u>[Updated] Breaking Ground in VR Content Development</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-powerpoint-tips-adding-and-capturing-speech-sounds-for-2024/"><u>[Updated] PowerPoint Tips Adding and Capturing Speech Sounds for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-picture-data-holders/"><u>2024 Approved Leading Picture Data Holders</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1732517698227-yl/"><u>武则天留给后世的关键文书及其意义 - YL科技解析</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/high-quality-cowboy-panoramas-wallpapers-and-desktop-backgrounds-from-yl-computings-digital-collection/"><u>High-Quality Cowboy Panoramas, Wallpapers, and Desktop Backgrounds From YL Computing's Digital Collection</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-evaluate-different-crypto-coins-yl-computing-yl-software/"><u>How to Evaluate Different Crypto Coins? – YL Computing | YL Software.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-oppo-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Oppo</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/hurried-articulation-guide-for-french-vibrancy/"><u>Hurried Articulation Guide for French Vibrancy</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/is-it-essential-to-shut-down-and-start-your-pc-when-troubleshooting-gpu-issues-guidance-by-yl-software/"><u>Is It Essential to Shut Down and Start Your PC When Troubleshooting GPU Issues? – Guidance by YL Software</u></a></li>
-<li><a href="https://win-best.techidaily.com/macmacbook-proair8/"><u>Macの黒い画面障害に悩むな?MacBook Pro/Air解決法8コツ</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-queries-sidestep-these-6-frequent-slip-ups/"><u>Mastering ChatGPT Queries: Sidestep These 6 Frequent Slip-Ups</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/push-boundaries-in-visual-quality-how-to-achieve-ultimate-resolution-with-yl-software-solutions/"><u>Push Boundaries in Visual Quality: How to Achieve Ultimate Resolution with YL Software Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-windows-login-new-pin-creation/"><u>Streamline Your Windows Login: New PIN Creation</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-a-non-responsive-printer-solutions-and-tips-yl-computings-guide/"><u>Troubleshooting a Non-Responsive Printer: Solutions and Tips - YL Computing's Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-guide-for-malfunctioning-usb-connections-by-yl-software-experts/"><u>Troubleshooting Guide for Malfunctioning USB Connections by YL Software Experts</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-incomplete-software-setup-insights-from-yl-computings-expertise/"><u>Troubleshooting Incomplete Software Setup: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultimate-singing-experience-subscription-party-on-with-fresh-tracks-from-this-week-8219-edition/"><u>Ultimate Singing Experience Subscription - Party On With Fresh Tracks From This Week, 8/2/19 Edition.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-tips-for-obs-on-android-platforms/"><u>[Updated] 2024 Approved Essential Tips for OBS on Android Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-mind-games-top-trivia-channels-for-24/"><u>[Updated] Mastering Mind Games – Top Trivia Channels for '24</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-masterclass-on-uploading-youtube-vids-to-fb-groups/"><u>2024 Approved Masterclass on Uploading YouTube Vids to FB Groups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alternatives/"><u>Alternatives</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/best-apps-to-open-images-on-your-pc-a-guide-yl-computing/"><u>Best Apps to Open Images on Your PC: A Guide - YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ensuring-your-gpu-is-functioning-properly-expert-insights-from-yl-computing/"><u>Ensuring Your GPU Is Functioning Properly: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-can-you-resolve-a-computer-that-fails-to-start-up-expert-tips-from-yl-computings-software-solutions/"><u>How Can You Resolve a Computer That Fails to Start Up? - Expert Tips From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-check-if-your-gpu-fits-your-pc-setup-a-comprehensive-tutorial-by-yl-software-experts/"><u>How to Check if Your GPU Fits Your PC Setup: A Comprehensive Tutorial by YL Software Experts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pinnacle-cars-secret-code-solvers-2024-insights/"><u>Pinnacle Cars' Secret Code Solvers - 2024 Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transcode-mpeg-files-into-wmv-format-instantly-no-cost-with-easy-to-use-tools/"><u>Transcode MPEG Files Into WMV Format Instantly - No Cost with Easy-to-Use Tools</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-common-reasons-behind-network-adapter-malfunctions-insights-from-yl-computing/"><u>Understanding Common Reasons Behind Network Adapter Malfunctions - Insights From YL Computing</u></a></li>
 </ul></div>
 

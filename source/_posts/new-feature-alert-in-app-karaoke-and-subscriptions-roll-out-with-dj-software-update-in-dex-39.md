@@ -1,7 +1,7 @@
 ---
 title: "New Feature Alert: In-App Karaoke & Subscriptions Roll Out with DJ Software Update in DEX 3.9!"
-date: 2024-12-03T03:22:31.001Z
-updated: 2024-12-09T06:56:00.440Z
+date: 2024-12-10T06:03:37.599Z
+updated: 2024-12-15T02:25:58.265Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As we forge forward with our unwavering design goal to make [DEX 3](https://tool
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### An in-app Karaoke Subscription is coming to DEX 3.9 compliments of [Party Tyme Karaoke](https://www.partytyme.com/).
@@ -45,7 +45,7 @@ We’ll email all newsletter subscribers when DEX 3.9 and the Party Tyme Karaoke
 _Have questions about the Party Tyme **Karaoke Subscription** coming to **DEX 3.9**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,19 +67,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/dex3partytyme-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-from-concept-to-completion-an-instagram-video-strategy-manual-for-2024/"><u>[New] From Concept to Completion An Instagram Video Strategy Manual for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-webinar-capture-straightforward-steps-for-os-xwindows/"><u>[New] Mastering Webinar Capture Straightforward Steps for OS X/Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/could-your-graphics-card-be-the-culprit-in-computer-failures-understanding-the-risks-with-yl-software-experts/"><u>Could Your Graphics Card Be the Culprit in Computer Failures? Understanding the Risks with YL Software Experts</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ensuring-your-pcs-readiness-for-upgrades-a-guide-on-compatibility-checks-yl-computing/"><u>Ensuring Your PC's Readiness for Upgrades: A Guide on Compatibility Checks - YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/get-your-new-dx-314-dj-suite-by-pioneer-corporation-complete-with-mac-os-catalina-support-and-exciting-updates/"><u>Get Your New DX 3.14 DJ Suite by Pioneer Corporation: Complete with Mac OS Catalina Support & Exciting Updates!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-on-the-market-apps-for-dji-video-edits/"><u>In 2024, Best on the Market Apps for DJi Video Edits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-guide-to-adding-filters-effects-and-masks-in-google-meet/"><u>In 2024, Guide to Adding Filters, Effects, and Masks in Google Meet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/is-it-essential-to-shut-down-and-start-your-pc-when-troubleshooting-gpu-issues-guidance-by-yl-software/"><u>Is It Essential to Shut Down and Start Your PC When Troubleshooting GPU Issues? – Guidance by YL Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/663568-9781583943533-natural-chi-movement/"><u>Natural Chi Movement | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-steps-to-install-or-update-microsoft-drivers-on-windows-11-8-and-7/"><u>Quick and Simple Steps to Install or Update Microsoft Drivers on Windows 11, 8, & 7</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-narzo-60-pro-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Narzo 60 Pro 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210446578-solution-found-keyboard-functionality-restored-now-works-perfectly/"><u>Solution Found: Keyboard Functionality Restored - Now Works Perfectly</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/the-importance-of-consistent-hardware-upkeep-for-your-pc-expert-advice-by-yl-software-experts/"><u>The Importance of Consistent Hardware Upkeep for Your PC: Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-seamless-transition-turning-srt-into-sub-for-2024/"><u>[New] Seamless Transition Turning SRT Into SUB for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-a-symphony-of-sights-and-sounds-in-video/"><u>2024 Approved Crafting a Symphony of Sights & Sounds in Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-unauthorized-users-4-routines-for-restraining-windows-access/"><u>Eliminating Unauthorized Users: 4 Routines for Restraining Windows Access</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/expert-guide-stop-windows-memory-errors-before-they-happen-with-yl-computings-solutions/"><u>Expert Guide: Stop Windows Memory Errors Before They Happen with YL Computing's Solutions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exclusive-insight-into-low-cost-footage-websites/"><u>In 2024, Exclusive Insight Into Low-Cost Footage Websites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-frozen-delight-ice-cream-cam-and-comprehensive-tutorial/"><u>In 2024, Frozen Delight Ice Cream Cam & Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-worlds-latest-trends-in-virtual-tech/"><u>In 2024, Synthesizing Worlds Latest Trends in Virtual Tech</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/reviving-your-pcs-health-effective-techniques-to-recover-corrupt-registry-entries-and-system-components-yl-software-solutions/"><u>Reviving Your PC's Health: Effective Techniques to Recover Corrupt Registry Entries and System Components – YL Software Solutions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/the-right-moment-for-a-refresh-understanding-the-need-for-new-thermal-compound-on-processors/"><u>The Right Moment for a Refresh: Understanding the Need for New Thermal Compound on Processors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-for-enabling-chatgpts-cutting-edge-beta-web-surfing-and-extension-suite/"><u>The Ultimate Walkthrough for Enabling ChatGPT's Cutting-Edge Beta Web Surfing & Extension Suite</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/turtle-themed-wallpapers-and-backgrounds-by-yl-computing-high-quality-digital-art/"><u>Turtle-Themed Wallpapers & Backgrounds by YL Computing: High Quality Digital Art</u></a></li>
 </ul></div>
 

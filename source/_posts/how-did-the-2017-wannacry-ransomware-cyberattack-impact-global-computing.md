@@ -1,7 +1,7 @@
 ---
 title: How Did the 2017 WannaCry Ransomware Cyberattack Impact Global Computing?
-date: 2024-11-24T22:57:32.213Z
-updated: 2024-11-30T19:44:08.333Z
+date: 2024-12-08T02:27:29.945Z
+updated: 2024-12-15T03:06:46.031Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a25aa2285ca573b91b9719e8.jpg
@@ -28,6 +28,10 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Sommario** 
 
 1. [Introduzione](https://tools.techidaily.com/ubackup/products/)
@@ -44,7 +48,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -54,11 +58,11 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -77,13 +81,13 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -153,6 +157,10 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -180,7 +188,7 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -225,10 +233,6 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusione
 
 In conclusione, risolvere la sfida di non poter digitare nella barra di ricerca di Windows 10 richiede un approccio sistematico. Seguendo le soluzioni fornite e integrando misure di protezione dei dati con AOMEI Backupper, puoi affrontare potenziali problemi con fiducia. Mantieni ottimizzato il tuo sistema, sii proattivo nella risoluzione dei problemi ed emancipati per trarre il massimo dalla tua esperienza con Windows 10.
@@ -261,10 +265,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -280,21 +280,18 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-shorts-and-tiktok-choose-the-one-for-your-need/"><u>[New] YouTube Shorts & Tiktok - Choose the One for Your Need</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-restored-full-screen-happy-obs-users/"><u>[Updated] Restored Full Screen, Happy OBS Users</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-comment-pouvez-vous-recuperer-vos-documents-microsoft-word-apres-un-plantage/"><u>1. Comment Pouvez-Vous Récupérer Vos Documents Microsoft Word Après Un Plantage ?</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1728474710726-404/"><u>探し物でございます: 見当たらないウェブサイトにお越しの場合、404エラーです</u></a></li>
-<li><a href="https://win-net.techidaily.com/amplify-your-brand-with-ultra-premium-creative-tim-theme-collections-more-than-144-choices-await/"><u>Amplify Your Brand with Ultra-Premium Creative Tim Theme Collections: More than 144 Choices Await!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/efficient-geheugen-verbetering-7-houdbaar-strategieen-voor-het-oplossen-van-windows-met-fotos-op-een-hard-schijf/"><u>Efficiënt Geheugen Verbetering: 7 Houdbaar Strategieën Voor Het Oplossen Van Windows Met Foto's Op Een Hard Schijf</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/emeditor-text-editor-fixing-problems-with-multi-line-selections/"><u>EmEditor Text Editor: Fixing Problems with Multi-Line Selections</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-swiftly-move-information-from-an-old-to-a-new-iphone-discover-four-effective-techniques/"><u>How to Swiftly Move Information From an Old to a New iPhone - Discover Four Effective Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-lava-storm-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Lava Storm 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cting-your-vids-a-comprehensive-youtube-studio-tutorial/"><u>Perfecting Your Vids A Comprehensive YouTube Studio Tutorial</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/quick-and-effortless-guide-accelerate-samsung-data-moving-with-these-5-safe-strategies/"><u>Quick & Effortless Guide: Accelerate Samsung Data Moving with These 5 Safe Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-your-nba-2k23-pc-problems-effortlessly-learn-about-the-7-best-solutions-available-now/"><u>Resolve Your NBA 2K23 PC Problems Effortlessly: Learn About the 7 Best Solutions Available Now!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultimate-step-by-step-guide-for-disabling-integration-support-dism-in-windows-aturday-7-systems-a-diy-approach-to-image-optimization/"><u>Ultimate Step-by-Step Guide for Disabling Integration Support (DISM) in Windows Aturday 7 Systems – A DIY Approach to Image Optimization</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unparalleled-asmr-channel-selection-for-2024/"><u>Unparalleled ASMR Channel Selection for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vidlens-app-quality-analysis/"><u>VidLens App Quality Analysis</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728498070998-404/"><u>エラー404：ご利用サイト内でページをお探し中</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mastering-tiktok-streams-top-4-methods-on-pc/"><u>[Updated] 2024 Approved Mastering TikTok Streams Top 4 Methods on PC</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-resolving-visible-horizontal-line-distortions-in-digitized-photos-expert-tips-from-yl-computing/"><u>1. Resolving Visible Horizontal Line Distortions in Digitized Photos: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/direct-video-access-top-5-ways-to-transfer-igtv-content/"><u>Direct Video Access Top 5 Ways to Transfer IGTV Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/global-vs-closed-ai-systems-dissecting-varieties/"><u>Global Vs. Closed AI Systems: Dissecting Varieties</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-begin-your-google-meet-on-devices-for-2024/"><u>How to Begin Your Google Meet on Devices for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-fix-your-scanners-precision-issues-expert-tips-from-yl-computing/"><u>How to Fix Your Scanner's Precision Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y200e-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y200e 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/identifying-the-reasons-behind-gpu-heat-issues-insights-from-yl-computing-and-yl-software/"><u>Identifying the Reasons Behind GPU Heat Issues: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-dji-mavic-pro-review-a-new-era-of-aerial-photography/"><u>In 2024, DJI Mavic Pro Review A New Era of Aerial Photography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-secret-free-apps-best-macos-text-transcribers/"><u>In 2024, Top Secret Free Apps Best macOS Text Transcribers</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/maximize-drive-capacity-expert-tips-to-reclaim-disk-space-on-your-computer-with-yl-software-solutions/"><u>Maximize Drive Capacity: Expert Tips to Reclaim Disk Space on Your Computer with YL Software Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-integrates-artificial-intelligence-into-bing-search-engine-anticipate-the-upgrade/"><u>Microsoft Integrates Artificial Intelligence Into Bing Search Engine – Anticipate the Upgrade</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/step-by-step-guide-to-mend-broken-mp4-and-mov-file-formats-via-vlc-player/"><u>Step-by-Step Guide to Mend Broken MP4 and MOV File Formats via VLC Player</u></a></li>
 </ul></div>
 

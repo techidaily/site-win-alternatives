@@ -1,7 +1,7 @@
 ---
 title: "Get Your New DX 3.14 DJ Suite by Pioneer Corporation: Complete with Mac OS Catalina Support & Exciting Updates!"
-date: 2024-12-03T17:59:26.771Z
-updated: 2024-12-09T09:31:14.041Z
+date: 2024-12-11T19:13:31.919Z
+updated: 2024-12-14T16:33:12.154Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,16 +81,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-leveraging-s2t-technology-in-professional-decks/"><u>[Updated] 2024 Approved Leveraging S2T Technology in Professional Decks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-fundamentals-of-exceptional-interviewing/"><u>[Updated] The Fundamentals of Exceptional Interviewing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/choose-and-configure-your-go-to-internet-browser-comprehensive-instructions/"><u>Choose and Configure Your Go-To Internet Browser - Comprehensive Instructions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/einfache-losungen-die-endgultige-ratgeber-fur-das-behebung-des-startloops-bei-windows-10/"><u>Einfache Lösungen: Die Endgültige Ratgeber Für Das Behebung Des Startloops Bei Windows 10</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/high-quality-jaguar-xj-desktop-backgrounds-by-yl-computing-official-site/"><u>High-Quality Jaguar XJ Desktop Backgrounds by YL Computing - Official Site</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-i-forgot-apples-macbook-air-with-these-incredibly-slim-and-powerful-lightweight-laptops/"><u>How I Forgot Apple's MacBook Air with These Incredibly Slim and Powerful Lightweight Laptops</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-90-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor 90 FRP Locks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-premier-guide-to-cost-free-video-editors/"><u>In 2024, The Premier Guide to Cost-Free Video Editors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-motorola-defy-2-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Motorola Defy 2 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-modifying-network-settings-via-control-panel-yl-software/"><u>Step-by-Step Guide: Modifying Network Settings via Control Panel - YL Software</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/understanding-root-causes-of-memory-corruption-issues-on-windows-systems-insights-by-yl-computing/"><u>Understanding Root Causes of Memory Corruption Issues on Windows Systems - Insights by YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-creative-potential-effortless-backdrop-elimination-on-canvas/"><u>[New] Unleash Creative Potential Effortless Backdrop Elimination on Canvas</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-top-11-strategies-for-boosting-your-youtube-videos-seo/"><u>[Updated] 2024 Approved Top 11 Strategies for Boosting Your YouTube Videos' SEO</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-video-channels-earning-with-new-policies/"><u>[Updated] Maximizing Video Channels Earning with New Policies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-earhearer-live-sound-critique/"><u>2024 Approved EarHearer Live Sound Critique</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/accelerate-your-pc-with-key-optimization-techniques-insights-by-yl-software-professionals/"><u>Accelerate Your PC with Key Optimization Techniques - Insights by YL Software Professionals</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/all-about-srt-essential-information-made-easy/"><u>All About SRT Essential Information Made Easy</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/deciphering-the-aftermath-how-did-the-opium-conflict-shape-history-expertise-from-yl-technology-solutions/"><u>Deciphering the Aftermath: How Did the Opium Conflict Shape History? | Expertise From YL Technology Solutions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ensuring-optimal-performance-is-your-computer-running-latest-driver-versions-learn-how-from-yl-software-expertise/"><u>Ensuring Optimal Performance: Is Your Computer Running Latest Driver Versions? Learn How From YL Software Expertise</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-fix-your-scanners-precision-issues-expert-tips-from-yl-computing/"><u>How to Fix Your Scanner's Precision Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/identifying-the-reasons-behind-gpu-heat-issues-insights-from-yl-computing-and-yl-software/"><u>Identifying the Reasons Behind GPU Heat Issues: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/optimize-your-appletv-use-with-simple-steps-to-watch-facebook-content/"><u>Optimize Your AppleTV Use with Simple Steps to Watch Facebook Content</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfect-your-crafting-skills-using-these-7-sounds-tracks/"><u>Perfect Your Crafting Skills Using These 7 Sounds Tracks</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/sharing-files-and-directories-seamlessly-a-guide-for-windows-users-expert-insights-from-yl-computing/"><u>Sharing Files and Directories Seamlessly: A Guide for Windows Users - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/troubleshooting-steps-when-your-pc-fails-to-recognize-a-peripheral-insights-from-yl-computing/"><u>Troubleshooting Steps When Your PC Fails to Recognize a Peripheral: Insights From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-solving-the-0x80248007-bugs-in-windows-10-your-ultimate-fix-manual/"><u>Understanding and Solving the 0X80248007 Bugs in Windows 10: Your Ultimate Fix Manual</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/vimeo-vs-youtube-which-is-better/"><u>Vimeo vs YouTube Which Is Better?</u></a></li>
 </ul></div>
 

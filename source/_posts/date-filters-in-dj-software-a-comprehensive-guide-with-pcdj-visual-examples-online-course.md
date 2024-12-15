@@ -1,7 +1,7 @@
 ---
 title: "Date Filters in DJ Software: A Comprehensive Guide with PCDJ Visual Examples - Online Course"
-date: 2024-12-05T19:26:07.912Z
-updated: 2024-12-09T03:29:44.018Z
+date: 2024-12-08T01:50:00.133Z
+updated: 2024-12-15T00:31:55.460Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,16 +59,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android-for-2024/"><u>[New] Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-your-ultimate-guide-to-the-best-affordable-online-video-effect-tools/"><u>[New] Your Ultimate Guide to the Best Affordable Online Video Effect Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-next-gen-webcams-a-deep-dive-into-live-videography-gear/"><u>[Updated] In 2024, Next-Gen WebCams A Deep Dive Into Live Videography Gear</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-ultimate-handbook-for-youtube-video-creation/"><u>2024 Approved The Ultimate Handbook for YouTube Video Creation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/fight-to-the-end-nintendos-top-10-fighters/"><u>Fight to the End Nintendo's Top 10 Fighters</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/high-definition-devil-may-cry-hd-wallpaper-collection-stunning-visuals-and-graphics-from-yl-computings-exclusive-library/"><u>High-Definition Devil May Cry HD Wallpaper Collection: Stunning Visuals & Graphics From YL Computing's Exclusive Library</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/identifying-key-hardware-checks-for-optimal-performance-with-yl-software-solutions/"><u>Identifying Key Hardware Checks for Optimal Performance with YL Software Solutions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-audio-extraction-youtube-to-mp3-in-macos-for-2024/"><u>Mastering Audio Extraction YouTube to MP3 in MacOS for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/modifying-your-desktop-shortcuts-and-symbols-for-efficiency-insights-from-yl-software-experts/"><u>Modifying Your Desktop Shortcuts & Symbols for Efficiency: Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-adding-files-to-zip-archives-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Adding Files to Zip Archives on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-locating-files-on-your-pc-using-windows-insights-by-yl-computing/"><u>Step-by-Step Guide: Locating Files on Your PC Using Windows - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-massive-viewership-triumphs-youtubes-greatest-hits/"><u>[New] In 2024, Massive Viewership Triumphs YouTube's Greatest Hits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-a-practical-approach-to-installing-obs-on-apple-systems/"><u>[Updated] In 2024, A Practical Approach to Installing OBS on Apple Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-infusing-fun-in-feeds-animating-instagram-text-on-stories/"><u>[Updated] Infusing Fun in Feeds Animating Instagram Text on Stories</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-high-impact-spotify-marketing-plans/"><u>2024 Approved Crafting High-Impact Spotify Marketing Plans</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-zero-cost-chromebook-recorders-for-2024/"><u>Best Zero Cost Chromebook Recorders for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-gopro-professionals-a-filmmaking-guide-for-2024/"><u>Crafting GoPro Professionals A Filmmaking Guide for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/dynamic-haikyuu-manga-visuals-and-desktop-wallpaper-pack-created-by-yl-tech/"><u>Dynamic Haikyuu Manga Visuals & Desktop Wallpaper Pack - Created by YL Tech</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/high-resolution-artistic-wallpaper-designs-professional-hd-backdrops-by-yl-computing/"><u>High-Resolution Artistic Wallpaper Designs - Professional HD Backdrops by YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-15-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone 15 to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-and-fixing-non-functional-driver-software-expert-advice-by-yl-computing/"><u>Understanding and Fixing Non-Functional Driver Software: Expert Advice by YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/yl-computings-how-to-adjusting-system-speaker-settings-through-the-control-panel/"><u>YL Computing's How-To: Adjusting System Speaker Settings Through the Control Panel</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/yl-software-solutions-effective-techniques-to-spot-a-faulty-hardware-on-your-windows-device/"><u>YL Software Solutions: Effective Techniques to Spot a Faulty Hardware on Your Windows Device</u></a></li>
 </ul></div>
 

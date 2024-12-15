@@ -1,7 +1,7 @@
 ---
 title: "How to Ensure Seamless Integration of iTunes 12.2 Into Your DJ Platform: Essential Steps and Tips"
-date: 2024-12-06T08:10:05.520Z
-updated: 2024-12-09T03:40:30.243Z
+date: 2024-12-09T00:56:32.289Z
+updated: 2024-12-14T18:36:21.295Z
 tags:
   - product
 categories:
@@ -25,16 +25,12 @@ iTunes has always been a hugely popular among DJs for media management and playl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **DJ mixing applications** such as [DEX 3](https://tools.techidaily.com/pcdj/products/) have robust media-management tools baked in.
 
 The are clear merits to creating your lists and managing you media from within the PCDJ browser instead of iTunes, especially when iTunes releases updates, often resulting in broken third party integration. There are also a fair number of DJs reporting iTunes 12 automatically applying [DRM](https://en.wikipedia.org/wiki/Digital%5Frights%5Fmanagement) and/or messing up their playlist management — but old habits die hard, and DJs will still rely heavily on iTunes as their media manager.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Where did the Library.xml file go after updating to iTunes 12.2?
 
@@ -43,7 +39,7 @@ The iTunes library is essentially two files: The **Library.itl** which is the na
 The iTunes 12.2 update (_and up_) no longer creates the Library.xml file by default, therefore when DEX 3 or RED Mobile 3 are launched the iTunes tab and subsequent playlists are not displayed. Thankfully, there is a setting in iTunes 12.2 that will generate the Library.xml file so our DJ software can dynamically pick it up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to get the Library.xml file back in iTunes 12.2
@@ -53,7 +49,7 @@ Open iTunes. Then, click on the **Menu** button > **Preferences**:
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunesmenu-1.jpg?fit=359%2C429&ssl=1 "itunesmenu-1")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunesmenu-1.jpg?fit=359%2C429&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on Advanced options and put a tick in the **Share iTunes Library XML with other applications** box:
@@ -67,7 +63,11 @@ Click on **OK** to apply. The **Library.xml** will be create in: **Users/usernam
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1 "itunestab")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,15 +89,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunes12support-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-alternatives.techidaily.com/fixing-driver-related-bugs-how-to-downgrade-a-problematic-update-expert-tips-from-yl-software/"><u>Fixing Driver-Related Bugs: How to Downgrade a Problematic Update – Expert Tips From YL Software</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-the-moment-the-ultimate-guide-to-screen-recording-with-obs/"><u>In 2024, Capturing the Moment The Ultimate Guide to Screen Recording with OBS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-methods-for-amending-silent-obs-recordings/"><u>In 2024, Methods for Amending Silent OBS Recordings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-14-pro-max-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone 14 Pro Max and Browser | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/incorporating-movies-in-linguistic-learning/"><u>Incorporating Movies in Linguistic Learning</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/lyrx-version-1601-release-enhanced-karaoke-experience-with-pcdj-software-upgrade/"><u>LYRX Version 1.6.0.1 Release: Enhanced Karaoke Experience with PCDJ Software Upgrade</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-the-art-of-cryptocurrency-investment-with-top-tips-from-yl-software-experts/"><u>Mastering the Art of Cryptocurrency Investment with Top Tips From YL Software Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-power-up-speculations-on-switch-2/"><u>Portable Power-Up: Speculations on Switch 2</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/surge-in-labor-and-housing-protests-in-china-linked-to-economic-challenges-insights-from-freedom-houses-china-dissent-monitor/"><u>Surge in Labor and Housing Protests in China Linked to Economic Challenges: Insights From Freedom House's 'China Dissent Monitor'</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-10-animation-software-for-creating-stunning-animated-videos-for-2024/"><u>Updated Top 10 Animation Software for Creating Stunning Animated Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mobile-tools-optimize-and-enhance-audio-faster/"><u>[Updated] Mobile Tools Optimize and Enhance Audio Faster</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>4K Monitor Buying Guide How to Choose the Right Monitor</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1732517698227-yl/"><u>武则天留给后世的关键文书及其意义 - YL科技解析</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ditch-costs-enjoy-free-video-playback-on-pcmac-for-2024/"><u>Ditch Costs, Enjoy FREE Video Playback on PC/Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-vids-to-mp4-download-made-easy/"><u>Facebook Vids to MP4 - Download Made Easy</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/high-quality-cowboy-panoramas-wallpapers-and-desktop-backgrounds-from-yl-computings-digital-collection/"><u>High-Quality Cowboy Panoramas, Wallpapers, and Desktop Backgrounds From YL Computing's Digital Collection</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-and-why-do-graphics-cards-fail-expert-analysis-by-yl-technology-solutions/"><u>How and Why Do Graphics Cards Fail? Expert Analysis by YL Technology Solutions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-evaluate-different-crypto-coins-yl-computing-yl-software/"><u>How to Evaluate Different Crypto Coins? – YL Computing | YL Software.</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-sleep-cycles-in-windows-systems/"><u>Mastering Sleep Cycles in Windows Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigate-safely-with-wazes-new-feature-on-high-risk-roadway-notifications/"><u>Navigate Safely with Waze's New Feature on High-Risk Roadway Notifications</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/push-boundaries-in-visual-quality-how-to-achieve-ultimate-resolution-with-yl-software-solutions/"><u>Push Boundaries in Visual Quality: How to Achieve Ultimate Resolution with YL Software Solutions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/troubleshooting-a-non-responsive-printer-solutions-and-tips-yl-computings-guide/"><u>Troubleshooting a Non-Responsive Printer: Solutions and Tips - YL Computing's Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/troubleshooting-guide-for-malfunctioning-usb-connections-by-yl-software-experts/"><u>Troubleshooting Guide for Malfunctioning USB Connections by YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/troubleshooting-incomplete-software-setup-insights-from-yl-computings-expertise/"><u>Troubleshooting Incomplete Software Setup: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ultimate-singing-experience-subscription-party-on-with-fresh-tracks-from-this-week-8219-edition/"><u>Ultimate Singing Experience Subscription - Party On With Fresh Tracks From This Week, 8/2/19 Edition.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-camon-20-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Camon 20 Device</u></a></li>
 </ul></div>
 

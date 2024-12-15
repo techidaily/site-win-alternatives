@@ -1,7 +1,7 @@
 ---
 title: Sealers and Coatings Reduce Concrete Permeability and Protect Against Moisture Ingress and Freeze-Thaw Damage.
-date: 2024-12-01T20:02:03.727Z
-updated: 2024-12-09T03:52:53.474Z
+date: 2024-12-09T00:20:23.787Z
+updated: 2024-12-15T09:16:08.746Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-rapid-route-to-reclaimed-reddit-articles-for-2024/"><u>[New] Rapid Route to Reclaimed Reddit Articles for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-premier-options-to-play-sonys-ps1-games-on-pc/"><u>[Updated] 2024 Approved Premier Options to Play Sony's PS1 Games on PC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-posting-photos-and-vids-to-twitter-from-your-phone-not-as-a-retweet/"><u>[Updated] In 2024, Posting Photos and Vids to Twitter From Your Phone, Not as a Retweet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-zoom-communication-guide-unlocking-the-power-of-remote-conversations/"><u>[Updated] In 2024, The Ultimate Zoom Communication Guide Unlocking the Power of Remote Conversations</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-art-of-virtual-visualization-in-digital-streaming-platforms-for-2024/"><u>[Updated] The Art of Virtual Visualization in Digital Streaming Platforms for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/curious-about-apples-punctuation-policy-discover-why-they-shun-exclamation-marks-on-their-site-zdnet/"><u>Curious About Apple's Punctuation Policy? Discover Why They Shun Exclamation Marks on Their Site | ZDNET</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/discover-the-ultimate-mac-karaoke-and-mixing-software-lyrx-essential-tips-from-2018/"><u>Discover the Ultimate MAC Karaoke and Mixing Software LYRX - Essential Tips From 2018</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/dynamic-haikyuu-manga-visuals-and-desktop-wallpaper-pack-created-by-yl-tech/"><u>Dynamic Haikyuu Manga Visuals & Desktop Wallpaper Pack - Created by YL Tech</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/expert-tips-for-fixing-display-issues-on-your-windows-pc-detailed-insights-from-yl-software/"><u>Expert Tips for Fixing Display Issues on Your Windows PC - Detailed Insights From YL Software</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-issue-why-your-steam-client-may-pause-or-lag/"><u>Fixing the Issue: Why Your Steam Client May Pause or Lag</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/high-resolution-artistic-wallpaper-designs-professional-hd-backdrops-by-yl-computing/"><u>High-Resolution Artistic Wallpaper Designs - Professional HD Backdrops by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-situations-when-visual-identification-fails-on-your-iphone/"><u>How to Fix Situations When Visual Identification Fails on Your iPhone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/identifying-hardware-problems-with-your-printer-expert-advice-from-yl-computing/"><u>Identifying Hardware Problems with Your Printer - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-12-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 12</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/understanding-and-fixing-non-functional-driver-software-expert-advice-by-yl-computing/"><u>Understanding and Fixing Non-Functional Driver Software: Expert Advice by YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/yl-computings-how-to-adjusting-system-speaker-settings-through-the-control-panel/"><u>YL Computing's How-To: Adjusting System Speaker Settings Through the Control Panel</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/yl-software-solutions-effective-techniques-to-spot-a-faulty-hardware-on-your-windows-device/"><u>YL Software Solutions: Effective Techniques to Spot a Faulty Hardware on Your Windows Device</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-seamless-integration-utilizing-instagrams-music-stickers-expertise/"><u>[New] 2024 Approved Seamless Integration Utilizing Instagram's Music Stickers Expertise</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-solving-windows-product-key-activation-troubles-a-guide-by-yl-computing/"><u>1. Solving Windows Product Key Activation Troubles: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/djs-unite-discover-the-latest-beatport-link-updates-with-a-revolutionary-mobile-app/"><u>DJs Unite: Discover the Latest Beatport Link Updates with a Revolutionary Mobile App!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/gameplay-essentials-key-minimum-system-specifications-explained-by-yl-software-experts/"><u>Gameplay Essentials: Key Minimum System Specifications Explained by YL Software Experts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ideal-plot-crafting-platform/"><u>Ideal Plot Crafting Platform</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-x50-gt-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor X50 GT Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/key-strategies-for-success-setting-up-a-robust-crypto-exchange-with-guidance-from-yl-software-experts/"><u>Key Strategies for Success: Setting Up a Robust Crypto Exchange with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mac-users-guide-to-snapchat-integration/"><u>Mac Users' Guide to Snapchat Integration</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209846367-9781911134183-quareia-the-adept/"><u>Quareia The Adept | Free Book</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/restoring-laptop-defaults-made-easy-comprehensive-tutorial-on-factory-settings-from-yl-software-experts/"><u>Restoring Laptop Defaults Made Easy: Comprehensive Tutorial on Factory Settings From YL Software Experts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/should-i-switch-to-ios-17/"><u>Should I Switch to iOS 17?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-pitfalls-to-steer-clear-of-in-your-crypto-trading-journey-insights-from-yl-computing/"><u>Top Pitfalls to Steer Clear of in Your Crypto Trading Journey: Insights From YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unbeatable-iphone-add-ons-upgrade-your-device-today/"><u>Unbeatable iPhone Add-Ons: Upgrade Your Device Today</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-update-6-best-voice-changers-you-cant-miss/"><u>Updated 2024 Approved Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/yl-computing-tutorial-easy-methods-to-update-hardware-drivers-on-windows-platform/"><u>YL Computing Tutorial: Easy Methods to Update Hardware Drivers on Windows Platform</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/yl-computings-expert-advice-on-bundling-multiple-documents-into-one-zip-file-efficiently/"><u>YL Computing's Expert Advice on Bundling Multiple Documents Into One ZIP File Efficiently</u></a></li>
 </ul></div>
 
