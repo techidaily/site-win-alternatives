@@ -1,7 +1,7 @@
 ---
 title: "New Feature Alert: In-App Karaoke & Subscriptions Roll Out with DJ Software Update in DEX 3.9!"
-date: 2024-12-10T06:03:37.599Z
-updated: 2024-12-15T02:25:58.265Z
+date: 2024-12-17T04:19:14.919Z
+updated: 2024-12-23T22:08:37.978Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As we forge forward with our unwavering design goal to make [DEX 3](https://tool
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### An in-app Karaoke Subscription is coming to DEX 3.9 compliments of [Party Tyme Karaoke](https://www.partytyme.com/).
@@ -45,7 +45,7 @@ We’ll email all newsletter subscribers when DEX 3.9 and the Party Tyme Karaoke
 _Have questions about the Party Tyme **Karaoke Subscription** coming to **DEX 3.9**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,16 +67,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/dex3partytyme-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-seamless-transition-turning-srt-into-sub-for-2024/"><u>[New] Seamless Transition Turning SRT Into SUB for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-a-symphony-of-sights-and-sounds-in-video/"><u>2024 Approved Crafting a Symphony of Sights & Sounds in Video</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-unauthorized-users-4-routines-for-restraining-windows-access/"><u>Eliminating Unauthorized Users: 4 Routines for Restraining Windows Access</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/expert-guide-stop-windows-memory-errors-before-they-happen-with-yl-computings-solutions/"><u>Expert Guide: Stop Windows Memory Errors Before They Happen with YL Computing's Solutions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-exclusive-insight-into-low-cost-footage-websites/"><u>In 2024, Exclusive Insight Into Low-Cost Footage Websites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-frozen-delight-ice-cream-cam-and-comprehensive-tutorial/"><u>In 2024, Frozen Delight Ice Cream Cam & Comprehensive Tutorial</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-worlds-latest-trends-in-virtual-tech/"><u>In 2024, Synthesizing Worlds Latest Trends in Virtual Tech</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/reviving-your-pcs-health-effective-techniques-to-recover-corrupt-registry-entries-and-system-components-yl-software-solutions/"><u>Reviving Your PC's Health: Effective Techniques to Recover Corrupt Registry Entries and System Components – YL Software Solutions</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/the-right-moment-for-a-refresh-understanding-the-need-for-new-thermal-compound-on-processors/"><u>The Right Moment for a Refresh: Understanding the Need for New Thermal Compound on Processors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-for-enabling-chatgpts-cutting-edge-beta-web-surfing-and-extension-suite/"><u>The Ultimate Walkthrough for Enabling ChatGPT's Cutting-Edge Beta Web Surfing & Extension Suite</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/turtle-themed-wallpapers-and-backgrounds-by-yl-computing-high-quality-digital-art/"><u>Turtle-Themed Wallpapers & Backgrounds by YL Computing: High Quality Digital Art</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-2023s-amazonprimetrending-top-tweets-that-stood-out/"><u>[New] 2024 Approved 2023'S #AmazonPrimeTrending - Top Tweets That Stood Out</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mixease-mac-and-windows-unifier/"><u>[New] In 2024, MIXEase Mac & Windows Unifier</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-advanced-tips-for-nvidia-recorded-content/"><u>[Updated] 2024 Approved Advanced Tips for NVIDIA Recorded Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-epic-creators-colloquium/"><u>[Updated] The Epic Creator's Colloquium</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-solving-windows-product-key-activation-troubles-a-guide-by-yl-computing/"><u>1. Solving Windows Product Key Activation Troubles: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-ultimate-guide-to-fixing-windows-memory-issues-insights-from-yl-computing/"><u>1. Ultimate Guide to Fixing Windows Memory Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/djs-unite-discover-the-latest-beatport-link-updates-with-a-revolutionary-mobile-app/"><u>DJs Unite: Discover the Latest Beatport Link Updates with a Revolutionary Mobile App!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-latest-hp-printer-drivers-on-windows-1011-compatible-versions/"><u>Download & Install Latest HP Printer Drivers on Windows 10/11: Compatible Versions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/gameplay-essentials-key-minimum-system-specifications-explained-by-yl-software-experts/"><u>Gameplay Essentials: Key Minimum System Specifications Explained by YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/real-time-security-how-effective-is-windows-defender-in-guarding-against-malware-and-online-threats/"><u>Real-Time Security: How Effective Is Windows Defender in Guarding Against Malware & Online Threats?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/restoring-laptop-defaults-made-easy-comprehensive-tutorial-on-factory-settings-from-yl-software-experts/"><u>Restoring Laptop Defaults Made Easy: Comprehensive Tutorial on Factory Settings From YL Software Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-engagement-explore-the-top-5-tailored-gpt-commands-for-success/"><u>Revolutionizing AI Engagement: Explore the Top 5 Tailored GPT Commands for Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-unavailable-d3d9dll-malfunction/"><u>Troubleshooting the Unavailable D3D9.DLL Malfunction</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unraveling-twitchs-mysteries-the-recording-connoisseurs-guide/"><u>Unraveling Twitch's Mysteries The Recording Connoisseur's Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/yl-computing-tutorial-easy-methods-to-update-hardware-drivers-on-windows-platform/"><u>YL Computing Tutorial: Easy Methods to Update Hardware Drivers on Windows Platform</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sealers and Coatings Reduce Concrete Permeability and Protect Against Moisture Ingress and Freeze-Thaw Damage.
-date: 2024-12-09T00:20:23.787Z
-updated: 2024-12-15T09:16:08.746Z
+date: 2024-12-19T00:52:38.236Z
+updated: 2024-12-24T10:31:01.431Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-seamless-integration-utilizing-instagrams-music-stickers-expertise/"><u>[New] 2024 Approved Seamless Integration Utilizing Instagram's Music Stickers Expertise</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-solving-windows-product-key-activation-troubles-a-guide-by-yl-computing/"><u>1. Solving Windows Product Key Activation Troubles: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/djs-unite-discover-the-latest-beatport-link-updates-with-a-revolutionary-mobile-app/"><u>DJs Unite: Discover the Latest Beatport Link Updates with a Revolutionary Mobile App!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/gameplay-essentials-key-minimum-system-specifications-explained-by-yl-software-experts/"><u>Gameplay Essentials: Key Minimum System Specifications Explained by YL Software Experts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/ideal-plot-crafting-platform/"><u>Ideal Plot Crafting Platform</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-x50-gt-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor X50 GT Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/key-strategies-for-success-setting-up-a-robust-crypto-exchange-with-guidance-from-yl-software-experts/"><u>Key Strategies for Success: Setting Up a Robust Crypto Exchange with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/mac-users-guide-to-snapchat-integration/"><u>Mac Users' Guide to Snapchat Integration</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209846367-9781911134183-quareia-the-adept/"><u>Quareia The Adept | Free Book</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/restoring-laptop-defaults-made-easy-comprehensive-tutorial-on-factory-settings-from-yl-software-experts/"><u>Restoring Laptop Defaults Made Easy: Comprehensive Tutorial on Factory Settings From YL Software Experts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/should-i-switch-to-ios-17/"><u>Should I Switch to iOS 17?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-pitfalls-to-steer-clear-of-in-your-crypto-trading-journey-insights-from-yl-computing/"><u>Top Pitfalls to Steer Clear of in Your Crypto Trading Journey: Insights From YL Computing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unbeatable-iphone-add-ons-upgrade-your-device-today/"><u>Unbeatable iPhone Add-Ons: Upgrade Your Device Today</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-update-6-best-voice-changers-you-cant-miss/"><u>Updated 2024 Approved Update 6 Best Voice Changers You Cant Miss</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/yl-computing-tutorial-easy-methods-to-update-hardware-drivers-on-windows-platform/"><u>YL Computing Tutorial: Easy Methods to Update Hardware Drivers on Windows Platform</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/yl-computings-expert-advice-on-bundling-multiple-documents-into-one-zip-file-efficiently/"><u>YL Computing's Expert Advice on Bundling Multiple Documents Into One ZIP File Efficiently</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-high-speed-capture-device-with-preloaded-narrations-for-2024/"><u>[New] High-Speed Capture Device with Preloaded Narrations for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secrets-of-recording-video-without-distracting-noise-for-2024/"><u>[New] Secrets of Recording Video without Distracting Noise for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-unlocking-system-potential-discover-the-advantages-of-registry-editor-usage-with-yl-computing/"><u>1. Unlocking System Potential: Discover the Advantages of Registry Editor Usage with YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/yl-u/"><u>独到见解专栏 - YL计算和软件 | 雪球创作：启发自u家的孤独之旅</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/cutting-edge-editing-solutions-just-for-vimeo/"><u>Cutting-Edge Editing Solutions Just for Vimeo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-broadcasts-with-manycam-top-virtual-camcorder-and-editing-suite/"><u>Enhance Your Broadcasts with ManyCam - Top Virtual Camcorder and Editing Suite</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ex-russian-man-caught-in-spy-scandal-accused-of-betraying-both-us-and-sweden-while-illicitly-arming-russian-forces-inside-yl-computings-reveal/"><u>Ex-Russian Man Caught in Spy Scandal, Accused of Betraying Both US and Sweden While Illicitly Arming Russian Forces – Inside YL Computing's Reveal</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-can-a-malfunctioning-gpu-lead-to-problems-booting-your-computer-expert-insights-by-yl-computing/"><u>How Can a Malfunctioning GPU Lead to Problems Booting Your Computer? - Expert Insights by YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-can-i-fix-the-outdated-driver-alert-prompt-from-yl-computing-and-yl-software-systems/"><u>How Can I Fix the 'Outdated Driver' Alert Prompt From YL Computing & YL Software Systems?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-inside-look-polaroids-bold-move-into-action-camera-tech/"><u>In 2024, Inside Look Polaroid's Bold Move Into Action Camera Tech</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-create-talking-cartoon-images-using-top-tools/"><u>New Create Talking Cartoon Images Using Top Tools</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-renaming-zip-files-with-easy-methods-tips-from-yl-computing/"><u>Step-by-Step Guide: Renaming Zip Files with Easy Methods - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-adding-motion-blur-effect-in-photoshop/"><u>The Ultimate Guide to Adding Motion Blur Effect in Photoshop</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/troubleshooting-boot-issues-overcoming-no-boot-device-with-yl-software-solutions/"><u>Troubleshooting Boot Issues: Overcoming 'No Boot Device' With YL Software Solutions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-the-factors-behind-decreased-graphics-card-performance-insights-from-yl-computing-and-yl-software/"><u>Understanding the Factors Behind Decreased Graphics Card Performance: Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-the-reasons-for-loud-computer-fans-a-guide-by-yl-computing-yl-solutions/"><u>Understanding the Reasons for Loud Computer Fans: A Guide by YL Computing | YL Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-full-administrative-powershell-capability/"><u>Unlocking Windows 11'S Full Administrative PowerShell Capability</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-seamless-soundwave-capture-essential-techniques-for-podcast-storage-on-computers/"><u>Updated In 2024, Seamless Soundwave Capture Essential Techniques for Podcast Storage on Computers</u></a></li>
 </ul></div>
 

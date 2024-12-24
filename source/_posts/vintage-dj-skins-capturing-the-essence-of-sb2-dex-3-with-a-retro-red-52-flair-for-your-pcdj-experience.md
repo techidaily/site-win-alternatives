@@ -1,7 +1,7 @@
 ---
 title: "Vintage DJ Skins: Capturing the Essence of SB2 DEX 3 with a Retro Red 5.2 Flair for Your PCDJ Experience"
-date: 2024-12-13T01:30:11.375Z
-updated: 2024-12-15T01:02:45.546Z
+date: 2024-12-17T09:12:50.009Z
+updated: 2024-12-23T23:45:56.891Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ RED 5.2 was the game changer, and the first [DJ mixing software](https://tools.t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SB2 DEX 3 “Throw Back PCDJ RED 5.2” Skin (1600×900 or 16:9)
@@ -37,7 +37,7 @@ Harry Thomas of [HMT3 Designs](http://hmt3design.com/) created the SB2 DEX 3 DJ 
 [CLICK FOR LARGER IMAGE ![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=300%2C169&ssl=1 "sb2-audio")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=1030%2C580&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We think this skin is a great fit for DJs that prefer using a mouse and keyboard over one of the 75 supported [DJ controllers](https://tools.techidaily.com/pcdj/products/). Harry has included pretty much the full gamut of buttons and sliders, along with tabs for video, sampler and browser. The approach to the browser tab is unique and not found in any other [DEX 3 skins](https://tools.techidaily.com/pcdj/products/) submitted so far. The browser tab includes all your automix and shuffle controls, as well as color coding options for your track library.
@@ -53,7 +53,7 @@ _**Unzip ALL Skin Files To Documents -> PCDJ-DEX3 -> Skins**_
 [All Current DEX 3 DJ Software Skins](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,22 +75,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/sb3skin-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-best-storage-deals-cloud-pricing-of-future-year/"><u>[Updated] 2024 Approved Best Storage Deals Cloud Pricing of Future Year</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-discovering-the-best-soundtracks-for-unboxing-vlogs/"><u>[Updated] In 2024, Discovering the Best Soundtracks for Unboxing Vlogs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-file-transfer-the-ultimate-windows-and-mac-downloading-path-for-2024/"><u>[Updated] Mastering File Transfer The Ultimate Windows & Mac Downloading Path for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-ultimate-guide-to-budget-friendly-4k-cameras/"><u>[Updated] Ultimate Guide to Budget-Friendly 4K Cameras</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-10-popular-discord-themes-from-betterdiscord/"><u>2024 Approved 10 Popular Discord Themes [From BetterDiscord]</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-automation-boost-your-sites-performance/"><u>Cookiebot-Driven Automation: Boost Your Site's Performance</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/easily-adjust-your-pcs-windows-update-preferences-using-the-control-panel-tips-from-yl-software-experts/"><u>Easily Adjust Your PC's Windows Update Preferences Using the Control Panel: Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effective-techniques-for-harvesting-bing-search-results-with-yls-advanced-tools/"><u>Effective Techniques for Harvesting Bing Search Results with YL's Advanced Tools</u></a></li>
-<li><a href="https://fox-making.techidaily.com/exclusive-jammtext-promo-enhance-your-dj-set-with-interactive-screens-on-dex-3/"><u>Exclusive JammText Promo: Enhance Your DJ Set with Interactive Screens on DEX 3</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-can-regular-defragmentation-enhance-your-computers-speed-expert-tips-from-yl-computing/"><u>How Can Regular Defragmentation Enhance Your Computer's Speed? Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-identify-and-troubleshoot-your-graphics-card-issues-tips-by-yl-computing/"><u>How to Identify and Troubleshoot Your Graphics Card Issues - Tips by YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-recognize-signs-of-a-faulty-gpu-a-comprehensive-guide-by-yl-computing/"><u>How to Recognize Signs of a Faulty GPU: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/safeguard-your-bitcoin-and-alt-coins-a-comprehensive-guide-by-yl-computing-for-secure-crypto-asset-storage/"><u>Safeguard Your Bitcoin and Alt-Coins: A Comprehensive Guide by YL Computing for Secure Crypto Asset Storage</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/setting-up-your-screen-configuration-with-control-panel-tips-from-yl-software-experts/"><u>Setting Up Your Screen Configuration with Control Panel - Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-silent-laptop-speakers-solutions-and-tips-by-yl-computing/"><u>Troubleshooting Silent Laptop Speakers - Solutions & Tips by YL Computing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/witcher-3-pc-version-optimization-tips-to-prevent-game-crashes-and-lag/"><u>Witcher 3 - PC Version Optimization Tips to Prevent Game Crashes and Lag</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-10-fb-movies-in-one-place/"><u>[New] 2024 Approved Top 10 Fb Movies in One Place</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-apex-play-exclusively-how-to-disable-cross-play-feature/"><u>[Updated] In 2024, Mastering Apex Play Exclusively How to Disable Cross-Play Feature</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-k11-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo K11 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-read-qr-codes-with-iphone-camera-here-are-5-effective-ways-to-fix-it/"><u>Can't Read QR Codes with iPhone Camera? Here Are 5 Effective Ways to Fix It!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ceasing-your-routine-steam-commitments/"><u>Ceasing Your Routine Steam Commitments</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/enhancing-online-presence-obs-and-facebook-synergy-for-2024/"><u>Enhancing Online Presence OBS & Facebook Synergy for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/exploring-digital-asset-trading-platforms-with-yl-softwares-comprehensive-guide-to-crypto-exchanges/"><u>Exploring Digital Asset Trading Platforms with YL Software's Comprehensive Guide to Crypto Exchanges</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/high-resolution-emma-roberts-2021-themes-and-backdrops-from-yl-softwares-latest-release/"><u>High-Resolution Emma Roberts 2021 Themes & Backdrops From YL Software's Latest Release!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-game-crashes-on-pc-and-console-when-playing-nioe-2-complete-edition/"><u>How to Prevent Game Crashes on PC and Console When Playing Nioe 2 Complete Edition</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/identifying-signs-of-a-malfunctioning-gpu-expert-advice-from-yl-computing-and-yl-software/"><u>Identifying Signs of a Malfunctioning GPU: Expert Advice From YL Computing and YL Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-earn-on-youtube-beginners-path-to-profitability/"><u>In 2024, Earn on YouTube Beginner's Path to Profitability</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/managing-applications-in-windows-using-the-control-panel-to-install-or-uninstall-tips-from-yl-software-experts/"><u>Managing Applications in Windows: Using the Control Panel to Install or Uninstall – Tips From YL Software Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/reasons-behind-upcoming-instagram-thread-cessation/"><u>Reasons Behind Upcoming Instagram Thread Cessation</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/resolving-constant-application-error-alerts-expert-advice-and-solutions-by-yl-software-experts/"><u>Resolving Constant Application Error Alerts: Expert Advice and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/resolving-the-blue-screen-of-death-issue-a-step-by-step-guide-by-yl-computing/"><u>Resolving the 'Blue Screen of Death' Issue: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-mastering-your-machines-volume-control-advice-by-yl-computing-experts/"><u>Step-by-Step: Mastering Your Machine's Volume Control - Advice by YL Computing Experts</u></a></li>
+<li><a href="https://techidaily.com/the-complete-guide-to-dualplusmonitor-configurations-for-enhanced-productivity/"><u>The Complete Guide to Dual+Monitor Configurations for Enhanced Productivity</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/trouble-free-listening-comprehensive-troubleshooting-steps-for-computer-sound-cards-by-yl-software-experts/"><u>Trouble-Free Listening: Comprehensive Troubleshooting Steps for Computer Sound Cards by YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-windows-defender-how-does-it-compare-to-traditional-antivirus-solutions/"><u>Understanding Windows Defender: How Does It Compare to Traditional Antivirus Solutions?</u></a></li>
 </ul></div>
 

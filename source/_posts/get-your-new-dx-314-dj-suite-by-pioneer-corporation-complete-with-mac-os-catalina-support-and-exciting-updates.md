@@ -1,7 +1,7 @@
 ---
 title: "Get Your New DX 3.14 DJ Suite by Pioneer Corporation: Complete with Mac OS Catalina Support & Exciting Updates!"
-date: 2024-12-11T19:13:31.919Z
-updated: 2024-12-14T16:33:12.154Z
+date: 2024-12-20T09:49:09.438Z
+updated: 2024-12-23T22:56:26.016Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,21 +81,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unleash-creative-potential-effortless-backdrop-elimination-on-canvas/"><u>[New] Unleash Creative Potential Effortless Backdrop Elimination on Canvas</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-top-11-strategies-for-boosting-your-youtube-videos-seo/"><u>[Updated] 2024 Approved Top 11 Strategies for Boosting Your YouTube Videos' SEO</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-video-channels-earning-with-new-policies/"><u>[Updated] Maximizing Video Channels Earning with New Policies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-earhearer-live-sound-critique/"><u>2024 Approved EarHearer Live Sound Critique</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/accelerate-your-pc-with-key-optimization-techniques-insights-by-yl-software-professionals/"><u>Accelerate Your PC with Key Optimization Techniques - Insights by YL Software Professionals</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/all-about-srt-essential-information-made-easy/"><u>All About SRT Essential Information Made Easy</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/deciphering-the-aftermath-how-did-the-opium-conflict-shape-history-expertise-from-yl-technology-solutions/"><u>Deciphering the Aftermath: How Did the Opium Conflict Shape History? | Expertise From YL Technology Solutions</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ensuring-optimal-performance-is-your-computer-running-latest-driver-versions-learn-how-from-yl-software-expertise/"><u>Ensuring Optimal Performance: Is Your Computer Running Latest Driver Versions? Learn How From YL Software Expertise</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-fix-your-scanners-precision-issues-expert-tips-from-yl-computing/"><u>How to Fix Your Scanner's Precision Issues: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/identifying-the-reasons-behind-gpu-heat-issues-insights-from-yl-computing-and-yl-software/"><u>Identifying the Reasons Behind GPU Heat Issues: Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/optimize-your-appletv-use-with-simple-steps-to-watch-facebook-content/"><u>Optimize Your AppleTV Use with Simple Steps to Watch Facebook Content</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/perfect-your-crafting-skills-using-these-7-sounds-tracks/"><u>Perfect Your Crafting Skills Using These 7 Sounds Tracks</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/sharing-files-and-directories-seamlessly-a-guide-for-windows-users-expert-insights-from-yl-computing/"><u>Sharing Files and Directories Seamlessly: A Guide for Windows Users - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-steps-when-your-pc-fails-to-recognize-a-peripheral-insights-from-yl-computing/"><u>Troubleshooting Steps When Your PC Fails to Recognize a Peripheral: Insights From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-solving-the-0x80248007-bugs-in-windows-10-your-ultimate-fix-manual/"><u>Understanding and Solving the 0X80248007 Bugs in Windows 10: Your Ultimate Fix Manual</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/vimeo-vs-youtube-which-is-better/"><u>Vimeo vs YouTube Which Is Better?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sky-sprinting-guide-plus-mastering-the-art-of-fpv-drone-racing/"><u>[Updated] Sky Sprinting Guide + Mastering the Art of FPV Drone Racing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-navigating-to-superior-websites-for-tamil-ringtone-saves/"><u>2024 Approved Navigating to Superior Websites for Tamil Ringtone Saves</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/date-filters-in-dj-software-a-comprehensive-guide-with-pcdj-visual-examples-online-course/"><u>Date Filters in DJ Software: A Comprehensive Guide with PCDJ Visual Examples - Online Course</u></a></li>
+<li><a href="https://fox-access.techidaily.com/essential-tips-for-mac-users-with-obs-and-streamlabs/"><u>Essential Tips for Mac Users with OBS & Streamlabs</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-modify-your-personal-preferences-through-windows-control-panel-a-guide-by-yl-computing/"><u>How to Modify Your Personal Preferences Through Windows Control Panel: A Guide by YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y56-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y56 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-integrating-third-party-tools-with-your-win11-zoom-setup/"><u>In 2024, Integrating Third-Party Tools with Your Win11 Zoom Setup</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-recurrence-installer-collection/"><u>In 2024, Recurrence Installer Collection</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/launch-your-crypto-journey-expert-tips-for-trading-bitcoin-and-altcoins-using-yl-software-solutions/"><u>Launch Your Crypto Journey: Expert Tips for Trading Bitcoin & Altcoins Using YL Software Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimalist-mindset-adopt-the-compact-file-explorer/"><u>Minimalist Mindset: Adopt the Compact File Explorer</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-free-and-easy-tiktok-watermark-removal-top-online-sites/"><u>New 2024 Approved Free and Easy TikTok Watermark Removal Top Online Sites</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-restricted-windows-registry-keys-an-overview-by-yl-computing/"><u>Understanding Restricted Windows Registry Keys: An Overview by YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-the-reasons-behind-slow-computer-boot-times-a-guide-by-yl-computing/"><u>Understanding the Reasons Behind Slow Computer Boot Times: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/unraveling-the-mystery-of-bitcoin-insightful-explanation-and-functionality-breakdown-by-yl-computing/"><u>Unraveling the Mystery of Bitcoin: Insightful Explanation & Functionality Breakdown by YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/verifying-network-card-functionality-a-step-by-step-guide-yl-computing/"><u>Verifying Network Card Functionality: A Step-by-Step Guide - YL Computing</u></a></li>
 </ul></div>
 
