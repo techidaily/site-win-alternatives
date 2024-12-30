@@ -1,7 +1,7 @@
 ---
 title: "How to Ensure Seamless Integration of iTunes 12.2 Into Your DJ Platform: Essential Steps and Tips"
-date: 2024-12-22T20:01:34.044Z
-updated: 2024-12-24T01:05:04.117Z
+date: 2024-12-28T20:26:43.859Z
+updated: 2024-12-29T22:24:43.728Z
 tags:
   - product
 categories:
@@ -25,12 +25,16 @@ iTunes has always been a hugely popular among DJs for media management and playl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **DJ mixing applications** such as [DEX 3](https://tools.techidaily.com/pcdj/products/) have robust media-management tools baked in.
 
 The are clear merits to creating your lists and managing you media from within the PCDJ browser instead of iTunes, especially when iTunes releases updates, often resulting in broken third party integration. There are also a fair number of DJs reporting iTunes 12 automatically applying [DRM](https://en.wikipedia.org/wiki/Digital%5Frights%5Fmanagement) and/or messing up their playlist management — but old habits die hard, and DJs will still rely heavily on iTunes as their media manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Where did the Library.xml file go after updating to iTunes 12.2?
 
@@ -39,7 +43,7 @@ The iTunes library is essentially two files: The **Library.itl** which is the na
 The iTunes 12.2 update (_and up_) no longer creates the Library.xml file by default, therefore when DEX 3 or RED Mobile 3 are launched the iTunes tab and subsequent playlists are not displayed. Thankfully, there is a setting in iTunes 12.2 that will generate the Library.xml file so our DJ software can dynamically pick it up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to get the Library.xml file back in iTunes 12.2
@@ -53,7 +57,7 @@ Click on Advanced options and put a tick in the **Share iTunes Library XML with 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1 "shareitunes")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on **OK** to apply. The **Library.xml** will be create in: **Users/username/Music/iTunes** _(NOTE: The default location is where you need to store your iTunes library.xml file for PCDJ to grab it)_
@@ -63,11 +67,7 @@ Click on **OK** to apply. The **Library.xml** will be create in: **Users/usernam
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1 "itunestab")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,15 +89,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunes12support-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-get-back-to-pure-content-how-to-block-youtube-ads-on-all-devices/"><u>[New] 2024 Approved Get Back to Pure Content How to Block YouTube Ads on All Devices</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/emperor-qianlongs-signature-infrastructure-endeavors-a-look-into-qing-dynastys-architectural-marvels-insights-by-yl-computing-and-yl-software/"><u>Emperor Qianlong's Signature Infrastructure Endeavors: A Look Into Qing Dynasty's Architectural Marvels - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-fix-application-malfunctions-caused-by-gpu-issues-a-step-by-step-guide-yl-computing/"><u>How to Fix Application Malfunctions Caused by GPU Issues: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-fix-your-laptop-when-it-fails-to-start-up-post-update-expert-advice-from-yl-computing/"><u>How to Fix Your Laptop When It Fails to Start Up Post-Update: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y100-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo Y100</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionize-your-television-experience-with-the-antolink-at-127-outstanding-free-broadcast-signal/"><u>Revolutionize Your Television Experience with the Antolink AT-127 - Outstanding Free Broadcast Signal!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionizing-video-production-with-skillful-audio-crafting-for-2024/"><u>Revolutionizing Video Production with Skillful Audio Crafting for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-easy-download-of-current-video-graphics-array-vga-drivers/"><u>Step-by-Step Guide: Easy Download of Current Video Graphics Array (VGA) Drivers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-htc-u23-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/yl-software-explains-how-to-easily-update-your-computers-driver-using-the-control-panel/"><u>YL Software Explains How to Easily Update Your Computer's Driver Using the Control Panel</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-connecting-for-content-roku-and-facebook-live-for-2024/"><u>[New] Connecting for Content Roku and Facebook LIVE for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-sparkle-in-the-spotlight-personalized-logos-made-easy-and-free/"><u>[Updated] 2024 Approved Sparkle in the Spotlight Personalized Logos Made Easy & Free</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-beginners-pathway-utilizing-fade-transitions/"><u>[Updated] Beginner's Pathway Utilizing Fade Transitions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-innovating-with-obs-studio-on-android-systems/"><u>[Updated] In 2024, Innovating with OBS Studio on Android Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-x5-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco X5</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-speed-in-snapshots-auditory-recorded/"><u>2024 Approved Speed in Snapshots Auditory Recorded</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ensuring-your-gpu-is-functioning-properly-expert-insights-from-yl-computing/"><u>Ensuring Your GPU Is Functioning Properly: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-can-you-resolve-a-computer-that-fails-to-start-up-expert-tips-from-yl-computings-software-solutions/"><u>How Can You Resolve a Computer That Fails to Start Up? - Expert Tips From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-check-if-your-gpu-fits-your-pc-setup-a-comprehensive-tutorial-by-yl-software-experts/"><u>How to Check if Your GPU Fits Your PC Setup: A Comprehensive Tutorial by YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-missing-desktop-icons-on-windows-10-fix-and-guide/"><u>How to Recover Missing Desktop Icons on Windows 10 (Fix & Guide)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/safeguarding-against-scams-as-you-seek-to-amass-one-million-youtube-watches-for-2024/"><u>Safeguarding Against Scams as You Seek to Amass One Million YouTube Watches for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-critical-media-device-drivers-missing-from-your-pc/"><u>Solved: Critical Media Device Drivers Missing From Your PC</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-common-reasons-behind-network-adapter-malfunctions-insights-from-yl-computing/"><u>Understanding Common Reasons Behind Network Adapter Malfunctions - Insights From YL Computing</u></a></li>
 </ul></div>
 

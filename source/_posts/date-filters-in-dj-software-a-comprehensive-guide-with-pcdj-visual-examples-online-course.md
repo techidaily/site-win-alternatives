@@ -1,7 +1,7 @@
 ---
 title: "Date Filters in DJ Software: A Comprehensive Guide with PCDJ Visual Examples - Online Course"
-date: 2024-12-17T16:40:26.681Z
-updated: 2024-12-24T02:56:51.449Z
+date: 2024-12-22T20:46:42.818Z
+updated: 2024-12-30T01:50:16.818Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,24 +59,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-navigating-the-features-of-voice-recognition-in-gdoc/"><u>[New] 2024 Approved Navigating the Features of Voice Recognition in GDoc</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-stop-video-capture-a-quicktime-guide-for-2024/"><u>[New] Stop Video Capture A QuickTime Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-subtly-dimming-your-computers-audio-output/"><u>[New] Subtly Dimming Your Computer's Audio Output</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-visual-depth-with-hdri-techniques-over-sdr/"><u>[Updated] Mastering Visual Depth with HDRI Techniques Over SDR</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/diy-pc-hardware-repair-expert-solutions-and-tips-from-yl-computing/"><u>DIY PC Hardware Repair: Expert Solutions and Tips From YL Computing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-installation-of-epson-perfection-v39-drivers-for-microsoft-windows-versions-7-8-1-free-downloads-available/"><u>Easy Installation of Epson Perfection V39 Drivers for Microsoft Windows Versions (7, 8, 1#) – Free Downloads Available!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/educational-visuals-expertise-in-video-cutting/"><u>Educational Visuals Expertise in Video Cutting</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-techniques-to-solve-lg-display-drivers-issues-on-multiple-windows-systems/"><u>Effective Techniques to Solve LG Display Drivers Issues on Multiple Windows Systems</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effortless-pc-to-pc-audio-file-sharing-a-step-by-step-guide-from-yl-computing/"><u>Effortless PC-to-PC Audio File Sharing: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/exploring-digital-asset-trading-platforms-with-yl-softwares-comprehensive-guide-to-crypto-exchanges/"><u>Exploring Digital Asset Trading Platforms with YL Software's Comprehensive Guide to Crypto Exchanges</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-diagnose-and-resolve-compatibility-issues-between-your-mouse-and-pc-components/"><u>How to Diagnose and Resolve Compatibility Issues Between Your Mouse and PC Components</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-steps-to-running-llama-2-locally-on-your-device/"><u>In-Depth Steps to Running Llama 2 Locally on Your Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/key-recovery-techniques-for-both-windows-10-and-11-users/"><u>Key Recovery Techniques for Both Windows 10 and 11 Users</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/managing-applications-in-windows-using-the-control-panel-to-install-or-uninstall-tips-from-yl-software-experts/"><u>Managing Applications in Windows: Using the Control Panel to Install or Uninstall – Tips From YL Software Experts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-quantum-hdr-expertise-for-2024/"><u>Navigating Through Quantum HDR Expertise for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-navigating-to-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Navigating to Windows Control Panel – Tips From YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/timeless-blue-desktop-icons-set-by-yl-computing-a-comprehensive-guide/"><u>Timeless Blue Desktop Icons Set by YL Computing - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-screen-issues-effectively-with-guidance-from-yl-software-experts/"><u>Troubleshooting Screen Issues Effectively with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/understanding-active-protection-how-does-windows-defender-scan-for-malware-on-demand-or-continuously/"><u>Understanding Active Protection: How Does Windows Defender Scan for Malware on Demand or Continuously?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-a-guide-to-profitable-animated-fb-advertising-techniques/"><u>[New] In 2024, A Guide to Profitable, Animated FB Advertising Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-showtime-media-centre-all-media-in-one-app/"><u>[New] In 2024, SHOWTIME Media Centre All Media in One App</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-expert-strategies-for-live-streaming-using-obs/"><u>[Updated] 2024 Approved Expert Strategies for Live Streaming Using OBS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-nurturing-discussions-strategies-to-connect-with-followers/"><u>[Updated] In 2024, Nurturing Discussions Strategies to Connect With Followers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactive-video-magnification-system/"><u>2024 Approved Interactive Video Magnification System</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y55s-5g-2023-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y55s 5G (2023) FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/charting-the-beat-the-ultimate-list-of-top-request-songs-in-2016-from-dj-intelligence-perspective/"><u>Charting the Beat: The Ultimate List of Top Request Songs in 2016 From DJ Intelligence Perspective</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-6-urban-designs-in-mc/"><u>Cutting-Edge 6 Urban Designs in MC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-intriguing-world-of-origami-crafted-laptop-sleeves-your-ultimate-travel-companion/"><u>Discover the Intriguing World of Origami-Crafted Laptop Sleeves - Your Ultimate Travel Companion</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g-stylus-2023-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G Stylus (2023) Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-ensure-seamless-integration-of-itunes-122-into-your-dj-platform-essential-steps-and-tips/"><u>How to Ensure Seamless Integration of iTunes 12.2 Into Your DJ Platform: Essential Steps and Tips</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/king-trollex-premium-trolls-theme-graphics-and-desktop-walls-by-yl-computing/"><u>King Trollex: Premium Trolls Theme Graphics & Desktop Walls by YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-running-a-windows-defender-offline-scan-tips-from-yl-software/"><u>Step-by-Step Guide: Running a Windows Defender Offline Scan - Tips From YL Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/surpassing-expectations-over-39-million-bitcoin-wallets-gain-profits-insights-by-yl-computing/"><u>Surpassing Expectations: Over 39 Million Bitcoin Wallets Gain Profits - Insights by YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/tidals-perfectly-curated-halloween-beats-your-guide-to-a-festive-playlist/"><u>Tidal's Perfectly Curated Halloween Beats: Your Guide to a Festive Playlist!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-pitfalls-to-steer-clear-of-in-your-crypto-trading-journey-insights-from-yl-computing/"><u>Top Pitfalls to Steer Clear of in Your Crypto Trading Journey: Insights From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-the-reasons-behind-unresponsive-printers-with-guidance-from-yl-software-experts/"><u>Understanding the Reasons Behind Unresponsive Printers with Guidance From YL Software Experts</u></a></li>
 </ul></div>
 
