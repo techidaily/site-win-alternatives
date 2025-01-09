@@ -1,7 +1,7 @@
 ---
 title: "New Feature Alert: In-App Karaoke & Subscriptions Roll Out with DJ Software Update in DEX 3.9!"
-date: 2024-12-26T19:15:04.796Z
-updated: 2024-12-29T17:25:20.122Z
+date: 2025-01-03T23:41:21.058Z
+updated: 2025-01-09T06:29:53.451Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As we forge forward with our unwavering design goal to make [DEX 3](https://tool
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### An in-app Karaoke Subscription is coming to DEX 3.9 compliments of [Party Tyme Karaoke](https://www.partytyme.com/).
@@ -45,7 +45,7 @@ We’ll email all newsletter subscribers when DEX 3.9 and the Party Tyme Karaoke
 _Have questions about the Party Tyme **Karaoke Subscription** coming to **DEX 3.9**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,22 +67,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/dex3partytyme-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-6-free-youtube-endings-for-pros/"><u>[New] 2024 Approved Unlock 6 Free YouTube Endings for Pros</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-discovering-whos-watching-your-videos-for-2024/"><u>[Updated] Discovering Who's Watching Your Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-prowess-in-phrasing-best-tags-for-gamer-videos/"><u>[Updated] Prowess in Phrasing Best Tags for Gamer Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-symbiotic-relationship-between-cities-and-ecology/"><u>[Updated] The Symbiotic Relationship Between Cities and Ecology</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/captivating-space-themed-cat-wallpapers-backgrounds-and-graphics-yl-computings-digital-collection/"><u>Captivating Space-Themed Cat Wallpapers, Backgrounds & Graphics - YL Computing's Digital Collection</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/dynamic-haikyuu-manga-visuals-and-desktop-wallpaper-pack-created-by-yl-tech/"><u>Dynamic Haikyuu Manga Visuals & Desktop Wallpaper Pack - Created by YL Tech</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/exploring-the-chief-reason-for-constructing-the-great-wall-perspectives-by-experts-at-yl-computing-and-yl-software/"><u>Exploring the Chief Reason for Constructing the Great Wall: Perspectives by Experts at YL Computing and YL Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138570758-9780595612413-for-those-who-care-to-learn/"><u>For Those Who Care to Learn | Free Book</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/high-resolution-artistic-wallpaper-designs-professional-hd-backdrops-by-yl-computing/"><u>High-Resolution Artistic Wallpaper Designs - Professional HD Backdrops by YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/identifying-hardware-problems-with-your-printer-expert-advice-from-yl-computing/"><u>Identifying Hardware Problems with Your Printer - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-infinix-hot-40-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Infinix Hot 40 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-the-art-of-custom-karaoke-with-pcdjs-karaoki-feature-build-your-own-playlist/"><u>Mastering the Art of Custom Karaoke with PCDJ's Karaoki Feature - Build Your Own Playlist!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-dealing-with-a-hanging-google-chrome-window/"><u>Solution Guide: Dealing with a Hanging Google Chrome Window</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-to-launching-a-successful-ico-insights-from-yl-computings-expertise/"><u>Step-by-Step Guide to Launching a Successful ICO: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-top-online-video-flipper-tools-for-2024/"><u>The Top Online Video Flipper Tools for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/understanding-and-fixing-non-functional-driver-software-expert-advice-by-yl-computing/"><u>Understanding and Fixing Non-Functional Driver Software: Expert Advice by YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-xr-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone XR i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-aspect-ratio-essentials-for-social-network-videos-for-2024/"><u>[New] Aspect Ratio Essentials for Social Network Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-a-compre-points-guide-to-saving-your-digital-footprints/"><u>2024 Approved A Compre Points Guide to Saving Your Digital Footprints</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/effective-techniques-for-harvesting-bing-search-results-with-yls-advanced-tools/"><u>Effective Techniques for Harvesting Bing Search Results with YL's Advanced Tools</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-can-regular-defragmentation-enhance-your-computers-speed-expert-tips-from-yl-computing/"><u>How Can Regular Defragmentation Enhance Your Computer's Speed? Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-recognize-signs-of-a-faulty-gpu-a-comprehensive-guide-by-yl-computing/"><u>How to Recognize Signs of a Faulty GPU: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/implementing-exact-timestamp-features-for-youtube-for-2024/"><u>Implementing Exact Timestamp Features for YouTube for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-mastery-of-spotify-ad-formats-and-best-practices/"><u>In 2024, Mastery of Spotify Ad Formats and Best Practices</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mastering-memory-management-professional-insights-from-yl-software-to-detect-and-resolve-memory-issues/"><u>Mastering Memory Management: Professional Insights From YL Software to Detect and Resolve Memory Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-network-navigators-using-c-for-cloud-storage-access/"><u>Mastering Network Navigators: Using C: For Cloud Storage ACCESS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-performance-your-ultimate-source-for-hardware-analysis-and-advice-toms-tech-wisdom/"><u>Mastering Performance: Your Ultimate Source for Hardware Analysis and Advice - Tom's Tech Wisdom</u></a></li>
+<li><a href="https://facebook.techidaily.com/sailing-smoothly-the-role-of-stability-coins-in-crypto/"><u>Sailing Smoothly: The Role of Stability Coins in Crypto</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/troubleshooting-pc-detection-issues-how-to-fix-your-scanner-not-showing-up-on-windows-expert-advice-from-yl-computing/"><u>Troubleshooting PC Detection Issues: How to Fix Your Scanner Not Showing Up on Windows - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-mastering-lip-sync-explore-top-apps-for-dynamic-videos-for-2024/"><u>Updated Mastering Lip Sync Explore Top Apps for Dynamic Videos for 2024</u></a></li>
 </ul></div>
 

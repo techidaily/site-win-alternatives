@@ -1,7 +1,7 @@
 ---
 title: "1. Windows 11: 失敗した PC シャットダウン - 解決策5つ"
-date: 2024-12-07T19:07:36.934Z
-updated: 2024-12-15T05:37:59.150Z
+date: 2025-01-01T23:17:53.198Z
+updated: 2025-01-08T21:41:02.299Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfce72d5244fd939ae4cf23b37.jpg
@@ -39,7 +39,7 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
@@ -58,10 +58,6 @@ Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist e
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 1\. Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass keine wichtigen Dateien darin enthalten sind. Hier sind die Schritte, um das Papierkorbsymbol vom Desktop zu entfernen:
@@ -78,13 +74,13 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -94,13 +90,13 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -125,6 +121,10 @@ Sicherer Download
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
@@ -154,7 +154,7 @@ Sicherer Download
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
@@ -165,11 +165,11 @@ Sicherer Download
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-**Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
 ## Zusammenfassung
 
@@ -182,7 +182,7 @@ Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zwei
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
@@ -211,10 +211,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Folgende Artikel könnten Sie auch interessieren
 
 ##### [Gelöschte Bilder vom Computer wiederherstellen | 5 einfache Wege](https://tools.techidaily.com/ubackup/products/)
@@ -239,6 +235,10 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -250,7 +250,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -268,20 +268,21 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-discovering-old-content-on-facebook-via-your-smartphonecomputer/"><u>[New] In 2024, Discovering Old Content on Facebook via Your Smartphone/Computer</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-significant-strategies-for-modifying-playback-speed-on-spotify/"><u>[New] In 2024, Significant Strategies for Modifying Playback Speed on Spotify</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-creative-content-concepts-for-vlogs-for-2024/"><u>[Updated] Creative Content Concepts for Vlogs for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-capturing-vistas-with-the-high-end-z32x-monitor/"><u>2024 Approved Capturing Vistas with the High-End Z32X Monitor</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/avoid-unnecessary-interactions-block-strategies/"><u>Avoid Unnecessary Interactions Block Strategies</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/captivating-space-themed-cat-wallpapers-backgrounds-and-graphics-yl-computings-digital-collection/"><u>Captivating Space-Themed Cat Wallpapers, Backgrounds & Graphics - YL Computing's Digital Collection</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/dynamic-haikyuu-manga-visuals-and-desktop-wallpaper-pack-created-by-yl-tech/"><u>Dynamic Haikyuu Manga Visuals & Desktop Wallpaper Pack - Created by YL Tech</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/exploring-the-chief-reason-for-constructing-the-great-wall-perspectives-by-experts-at-yl-computing-and-yl-software/"><u>Exploring the Chief Reason for Constructing the Great Wall: Perspectives by Experts at YL Computing and YL Software</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/high-resolution-artistic-wallpaper-designs-professional-hd-backdrops-by-yl-computing/"><u>High-Resolution Artistic Wallpaper Designs - Professional HD Backdrops by YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/identifying-hardware-problems-with-your-printer-expert-advice-from-yl-computing/"><u>Identifying Hardware Problems with Your Printer - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-the-art-of-custom-karaoke-with-pcdjs-karaoki-feature-build-your-own-playlist/"><u>Mastering the Art of Custom Karaoke with PCDJ's Karaoki Feature - Build Your Own Playlist!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-infinix-zero-5g-2023-turbo-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Infinix Zero 5G 2023 Turbo Location | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ultimate-playbook-cutting-edge-methods-for-remarkable-mobizen-recordings-for-2024/"><u>Ultimate Playbook Cutting-Edge Methods for Remarkable Mobizen Recordings for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/understanding-and-fixing-non-functional-driver-software-expert-advice-by-yl-computing/"><u>Understanding and Fixing Non-Functional Driver Software: Expert Advice by YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlock-your-inner-meme-maestro-with-these-9gag-insights/"><u>Unlock Your Inner Meme Maestro with These 9GAG Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-10-must-have-features-in-drone-gimbals-for-2024/"><u>[New] Top 10 Must-Have Features in Drone Gimbals for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elite-methodology-for-unrivaled-mobile-screen-recording-using-mobizen-for-2024/"><u>[Updated] Elite Methodology for Unrivaled Mobile Screen Recording Using Mobizen for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/common-causes-for-unresponsive-input-devices-how-to-fix-a-mouse-or-keyboard-that-wont-work-tips-from-yl-software/"><u>Common Causes for Unresponsive Input Devices: How to Fix a Mouse or Keyboard That Won't Work | Tips From YL Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/high-resolution-keira-knightley-wallpaper-downloads-premium-hd-backgrounds-and-imagery-for-your-devices/"><u>High-Resolution Keira Knightley Wallpaper Downloads: Premium HD Backgrounds & Imagery for Your Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-internet-methods-without-a-preinstalled-browser/"><u>Instant Internet: Methods Without a Preinstalled Browser</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/master-system-driver-updates-essential-techniques-and-advice-by-yl-software-experts/"><u>Master System Driver Updates: Essential Techniques and Advice by YL Software Experts</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/mastering-crypto-charts-with-expert-tips-from-yl-software-experts/"><u>Mastering Crypto Charts with Expert Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/quick-fixes-for-a-faster-machine-a-guide-by-yl-software-specialists/"><u>Quick Fixes for a Faster Machine: A Guide by YL Software Specialists</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-errors-what-to-do-if-the-system-cant-find-a-necessary-component/"><u>Solving Errors: What to Do If the System Can't Find a Necessary Component</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/solving-screen-color-issues-why-your-computer-might-only-show-in-grayscale-insights-from-yl-software-experts/"><u>Solving Screen Color Issues: Why Your Computer Might Only Show in Grayscale - Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-switching-your-preferred-web-browser-tips-from-yl-computing/"><u>Step-by-Step Guide: Switching Your Preferred Web Browser - Tips From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/the-role-of-mao-zedongs-political-policies-in-sparking-chinas-historic-upheaval-a-study-by-yl-software-solutions/"><u>The Role of Mao Zedong’s Political Policies in Sparking China's Historic Upheaval: A Study by YL Software Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-of-free-online-face-creators/"><u>The Ultimate List of Free Online Face Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-virtual-presence-enhanced-screen-focus-on-ms-teams-for-2024/"><u>Unlocking Virtual Presence Enhanced Screen Focus on MS Teams for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-truth-behind-job-reductions-in-major-tech-firms-a-deeper-dive-into-layoffs-and-their-impact/"><u>Unveiling the Truth Behind Job Reductions in Major Tech Firms - A Deeper Dive Into Layoffs and Their Impact</u></a></li>
 </ul></div>
 

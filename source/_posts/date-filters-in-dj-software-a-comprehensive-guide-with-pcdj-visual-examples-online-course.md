@@ -1,7 +1,7 @@
 ---
 title: "Date Filters in DJ Software: A Comprehensive Guide with PCDJ Visual Examples - Online Course"
-date: 2024-12-22T20:46:42.818Z
-updated: 2024-12-30T01:50:16.818Z
+date: 2025-01-05T05:18:00.769Z
+updated: 2025-01-09T01:37:58.757Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,22 +59,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-a-guide-to-profitable-animated-fb-advertising-techniques/"><u>[New] In 2024, A Guide to Profitable, Animated FB Advertising Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-showtime-media-centre-all-media-in-one-app/"><u>[New] In 2024, SHOWTIME Media Centre All Media in One App</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-expert-strategies-for-live-streaming-using-obs/"><u>[Updated] 2024 Approved Expert Strategies for Live Streaming Using OBS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-nurturing-discussions-strategies-to-connect-with-followers/"><u>[Updated] In 2024, Nurturing Discussions Strategies to Connect With Followers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactive-video-magnification-system/"><u>2024 Approved Interactive Video Magnification System</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y55s-5g-2023-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y55s 5G (2023) FRP Bypass Instantly</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/charting-the-beat-the-ultimate-list-of-top-request-songs-in-2016-from-dj-intelligence-perspective/"><u>Charting the Beat: The Ultimate List of Top Request Songs in 2016 From DJ Intelligence Perspective</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-6-urban-designs-in-mc/"><u>Cutting-Edge 6 Urban Designs in MC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-intriguing-world-of-origami-crafted-laptop-sleeves-your-ultimate-travel-companion/"><u>Discover the Intriguing World of Origami-Crafted Laptop Sleeves - Your Ultimate Travel Companion</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g-stylus-2023-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G Stylus (2023) Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-ensure-seamless-integration-of-itunes-122-into-your-dj-platform-essential-steps-and-tips/"><u>How to Ensure Seamless Integration of iTunes 12.2 Into Your DJ Platform: Essential Steps and Tips</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/king-trollex-premium-trolls-theme-graphics-and-desktop-walls-by-yl-computing/"><u>King Trollex: Premium Trolls Theme Graphics & Desktop Walls by YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-running-a-windows-defender-offline-scan-tips-from-yl-software/"><u>Step-by-Step Guide: Running a Windows Defender Offline Scan - Tips From YL Software</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/surpassing-expectations-over-39-million-bitcoin-wallets-gain-profits-insights-by-yl-computing/"><u>Surpassing Expectations: Over 39 Million Bitcoin Wallets Gain Profits - Insights by YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/tidals-perfectly-curated-halloween-beats-your-guide-to-a-festive-playlist/"><u>Tidal's Perfectly Curated Halloween Beats: Your Guide to a Festive Playlist!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-pitfalls-to-steer-clear-of-in-your-crypto-trading-journey-insights-from-yl-computing/"><u>Top Pitfalls to Steer Clear of in Your Crypto Trading Journey: Insights From YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/understanding-the-reasons-behind-unresponsive-printers-with-guidance-from-yl-software-experts/"><u>Understanding the Reasons Behind Unresponsive Printers with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-hands-on-strategies-to-keep-vimeo-videos/"><u>[New] In 2024, Hands-On Strategies to Keep Vimeo Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-secrets-to-proficient-gaming-recordings-for-2024/"><u>[New] Secrets to Proficient Gaming Recordings for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-step-by-step-guide-to-perfecting-iphones-hdr-shots-for-2024/"><u>[New] Step-by-Step Guide to Perfecting iPhone's HDR Shots for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-10t-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipating-digital-dangers-insights-into-upcoming-cybersecurity-trends/"><u>Anticipating Digital Dangers: Insights Into Upcoming Cybersecurity Trends</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/high-quality-cowboy-panoramas-wallpapers-and-desktop-backgrounds-from-yl-computings-digital-collection/"><u>High-Quality Cowboy Panoramas, Wallpapers, and Desktop Backgrounds From YL Computing's Digital Collection</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-silence-your-ps4s-overheating-problem-a-step-by-step-guide/"><u>How to Silence Your PS4's Overheating Problem – A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/is-it-essential-to-shut-down-and-start-your-pc-when-troubleshooting-gpu-issues-guidance-by-yl-software/"><u>Is It Essential to Shut Down and Start Your PC When Troubleshooting GPU Issues? – Guidance by YL Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revolutionary-fix-how-to-get-your-samsung-blu-ray-player-up-and-running-again/"><u>Revolutionary Fix: How to Get Your Samsung Blu-Ray Player Up and Running Again</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/the-importance-of-consistent-hardware-upkeep-for-your-pc-expert-advice-by-yl-software-experts/"><u>The Importance of Consistent Hardware Upkeep for Your PC: Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/troubleshooting-a-non-responsive-printer-solutions-and-tips-yl-computings-guide/"><u>Troubleshooting a Non-Responsive Printer: Solutions and Tips - YL Computing's Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/troubleshooting-guide-for-malfunctioning-usb-connections-by-yl-software-experts/"><u>Troubleshooting Guide for Malfunctioning USB Connections by YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/troubleshooting-incomplete-software-setup-insights-from-yl-computings-expertise/"><u>Troubleshooting Incomplete Software Setup: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ultimate-singing-experience-subscription-party-on-with-fresh-tracks-from-this-week-8219-edition/"><u>Ultimate Singing Experience Subscription - Party On With Fresh Tracks From This Week, 8/2/19 Edition.</u></a></li>
 </ul></div>
 
