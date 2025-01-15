@@ -1,7 +1,7 @@
 ---
 title: "Get Your New DX 3.14 DJ Suite by Pioneer Corporation: Complete with Mac OS Catalina Support & Exciting Updates!"
-date: 2025-01-05T18:40:14.911Z
-updated: 2025-01-08T20:03:53.564Z
+date: 2025-01-10T01:20:23.543Z
+updated: 2025-01-14T23:25:06.490Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,15 +81,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/1715859840490-2024-approved-discovering-androids-premier-mobas-ranked/"><u>2024 Approved Discovering Android's Premier MOBAs Ranked!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-pixelplay-logger-analysis/"><u>2024 Approved PixelPlay Logger Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-driver-set-for-pci-devices-on-various-windows-platforms-windows-111087/"><u>Comprehensive Driver Set for PCI Devices on Various Windows Platforms: Windows 11/10/8/7</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effortlessly-adjust-speaker-settings-via-control-panel-expert-tips-from-yl-software-specialists/"><u>Effortlessly Adjust Speaker Settings via Control Panel: Expert Tips From YL Software Specialists</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/establishing-a-consistent-mindfulness-routine-with-chatgpt/"><u>Establishing a Consistent Mindfulness Routine with ChatGPT</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/experience-enhanced-dj-features-with-the-karaoki-beta-upgrade-get-your-free-download/"><u>Experience Enhanced DJ Features with the Karaoki Beta Upgrade - Get Your Free Download</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/exploring-the-origins-of-the-chinese-civil-conflict-with-yl-softwares-comprehensive-guide/"><u>Exploring the Origins of the Chinese Civil Conflict with YL Software's Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-hot-40-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Hot 40 Pro Phone?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-ensuring-authenticity-as-you-aspire-for-one-million-video-watches/"><u>In 2024, Ensuring Authenticity as You Aspire for One Million Video Watches</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/monitor-your-bsv-wallet-a-guide-to-checking-bitcoin-sv-address-balances-tips-from-yl-computing/"><u>Monitor Your BSV Wallet: A Guide to Checking Bitcoin SV Address Balances - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unstoppable-streams-the-rising-stars-of-female-youtube-content/"><u>[New] 2024 Approved Unstoppable Streams The Rising Stars of Female YouTube Content</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-successful-migration-strategies-transitioning-from-an-existing-esxi-server-to-a-new-machine/"><u>1. Successful Migration Strategies: Transitioning From an Existing ESXi Server to a New Machine</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/best-free-programs-for-recovering-deletedformatted-documents-downloading-and-using-iso-file-reconstruction-tools/"><u>Best Free Programs for Recovering Deleted/Formatted Documents: Downloading and Using ISO File Reconstruction Tools</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-expert-comment-definir-correctement-votre-ssd-pour-une-installation-optimale-de-windows-n-11/"><u>Guide Expert: Comment Définir Correctement Votre SSD Pour Une Installation Optimale De Windows N 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-camera-enthusiasts-spotlight-5-leading-slow-motion-tech/"><u>In 2024, Camera Enthusiasts' Spotlight 5 Leading Slow Motion Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initiate-xp-project-masterpiece-creation-package/"><u>In 2024, Initiate XP Project Masterpiece Creation Package</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-sharing-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Social Sharing: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/prime-selection-of-360-videography-tools-for-2024/"><u>Prime Selection of 360° Videography Tools for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/resolve-clonezilla-errors-caused-by-mbrgpt-format-inconsistencies-a-three-step-guide/"><u>Resolve Clonezilla Errors Caused by MBR/GPT Format Inconsistencies: A Three-Step Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/titre-seo-probleme-de-sauvegarde-avec-windows-11-comment-resoudre-le-dysfonctionnement/"><u>Titre SEO: Problème De Sauvegarde Avec Windows 11 : Comment Résoudre Le Dysfonctionnement ?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-12-mini-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 12 mini for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-v29-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo V29 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-scan-execution-issues-effective-fixes-with-yl-computing-technology/"><u>Troubleshooting Scan Execution Issues: Effective Fixes with YL Computing Technology</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ultimate-windows-1111-notebook-hdd-upgrade-tutorial-avoid-rebuilding-your-os-easily/"><u>Ultimate Windows 11/11 Notebook HDD Upgrade Tutorial: Avoid Rebuilding Your OS Easily!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-visual-transformation-toolkit-for-2024/"><u>Unmatched Visual Transformation Toolkit for 2024</u></a></li>
 </ul></div>
 

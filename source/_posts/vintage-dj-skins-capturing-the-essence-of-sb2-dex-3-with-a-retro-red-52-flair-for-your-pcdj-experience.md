@@ -1,7 +1,7 @@
 ---
 title: "Vintage DJ Skins: Capturing the Essence of SB2 DEX 3 with a Retro Red 5.2 Flair for Your PCDJ Experience"
-date: 2025-01-05T17:59:54.299Z
-updated: 2025-01-09T06:44:17.215Z
+date: 2025-01-09T04:04:12.007Z
+updated: 2025-01-14T22:59:39.620Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ RED 5.2 was the game changer, and the first [DJ mixing software](https://tools.t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SB2 DEX 3 “Throw Back PCDJ RED 5.2” Skin (1600×900 or 16:9)
@@ -37,7 +37,7 @@ Harry Thomas of [HMT3 Designs](http://hmt3design.com/) created the SB2 DEX 3 DJ 
 [CLICK FOR LARGER IMAGE ![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=300%2C169&ssl=1 "sb2-audio")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=1030%2C580&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We think this skin is a great fit for DJs that prefer using a mouse and keyboard over one of the 75 supported [DJ controllers](https://tools.techidaily.com/pcdj/products/). Harry has included pretty much the full gamut of buttons and sliders, along with tabs for video, sampler and browser. The approach to the browser tab is unique and not found in any other [DEX 3 skins](https://tools.techidaily.com/pcdj/products/) submitted so far. The browser tab includes all your automix and shuffle controls, as well as color coding options for your track library.
@@ -53,7 +53,7 @@ _**Unzip ALL Skin Files To Documents -> PCDJ-DEX3 -> Skins**_
 [All Current DEX 3 DJ Software Skins](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,18 +75,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/sb3skin-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-10-best-zoom-alternatives-deskop-and-mobile-for-2024/"><u>[New] 10 Best Zoom Alternatives [Deskop & Mobile] for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1732517698227-yl/"><u>武则天留给后世的关键文书及其意义 - YL科技解析</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-audio-conversion-from-caf-to-mp3-online-moveavi/"><u>Free Audio Conversion From CAF to MP3 Online - MoveAVI</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/high-quality-cowboy-panoramas-wallpapers-and-desktop-backgrounds-from-yl-computings-digital-collection/"><u>High-Quality Cowboy Panoramas, Wallpapers, and Desktop Backgrounds From YL Computing's Digital Collection</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-evaluate-different-crypto-coins-yl-computing-yl-software/"><u>How to Evaluate Different Crypto Coins? – YL Computing | YL Software.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-fallout-n3-stalling-problems-on-modern-windows-systems/"><u>How to Resolve Fallout N3 Stalling Problems on Modern Windows Systems</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-best-motion-tracking-apps-on-android-and-iphoneipad-for-2024/"><u>New Best Motion Tracking Apps on Android and iPhone/iPad for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/push-boundaries-in-visual-quality-how-to-achieve-ultimate-resolution-with-yl-software-solutions/"><u>Push Boundaries in Visual Quality: How to Achieve Ultimate Resolution with YL Software Solutions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/secure-fb-links-8plus-comprehensive-no-cost-downloaders-for-23-for-2024/"><u>Secure FB Links 8+ Comprehensive, No-Cost Downloaders for '23 for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/stunning-dark-azure-motif-visuals-for-your-screen-premium-wallpaper-collection-from-yl-software/"><u>Stunning Dark Azure Motif Visuals for Your Screen - Premium Wallpaper Collection From YL Software</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-a-non-responsive-printer-solutions-and-tips-yl-computings-guide/"><u>Troubleshooting a Non-Responsive Printer: Solutions and Tips - YL Computing's Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/umwandlung-von-heic-bilder-in-jpg-format-eine-einfache-anleitung-fur-ios-11-benutzer/"><u>Umwandlung Von HEIC Bilder in JPG Format - Eine Einfache Anleitung Für iOS 11 Benutzer</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-5-emulated-game-boy-advance-games-a-comprehensive-guide-for-pc-users/"><u>[New] 2024 Approved Top 5 Emulated Game Boy Advance Games - A Comprehensive Guide for PC Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-snipping-videophotographs-in-windows-11/"><u>[Updated] 2024 Approved Snipping Videophotographs in Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-a-comprehensive-guide-to-capturing-facebook-chats-for-2024/"><u>[Updated] A Comprehensive Guide to Capturing Facebook Chats for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boosted-by-8-top-android-tools-no-more-slow-motion/"><u>[Updated] Boosted by 8 Top Android Tools, No More Slow Motion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-review-best-camcorders-to-try/"><u>[Updated] Ultimate Review Best Camcorders to Try</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728506506660-windows/"><u>如何在Windows系统中回收丟失的檔案：專業解決方式</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-7-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 7 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/easy-diy-tutorial-on-retrieving-deleted-data-via-bootable-recovery-software/"><u>Easy DIY Tutorial on Retrieving Deleted Data via Bootable Recovery Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-pratique-depanner-et-faire-fonctionner-un-scanner-indetecte-sous-windows-11/"><u>Guide Pratique : Dépanner Et Faire Fonctionner Un Scanner Indétecté Sous Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-xs-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone XS?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/imap-outlook/"><u>IMAP メール 対話型設定 - Outlook 使用時のデータ保存＆セキュリティ対策</u></a></li>
+<li><a href="https://win-news.techidaily.com/pemulihan-file-downloaded-keahlian-di-windows-11-langkah-langkah-memutuskan/"><u>Pemulihan File Downloaded Keahlian Di Windows 11 - Langkah-Langkah Memutuskan</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/portable-automated-usb-backup-device-for-windows-10-systems/"><u>Portable Automated USB Backup Device for Windows 10 Systems</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/revive-your-windows-server-2016-boot-issues-with-these-proven-fixes-top-solutions-explained/"><u>Revive Your Windows Server 2016 Boot Issues with These Proven Fixes | Top Solutions Explained</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/top-5-must-know-aspects-of-using-tiktok-macos-for-2024/"><u>Top 5 Must-Know Aspects of Using TikTok (macOS) for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-gratis-klonprogramme-fur-windows-macrium-reflect-ersatz/"><u>Top Gratis Klonprogramme Für Windows - Macrium Reflect Ersatz</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/unlocking-the-mystery-understanding-why-your-zoom-sessions-go-missing-and-effective-strategies-for-retrieval/"><u>Unlocking the Mystery: Understanding Why Your Zoom Sessions Go Missing & Effective Strategies for Retrieval</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/windows-11-lost-system-restore-top-5-solutions/"><u>Windows 11 Lost System Restore: Top 5 Solutions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728502181213-windows-server-2012/"><u>Windows Server 2012 的備份與恢复操作指南</u></a></li>
 </ul></div>
 

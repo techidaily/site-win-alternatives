@@ -1,7 +1,7 @@
 ---
 title: "LYRX Version 1.6.0.1 Release: Enhanced Karaoke Experience with PCDJ Software Upgrade"
-date: 2025-01-02T02:43:50.204Z
-updated: 2025-01-08T20:50:06.375Z
+date: 2025-01-10T22:23:00.217Z
+updated: 2025-01-14T22:11:55.475Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Version 1.6.0.2 of LYRX karaoke software is ready for download!
@@ -31,7 +31,7 @@ You can test software all you want internally, and iron out issues with your bet
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Not only does the free 1.6.0.2 LYRX update address the reported problems, we were able to apply extensive under-the-hood optimizations and performance improvements. The updates should be noticeable, to the extent your MAC or PC will run cooler than with prior versions.
@@ -45,7 +45,7 @@ Again, we appreciate all the tremendous and extensive feedback we’ve received 
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.0.2
@@ -63,7 +63,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest 1.6.0.2 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,20 +85,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrxforwin-cover-1.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-ultimate-guide-to-best-youtube-banner-size-and-channel-art-dimension/"><u>[New] 2024 Approved Ultimate Guide to Best YouTube Banner Size and Channel Art Dimension</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-bridging-games-and-friends-xbox-live-to-facebook-broadcasting/"><u>[Updated] 2024 Approved Bridging Games and Friends Xbox Live to Facebook Broadcasting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-perfecting-the-art-of-itunes-video-recording/"><u>[Updated] 2024 Approved Perfecting the Art of iTunes Video Recording</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728507901430-excel/"><u>【無成本解答】重現遺失 Excel 工作表 - 詳細指南</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1715860576364-2024-approved-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>2024 Approved Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones.</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/best-free-programs-for-recovering-deletedformatted-documents-downloading-and-using-iso-file-reconstruction-tools/"><u>Best Free Programs for Recovering Deleted/Formatted Documents: Downloading and Using ISO File Reconstruction Tools</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/comparing-reading-experiences-kindle-oasis-vs-kobo-aura-one-in-2017/"><u>Comparing Reading Experiences: Kindle Oasis Vs. Kobo Aura One in 2017</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/fehlerbehebung-von-angeschlossenen-geraten-innerhalb-des-systems/"><u>Fehlerbehebung Von Angeschlossenen Geräten Innerhalb Des Systems</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guarantee-flawless-automatic-syncing-of-your-macs-photos/"><u>Guarantee Flawless Automatic Syncing of Your Mac's Photos</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guide-expert-comment-definir-correctement-votre-ssd-pour-une-installation-optimale-de-windows-n-11/"><u>Guide Expert: Comment Définir Correctement Votre SSD Pour Une Installation Optimale De Windows N 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience/"><u>In 2024, Happy Haven 20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-insta-story-focus-zooming-in-and-out-techniques-for-2024/"><u>Mastering Insta Story Focus Zooming In & Out Techniques for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/seamless-guide-on-moving-your-films-from-pc-to-ipad-air-mini-or-pro/"><u>Seamless Guide on Moving Your Films From PC to iPad Air, Mini, or Pro</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/titre-seo-probleme-de-sauvegarde-avec-windows-11-comment-resoudre-le-dysfonctionnement/"><u>Titre SEO: Problème De Sauvegarde Avec Windows 11 : Comment Résoudre Le Dysfonctionnement ?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-adopting-powerpoints-advanced-speech-to-text-functionality-for-dynamic-slide-shows/"><u>[New] 2024 Approved Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-budget-friendly-tools-for-seamless-edits/"><u>[Updated] 2024 Approved Vimeo's Budget-Friendly Tools for Seamless Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-master-techniques-for-editing-copious-amounts-of-tiktoks/"><u>[Updated] Master Techniques for Editing Copious Amounts of TikToks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-cameraphone-gimbal-optimal-pan-and-tilt-stability/"><u>[Updated] Top Camera/Phone Gimbal – Optimal Pan & Tilt Stability</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/a-retrospective-look-at-pcdjs-dynamic-milestones-in-the-year-2012/"><u>A Retrospective Look at PCDJ's Dynamic Milestones in the Year 2012</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-windows-policies-preventing-app-deployment/"><u>Circumventing Windows Policies Preventing App Deployment</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-plays-costly-hike-subscription-is-over-for-me/"><u>EA Play’s Costly Hike, Subscription Is Over for Me</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/essential-techniques-for-diagnosing-and-repairing-defective-memory-modules-tips-from-yl-computing/"><u>Essential Techniques for Diagnosing and Repairing Defective Memory Modules - Tips From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/navigating-through-crypto-law-regulatory-challenges-explained-with-yl-software-expertise/"><u>Navigating Through Crypto Law: Regulatory Challenges Explained with YL Software Expertise</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionary-content-your-path-to-100k-views-for-2024/"><u>Revolutionary Content Your Path to 100K Views for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/speeding-up-your-file-transfers-solutions-for-swift-movement-between-drives-insights-by-yl-computing/"><u>Speeding Up Your File Transfers: Solutions for Swift Movement Between Drives - Insights by YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210400678-9781982185633-wild-witchcraft/"><u>Wild Witchcraft | Free Book</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/yl-computings-ultimate-tutorial-on-deleting-programs-from-your-machine-effortlessly/"><u>YL Computing's Ultimate Tutorial on Deleting Programs From Your Machine Effortlessly</u></a></li>
 </ul></div>
 

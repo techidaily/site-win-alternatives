@@ -1,7 +1,7 @@
 ---
 title: EmEditor HTML Bar Plugin Options - Text Editing Enhancements From Beta 8 to Beta 12
-date: 2025-01-06T20:38:50.235Z
-updated: 2025-01-08T19:17:12.614Z
+date: 2025-01-11T23:34:55.959Z
+updated: 2025-01-14T23:31:37.429Z
 tags:
   - product
 categories:
@@ -49,26 +49,20 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-soundscaping-instagram-reels-a-step-by-step-tutorial/"><u>[New] 2024 Approved Soundscaping Instagram Reels A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-accelerating-the-playback-of-instagram-videos-tips-for-2024/"><u>[New] Accelerating the Playback of Instagram Videos (Tips) for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-discovering-your-customized-youtube-playlist/"><u>[Updated] 2024 Approved Discovering Your Customized YouTube Playlist</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-comment-pouvez-vous-recuperer-vos-documents-microsoft-word-apres-un-plantage/"><u>1. Comment Pouvez-Vous Récupérer Vos Documents Microsoft Word Après Un Plantage ?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-direkter-mp3-download-auf-das-iphone-zwei-effiziente-strategien-entschlusselt/"><u>1. Direkter MP3-Download Auf Das iPhone: Zwei Effiziente Strategien Entschlüsselt</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/windows-os-chronosync/"><u>最新のWindows OSに合わせた高性能な同期ソフトウェア - ChronoSync以上</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/efficient-geheugen-verbetering-7-houdbaar-strategieen-voor-het-oplossen-van-windows-met-fotos-op-een-hard-schijf/"><u>Efficiënt Geheugen Verbetering: 7 Houdbaar Strategieën Voor Het Oplossen Van Windows Met Foto's Op Een Hard Schijf</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/emeditor-text-editor-fixing-problems-with-multi-line-selections/"><u>EmEditor Text Editor: Fixing Problems with Multi-Line Selections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/from-novice-to-pro-winning-strategies-for-ps1-games-on-windows-by-duckstation/"><u>From Novice to Pro: Winning Strategies for PS1 Games on Windows by Duckstation</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone SE Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-swiftly-move-information-from-an-old-to-a-new-iphone-discover-four-effective-techniques/"><u>How to Swiftly Move Information From an Old to a New iPhone - Discover Four Effective Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-spotlight-on-snapchat-a-users-handbook-for-highlights/"><u>In 2024, Spotlight on Snapchat A User's Handbook for Highlights</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/installation-von-windows-auf-einer-festplatte-integrationstools-gegen-anbieter-losungen-welche-option-ist-besser/"><u>Installation Von Windows Auf Einer Festplatte: Integrationstools Gegen Anbieter-Lösungen – Welche Option Ist Besser?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-the-craft-of-creating-captivating-podcast-titles-for-2024/"><u>Mastering the Craft of Creating Captivating Podcast Titles for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/quick-and-effortless-guide-accelerate-samsung-data-moving-with-these-5-safe-strategies/"><u>Quick & Effortless Guide: Accelerate Samsung Data Moving with These 5 Safe Strategies</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/slow-and-steady-wins-the-game-top-10-video-players-for-2024/"><u>Slow and Steady Wins the Game Top 10 Video Players for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshoot-and-fix-blue-screen-of-death-caused-by-igdkmd64-in-windows-11/"><u>Troubleshoot and Fix Blue Screen of Death Caused by IGDKMD64 in Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twittersphere-treasures-primes-top-watchers-and-likes/"><u>[New] In 2024, Twittersphere Treasures Prime’s Top Watchers & Likes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-cinematic-scale-optimizer/"><u>[Updated] Cinematic Scale Optimizer</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-windows-11-pc-5/"><u>1. Windows 11: 失敗した PC シャットダウン - 解決策5つ</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-chart-your-course-to-partner-status-via-a-rapid-10000-views-journey/"><u>2024 Approved Chart Your Course to Partner Status via a Rapid 10,000 Views Journey</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-beats-solo-wireless-earbuds-review-tradeoffs-for-price-savings/"><u>Affordable Beats Solo Wireless Earbuds Review: Tradeoffs for Price Savings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/einfaches-handbuch-zum-klonen-ihres-hdd-in-eine-ssd-mit-einem-usb-verbindungskabel/"><u>Einfaches Handbuch Zum Klonen Ihres HDD in Eine SSD Mit Einem USB-Verbindungskabel</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/fixed-issue-overcoming-cloning-restrictions-in-acronis-true-image/"><u>Fixed Issue: Overcoming Cloning Restrictions in Acronis True Image</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fixing-silent-console-resolved-ps4-audio-problems/"><u>Fixing Silent Console: Resolved PS4 Audio Problems</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-rapide-pour-la-reparation-de-fichiers-corrompus-sur-toutes-les-versions-de-windows/"><u>Guide Rapide Pour La Réparation De Fichiers Corrompus Sur Toutes Les Versions De Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-platforms-facebook-to-youtube-explained/"><u>Navigating the Giants of Social Platforms: Facebook to YouTube Explained</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

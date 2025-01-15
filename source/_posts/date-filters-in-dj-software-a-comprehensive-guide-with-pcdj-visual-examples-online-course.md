@@ -1,7 +1,7 @@
 ---
 title: "Date Filters in DJ Software: A Comprehensive Guide with PCDJ Visual Examples - Online Course"
-date: 2025-01-05T05:18:00.769Z
-updated: 2025-01-09T01:37:58.757Z
+date: 2025-01-13T02:52:43.124Z
+updated: 2025-01-14T16:02:30.304Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,20 +59,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-hands-on-strategies-to-keep-vimeo-videos/"><u>[New] In 2024, Hands-On Strategies to Keep Vimeo Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-secrets-to-proficient-gaming-recordings-for-2024/"><u>[New] Secrets to Proficient Gaming Recordings for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-step-by-step-guide-to-perfecting-iphones-hdr-shots-for-2024/"><u>[New] Step-by-Step Guide to Perfecting iPhone's HDR Shots for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-10t-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/anticipating-digital-dangers-insights-into-upcoming-cybersecurity-trends/"><u>Anticipating Digital Dangers: Insights Into Upcoming Cybersecurity Trends</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/high-quality-cowboy-panoramas-wallpapers-and-desktop-backgrounds-from-yl-computings-digital-collection/"><u>High-Quality Cowboy Panoramas, Wallpapers, and Desktop Backgrounds From YL Computing's Digital Collection</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-silence-your-ps4s-overheating-problem-a-step-by-step-guide/"><u>How to Silence Your PS4's Overheating Problem – A Step-by-Step Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/is-it-essential-to-shut-down-and-start-your-pc-when-troubleshooting-gpu-issues-guidance-by-yl-software/"><u>Is It Essential to Shut Down and Start Your PC When Troubleshooting GPU Issues? – Guidance by YL Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/revolutionary-fix-how-to-get-your-samsung-blu-ray-player-up-and-running-again/"><u>Revolutionary Fix: How to Get Your Samsung Blu-Ray Player Up and Running Again</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/the-importance-of-consistent-hardware-upkeep-for-your-pc-expert-advice-by-yl-software-experts/"><u>The Importance of Consistent Hardware Upkeep for Your PC: Expert Advice by YL Software Experts</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-a-non-responsive-printer-solutions-and-tips-yl-computings-guide/"><u>Troubleshooting a Non-Responsive Printer: Solutions and Tips - YL Computing's Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-guide-for-malfunctioning-usb-connections-by-yl-software-experts/"><u>Troubleshooting Guide for Malfunctioning USB Connections by YL Software Experts</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-incomplete-software-setup-insights-from-yl-computings-expertise/"><u>Troubleshooting Incomplete Software Setup: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultimate-singing-experience-subscription-party-on-with-fresh-tracks-from-this-week-8219-edition/"><u>Ultimate Singing Experience Subscription - Party On With Fresh Tracks From This Week, 8/2/19 Edition.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-explore-the-world-of-photo-videos-your-pixiz-companion/"><u>[New] Explore the World of Photo-Videos Your Pixiz Companion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-perfect-strategy-to-insert-subtitles-into-mp4-clips/"><u>[New] In 2024, The Perfect Strategy to Insert Subtitles Into MP4 Clips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-the-secrets-of-effective-screencasts/"><u>[Updated] Unveiling the Secrets of Effective Screencasts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/boost-your-pcs-speed-in-minutes-with-simple-optimization-methods-from-yl-systems-inc/"><u>Boost Your PC's Speed in Minutes with Simple Optimization Methods From YL Systems Inc.</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/effortlessly-adjust-speaker-settings-via-control-panel-expert-tips-from-yl-software-specialists/"><u>Effortlessly Adjust Speaker Settings via Control Panel: Expert Tips From YL Software Specialists</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/high-quality-thanksgiving-2021-wallpaper-collection-by-yl-computing-your-guide-to-festive-home-decor/"><u>High-Quality Thanksgiving 2021 Wallpaper Collection by YL Computing: Your Guide to Festive Home Decor</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-confirm-successful-printer-integration-with-your-pc-expert-tips-from-yl-software/"><u>How To Confirm Successful Printer Integration with Your PC: Expert Tips From YL Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-13-ultra-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi 13 Ultra Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-13-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 13 online without SIM Card?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-apples-latest-sensation-the-triple-charging-cube-does-it-live-up-to-its-fanfare/"><u>Inside Look: Apple’s Latest Sensation, the Triple Charging Cube - Does It Live Up to Its Fanfare?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/monitor-your-bsv-wallet-a-guide-to-checking-bitcoin-sv-address-balances-tips-from-yl-computing/"><u>Monitor Your BSV Wallet: A Guide to Checking Bitcoin SV Address Balances - Tips From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/optimal-methods-for-diagnosing-your-systems-memory-insights-from-yl-computing/"><u>Optimal Methods for Diagnosing Your System's Memory: Insights From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/steps-to-detect-and-troubleshoot-computer-processor-issues-expert-advice-from-yl-software/"><u>Steps to Detect and Troubleshoot Computer Processor Issues - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726222119036-gif-movavi/"><u>オンデマンドで使えるGIFフォルト変換 - 最新のMovaviツールを使った効率的なプロセス</u></a></li>
 </ul></div>
 

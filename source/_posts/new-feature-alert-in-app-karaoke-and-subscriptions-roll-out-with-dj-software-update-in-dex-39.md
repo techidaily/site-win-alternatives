@@ -1,7 +1,7 @@
 ---
 title: "New Feature Alert: In-App Karaoke & Subscriptions Roll Out with DJ Software Update in DEX 3.9!"
-date: 2025-01-03T23:41:21.058Z
-updated: 2025-01-09T06:29:53.451Z
+date: 2025-01-12T22:50:30.527Z
+updated: 2025-01-14T18:55:51.482Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As we forge forward with our unwavering design goal to make [DEX 3](https://tool
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### An in-app Karaoke Subscription is coming to DEX 3.9 compliments of [Party Tyme Karaoke](https://www.partytyme.com/).
@@ -45,7 +45,7 @@ We’ll email all newsletter subscribers when DEX 3.9 and the Party Tyme Karaoke
 _Have questions about the Party Tyme **Karaoke Subscription** coming to **DEX 3.9**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,19 +67,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/dex3partytyme-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-aspect-ratio-essentials-for-social-network-videos-for-2024/"><u>[New] Aspect Ratio Essentials for Social Network Videos for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-a-compre-points-guide-to-saving-your-digital-footprints/"><u>2024 Approved A Compre Points Guide to Saving Your Digital Footprints</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effective-techniques-for-harvesting-bing-search-results-with-yls-advanced-tools/"><u>Effective Techniques for Harvesting Bing Search Results with YL's Advanced Tools</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-can-regular-defragmentation-enhance-your-computers-speed-expert-tips-from-yl-computing/"><u>How Can Regular Defragmentation Enhance Your Computer's Speed? Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-recognize-signs-of-a-faulty-gpu-a-comprehensive-guide-by-yl-computing/"><u>How to Recognize Signs of a Faulty GPU: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/implementing-exact-timestamp-features-for-youtube-for-2024/"><u>Implementing Exact Timestamp Features for YouTube for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-mastery-of-spotify-ad-formats-and-best-practices/"><u>In 2024, Mastery of Spotify Ad Formats and Best Practices</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/mastering-memory-management-professional-insights-from-yl-software-to-detect-and-resolve-memory-issues/"><u>Mastering Memory Management: Professional Insights From YL Software to Detect and Resolve Memory Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-network-navigators-using-c-for-cloud-storage-access/"><u>Mastering Network Navigators: Using C: For Cloud Storage ACCESS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-performance-your-ultimate-source-for-hardware-analysis-and-advice-toms-tech-wisdom/"><u>Mastering Performance: Your Ultimate Source for Hardware Analysis and Advice - Tom's Tech Wisdom</u></a></li>
-<li><a href="https://facebook.techidaily.com/sailing-smoothly-the-role-of-stability-coins-in-crypto/"><u>Sailing Smoothly: The Role of Stability Coins in Crypto</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-pc-detection-issues-how-to-fix-your-scanner-not-showing-up-on-windows-expert-advice-from-yl-computing/"><u>Troubleshooting PC Detection Issues: How to Fix Your Scanner Not Showing Up on Windows - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-mastering-lip-sync-explore-top-apps-for-dynamic-videos-for-2024/"><u>Updated Mastering Lip Sync Explore Top Apps for Dynamic Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-tech-savvy-apps-for-artful-picture-presentation-for-2024/"><u>[Updated] Top Tech-Savvy Apps for Artful Picture Presentation for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-windows-10-for-audio-capture/"><u>2024 Approved Navigating Windows 10 for Audio Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/aneantissement-complet-du-convertisseur-video-freemaker-fonctionnalites-inedites-et-tarifs-competitifs/"><u>Anéantissement Complet Du Convertisseur Vidéo FreeMaker: Fonctionnalités Inédites Et Tarifs Compétitifs</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-diagnose-and-resolve-compatibility-issues-between-your-mouse-and-pc-components/"><u>How to Diagnose and Resolve Compatibility Issues Between Your Mouse and PC Components</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-in-depth-motion-evaluation-2023/"><u>In 2024, In-Depth Motion Evaluation 2023</u></a></li>
+<li><a href="https://win-webster.techidaily.com/microsoft-pouring-half-a-billion-dollars-into-lanzajets-green-aviation-fuels-project-revolutionizing-data-center-energy-the-inside-story/"><u>Microsoft Pouring Half a Billion Dollars Into LanzaJet's Green Aviation Fuels Project, Revolutionizing Data Center Energy: The Inside Story</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-navigating-to-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Navigating to Windows Control Panel – Tips From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/timeless-blue-desktop-icons-set-by-yl-computing-a-comprehensive-guide/"><u>Timeless Blue Desktop Icons Set by YL Computing - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/troubleshooting-screen-issues-effectively-with-guidance-from-yl-software-experts/"><u>Troubleshooting Screen Issues Effectively with Guidance From YL Software Experts</u></a></li>
 </ul></div>
 
