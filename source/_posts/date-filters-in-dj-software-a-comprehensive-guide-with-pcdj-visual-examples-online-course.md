@@ -1,7 +1,7 @@
 ---
 title: "Date Filters in DJ Software: A Comprehensive Guide with PCDJ Visual Examples - Online Course"
-date: 2025-01-13T02:52:43.124Z
-updated: 2025-01-14T16:02:30.304Z
+date: 2025-01-14T05:14:52.281Z
+updated: 2025-01-21T03:26:19.818Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,20 +59,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-explore-the-world-of-photo-videos-your-pixiz-companion/"><u>[New] Explore the World of Photo-Videos Your Pixiz Companion</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-perfect-strategy-to-insert-subtitles-into-mp4-clips/"><u>[New] In 2024, The Perfect Strategy to Insert Subtitles Into MP4 Clips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unveiling-the-secrets-of-effective-screencasts/"><u>[Updated] Unveiling the Secrets of Effective Screencasts</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/boost-your-pcs-speed-in-minutes-with-simple-optimization-methods-from-yl-systems-inc/"><u>Boost Your PC's Speed in Minutes with Simple Optimization Methods From YL Systems Inc.</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effortlessly-adjust-speaker-settings-via-control-panel-expert-tips-from-yl-software-specialists/"><u>Effortlessly Adjust Speaker Settings via Control Panel: Expert Tips From YL Software Specialists</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/high-quality-thanksgiving-2021-wallpaper-collection-by-yl-computing-your-guide-to-festive-home-decor/"><u>High-Quality Thanksgiving 2021 Wallpaper Collection by YL Computing: Your Guide to Festive Home Decor</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-confirm-successful-printer-integration-with-your-pc-expert-tips-from-yl-software/"><u>How To Confirm Successful Printer Integration with Your PC: Expert Tips From YL Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-13-ultra-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi 13 Ultra Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-13-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 13 online without SIM Card?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-apples-latest-sensation-the-triple-charging-cube-does-it-live-up-to-its-fanfare/"><u>Inside Look: Apple’s Latest Sensation, the Triple Charging Cube - Does It Live Up to Its Fanfare?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/monitor-your-bsv-wallet-a-guide-to-checking-bitcoin-sv-address-balances-tips-from-yl-computing/"><u>Monitor Your BSV Wallet: A Guide to Checking Bitcoin SV Address Balances - Tips From YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/optimal-methods-for-diagnosing-your-systems-memory-insights-from-yl-computing/"><u>Optimal Methods for Diagnosing Your System's Memory: Insights From YL Computing</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/steps-to-detect-and-troubleshoot-computer-processor-issues-expert-advice-from-yl-software/"><u>Steps to Detect and Troubleshoot Computer Processor Issues - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726222119036-gif-movavi/"><u>オンデマンドで使えるGIFフォルト変換 - 最新のMovaviツールを使った効率的なプロセス</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-strategies-for-full-screen-edits-in-premiere/"><u>[Updated] Expert Strategies for Full Screen Edits in Premiere</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-game-masters-and-youtube-earning-strategies/"><u>2024 Approved Game Masters & YouTube Earning Strategies</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/add-new-accounts-easily-with-our-expert-windows-setup-guide-by-yl-software/"><u>Add New Accounts Easily with Our Expert Windows Setup Guide by YL Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/easily-adjust-your-pcs-windows-update-preferences-using-the-control-panel-tips-from-yl-software-experts/"><u>Easily Adjust Your PC's Windows Update Preferences Using the Control Panel: Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-steps-to-determine-the-powershell-build-in-your-windows-1-confirming-microsoft-edges-current-release-browser-defense-pro/"><u>Easy Steps to Determine the PowerShell Build in Your Windows 1# Confirming Microsoft Edge's Current Release - Browser Defense Pro</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/fixing-driver-related-bugs-how-to-downgrade-a-problematic-update-expert-tips-from-yl-software/"><u>Fixing Driver-Related Bugs: How to Downgrade a Problematic Update – Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-identify-and-troubleshoot-your-graphics-card-issues-tips-by-yl-computing/"><u>How to Identify and Troubleshoot Your Graphics Card Issues - Tips by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oneplus-11r-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From OnePlus 11R to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/picarts-quick-shield-for-facial-features-for-2024/"><u>PicArt's Quick Shield for Facial Features for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/safeguard-your-bitcoin-and-alt-coins-a-comprehensive-guide-by-yl-computing-for-secure-crypto-asset-storage/"><u>Safeguard Your Bitcoin and Alt-Coins: A Comprehensive Guide by YL Computing for Secure Crypto Asset Storage</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/setting-up-your-screen-configuration-with-control-panel-tips-from-yl-software-experts/"><u>Setting Up Your Screen Configuration with Control Panel - Tips From YL Software Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-color-transformation-an-expert-written-by-dr-jane-smith/"><u>The Art of Color Transformation An Expert' Written by Dr. Jane Smith</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/yl-computings-serene-floral-nighttime-wallpapers-and-bg-sets-the-perfect-end-of-day-inspiration/"><u>YL Computing's Serene Floral Nighttime Wallpapers & Bg Sets: The Perfect End-of-Day Inspiration</u></a></li>
 </ul></div>
 

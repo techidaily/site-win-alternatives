@@ -1,7 +1,7 @@
 ---
 title: "How to Ensure Seamless Integration of iTunes 12.2 Into Your DJ Platform: Essential Steps and Tips"
-date: 2025-01-09T18:58:35.821Z
-updated: 2025-01-15T00:58:39.520Z
+date: 2025-01-16T16:06:16.328Z
+updated: 2025-01-20T21:32:34.109Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ iTunes has always been a hugely popular among DJs for media management and playl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **DJ mixing applications** such as [DEX 3](https://tools.techidaily.com/pcdj/products/) have robust media-management tools baked in.
@@ -33,7 +33,7 @@ iTunes has always been a hugely popular among DJs for media management and playl
 The are clear merits to creating your lists and managing you media from within the PCDJ browser instead of iTunes, especially when iTunes releases updates, often resulting in broken third party integration. There are also a fair number of DJs reporting iTunes 12 automatically applying [DRM](https://en.wikipedia.org/wiki/Digital%5Frights%5Fmanagement) and/or messing up their playlist management — but old habits die hard, and DJs will still rely heavily on iTunes as their media manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Where did the Library.xml file go after updating to iTunes 12.2?
@@ -43,7 +43,7 @@ The iTunes library is essentially two files: The **Library.itl** which is the na
 The iTunes 12.2 update (_and up_) no longer creates the Library.xml file by default, therefore when DEX 3 or RED Mobile 3 are launched the iTunes tab and subsequent playlists are not displayed. Thankfully, there is a setting in iTunes 12.2 that will generate the Library.xml file so our DJ software can dynamically pick it up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to get the Library.xml file back in iTunes 12.2
@@ -52,13 +52,13 @@ Open iTunes. Then, click on the **Menu** button > **Preferences**:
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunesmenu-1.jpg?fit=359%2C429&ssl=1 "itunesmenu-1")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunesmenu-1.jpg?fit=359%2C429&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on Advanced options and put a tick in the **Share iTunes Library XML with other applications** box:
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1 "shareitunes")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click on **OK** to apply. The **Library.xml** will be create in: **Users/username/Music/iTunes** _(NOTE: The default location is where you need to store your iTunes library.xml file for PCDJ to grab it)_
 
@@ -67,7 +67,7 @@ Click on **OK** to apply. The **Library.xml** will be create in: **Users/usernam
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1 "itunestab")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -89,16 +89,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunes12support-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-alternatives.techidaily.com/1-systeme-de-sauvegarde-automatique-sans-fil-vers-disque-dur-externe/"><u>1. Système De Sauvegarde Automatique Sans Fil Vers Disque Dur Externe</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-magic-v2-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor Magic V2.</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comprehensive-analysis-of-wondershare-recoverit-and-comparable-data-restoration-solutions/"><u>Comprehensive Analysis of Wondershare Recoverit and Comparable Data Restoration Solutions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/educational-excellence-through-effective-lecture-audio-documentation-mac/"><u>Educational Excellence Through Effective Lecture Audio Documentation (Mac)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/leading-lossless-4k-video-coding-solutions-a-comparative-guide/"><u>Leading Lossless 4K Video Coding Solutions: A Comparative Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/secours-informatique-unlogiciel-de-mise-en-oeuvre-et-de-controle-centralise-avec-aomei-cyber-backup/"><u>Secours Informatique: Unlogiciel De Mise en Oeuvre Et De Contrôle Centralisé Avec AOMEI Cyber Backup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-errors-how-to-successfully-reinstall-geforce-shadow-play/"><u>Solving Errors: How to Successfully Reinstall GeForce Shadow Play</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-windows-11-defenses-adding-firewall-to-the-context-menu/"><u>Streamlining Windows 11 Defenses: Adding Firewall to the Context Menu</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/topicos-mais-relevantes-do-esxcli-otimizando-operacoes-de-maquinas-virtuais-no-comando-da-linha-de-servidor-vmware/"><u>Tópicos Mais Relevantes Do ESXCLI: Otimizando Operações De Máquinas Virtuais No Comando Da Linha De Servidor VMware</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-ipad-initial-setup-failures-effective-strategies-and-tips/"><u>Troubleshooting iPad Initial Setup Failures: Effective Strategies and Tips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-the-latest-samsung-galaxy-s21-model-trimming-down-for-innovation/"><u>Unveiling the Features of the Latest Samsung Galaxy S21 Model: Trimming Down for Innovation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-evolution-of-engagement-key-post-vidcon-events-for-2024/"><u>[New] Evolution of Engagement Key Post-VidCon Events for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-cascade-of-curiosity-concurrent-video-watching-made-easy/"><u>[New] In 2024, A Cascade of Curiosity Concurrent Video Watching Made Easy</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-smooth-integration-of-macos-sierra-on-old-systems-for-2024/"><u>[New] Smooth Integration of macOS Sierra on Old Systems for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-boosting-productivity-with-innovative-win11-features/"><u>[Updated] In 2024, Boosting Productivity with Innovative Win11 Features</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/browser-based-strategies-exporting-and-preserving-your-outlook-emails-in-three-simple-steps/"><u>Browser-Based Strategies: Exporting and Preserving Your Outlook Emails in Three Simple Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-drivers-upgrade-on-windows-881/"><u>Essential Tips for Drivers Upgrade on Windows 8/8.1</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/example-usage/"><u>Example Usage:</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/fuhrende-kostenfreie-systemwiederherstellungstools-die-beste-wahl-fur-sie/"><u>Führende Kostenfreie Systemwiederherstellungstools: Die Beste Wahl Für Sie</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-12-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi 12 Fingerprint Lock</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-motorola-moto-g24-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Motorola Moto G24 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/magix-video-pro-x-a-deep-dive-for-2024/"><u>Magix Video Pro X - A Deep Dive for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/partitionierte-festplatten-wiederherstellen-schritt-fur-schritt-anleitung/"><u>Partitionierte Festplatten Wiederherstellen - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/six-effective-methods-for-securely-removing-deleted-items-from-your-pc-windows-10-and-11-edition/"><u>Six Effective Methods for Securely Removing Deleted Items From Your PC - Windows 10 and 11 Edition</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-2-efficient-techniques-to-create-a-bootable-norton-ghost-usb-drive-for-various-windows-versions/"><u>Top 2 Efficient Techniques to Create a Bootable Norton Ghost USB Drive for Various Windows Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-meta-quest-3s-future-with-ai-features-before-apple-vision-pro-arrives-setup-guide/"><u>Unlocking Meta Quest 3'S Future with AI Features Before Apple Vision Pro Arrives: Setup Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/wie-man-speicherkapazitat-erweitert-wenn-sicherungsvorgange-den-platz-auf-einer-windows-ebenso-ausfullen/"><u>Wie Man Speicherkapazität Erweitert, Wenn Sicherungsvorgänge Den Platz Auf Einer Windows Ebenso Ausfüllen?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/aalm-halat-khta-bsraaa-islahat-nasqip-alamna-l-windows-10/"><u>علم حالات خطأ بسرعة: إصلاحات NASQIP الآمنة ل Windows 10</u></a></li>
 </ul></div>
 
