@@ -1,7 +1,7 @@
 ---
 title: Sealers and Coatings Reduce Concrete Permeability and Protect Against Moisture Ingress and Freeze-Thaw Damage.
-date: 2025-01-16T22:12:10.611Z
-updated: 2025-01-20T17:25:26.562Z
+date: 2025-01-21T04:03:23.711Z
+updated: 2025-01-27T00:05:18.896Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-basic-to-spectaculr-the-best-cams-gear-guide/"><u>[New] From Basic to Spectaculr The Best Cams' Gear Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-speedy-conversion-techniques-for-your-srt-to-txt-tasks-for-2024/"><u>[New] Speedy Conversion Techniques for Your SRT to TXT Tasks for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-searching-for-non-existent-wireless-adapter-in-windows-10/"><u>[RESOLVED] Searching for Non-Existent Wireless Adapter in Windows 10</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comment-faciliter-le-transfert-automatique-des-donnees-entre-les-appareils-avec-windows-10/"><u>Comment Faciliter Le Transfert Automatique Des Données Entre Les Appareils Avec Windows ˈ10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-instructions-on-getting-and-installing-your-logitech-g402-drivers/"><u>Complete Instructions on Getting and Installing Your Logitech G402 Drivers</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comprehensive-full-system-backup-tutorial-for-various-windows-versions/"><u>Comprehensive Full System Backup Tutorial for Various Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-xbox-wireless-controller-driets-simple-and-fast-setup/"><u>Download Xbox Wireless Controller Driets - Simple and Fast Setup</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/einfache-losungen-fur-das-bereinigen-von-systemspeicherplatz-unter-windows-11-entfernung-der-leeren-partitionen/"><u>Einfache Lösungen Für Das Bereinigen Von Systemspeicherplatz Unter Windows 11 - Entfernung Der Leeren Partitionen</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/expanding-your-data-with-ease-adding-columns-to-tsv-files-via-the-emeditor-text-editor/"><u>Expanding Your Data with Ease: Adding Columns to TSV Files via the EmEditor Text Editor</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-use-luts-in-photoshop-cc/"><u>How to Use LUTs in PhotoShop CC</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/simple-steps-moving-your-images-from-a-dell-pc-to-an-iphone-no-itunes-needed/"><u>Simple Steps: Moving Your Images From a Dell PC to an iPhone - No iTunes Needed</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/solution-wie-entfernen-sie-nicht-angezeigte-startprogramme-in-windows-11/"><u>Solution: Wie Entfernen Sie Nicht Angezeigte Startprogramme in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-ai-conversations-with-chatgpts-new-ios-application/"><u>Unlock the Power of AI Conversations with ChatGPT's New iOS Application!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-filmora-13-free-trial-download-unlock-pro-features/"><u>Updated In 2024, Filmora 13 Free Trial Download Unlock Pro Features</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/wie-sie-die-maximale-festplattenkapazitat-bei-windows-7-erhohen-konnen/"><u>Wie Sie Die Maximale Festplattenkapazität Bei Windows 7 Erhöhen Können</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728496610617-windows-1011/"><u>Windows 10/11資源回收桶數據重生關鍵技巧</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zoom-launch-your-guide-to-online-chats/"><u>Zoom Launch Your Guide to Online Chats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expert-advice-on-gaming-capture-with-windows-10/"><u>[New] Expert Advice on Gaming Capture with Windows 10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unleash-creativity-on-snapchat-with-immersive-boomerangs/"><u>[New] In 2024, Unleash Creativity on Snapchat with Immersive Boomerangs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-superior-2-written-by-robert-littell/"><u>[Updated] 2024 Approved Superior 2 Written by Robert Littell</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-identifying-and-troubleshooting-driver-problems-in-your-windows-pc-a-comprehensive-guide-by-yl-computing/"><u>1. Identifying and Troubleshooting Driver Problems in Your Windows PC: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/15-best-stop-motion-films-of-all-time-for-2024/"><u>15 Best Stop Motion Films of All Time for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/discover-digital-djing-enroll-in-the-official-pcdj-facebook-fan-page-today/"><u>Discover Digital DJing: Enroll in the Official PCDJ Facebook Fan Page Today!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-darkest-dungeon-2-end-to-end-guide-for-stabilizing-your-pc-gaming-experience/"><u>Fixing Darkest Dungeon 2: End-to-End Guide for Stabilizing Your PC Gaming Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-nord-3-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus Nord 3 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/invesco-launches-new-bitcoin-spot-etf-now-hosted-with-blackrock-at-dtcc-insights-from-yl-computing/"><u>Invesco Launches New Bitcoin Spot ETF, Now Hosted with BlackRock at DTCC - Insights From YL Computing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577740237-mondlys-ar-innovation-the-ultimate-vr-language-app/"><u>Mondly's AR Innovation - The Ultimate VR Language App!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/navigating-through-crypto-law-regulatory-challenges-explained-with-yl-software-expertise/"><u>Navigating Through Crypto Law: Regulatory Challenges Explained with YL Software Expertise</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/offscreen-operations-mastery-utilize-dex-3-for-application-control-without-visible-screen-interference/"><u>Offscreen Operations Mastery: Utilize DEX 3 for Application Control without Visible Screen Interference</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/pruveeos-bargain-basement-fhd-dash-camera-comprehensive-performance-review/"><u>Pruveeo's Bargain Basement FHD Dash Camera: Comprehensive Performance Review</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/set-custom-power-off-times-for-your-computer-the-easy-guide-by-yl-software-experts/"><u>Set Custom Power Off Times for Your Computer: The Easy Guide by YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-saving-pdf-documents-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Saving PDF Documents in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/system-enhancement-techniques-expert-advice-from-yl-computing-and-yl-software/"><u>System Enhancement Techniques: Expert Advice From YL Computing & YL Software</u></a></li>
+<li><a href="https://os-tips.techidaily.com/uncovering-hidden-data-how-to-retrieve-removed-phone-conversation-logs-from-iphone/"><u>Uncovering Hidden Data: How to Retrieve Removed Phone Conversation Logs From iPhone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-the-lesser-known-media-players-post-vlc/"><u>Unveiling the Lesser-Known Media Players Post-VLC</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/why-does-your-pc-performance-drop-with-an-underperforming-processor-discover-answers-from-yl-computing-and-software/"><u>Why Does Your PC Performance Drop with an Underperforming Processor? Discover Answers From YL Computing & Software</u></a></li>
 </ul></div>
 

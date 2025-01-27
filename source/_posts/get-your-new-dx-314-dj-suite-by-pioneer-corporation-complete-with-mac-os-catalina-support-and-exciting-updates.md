@@ -1,7 +1,7 @@
 ---
 title: "Get Your New DX 3.14 DJ Suite by Pioneer Corporation: Complete with Mac OS Catalina Support & Exciting Updates!"
-date: 2025-01-19T04:48:19.099Z
-updated: 2025-01-20T17:06:29.629Z
+date: 2025-01-23T22:32:01.684Z
+updated: 2025-01-27T02:56:14.853Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.14
@@ -59,7 +59,7 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,21 +81,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-add-auto-captions-to-instagram-stories-and-reels/"><u>[New] 2024 Approved How to Add Auto Captions to Instagram Stories and Reels?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-customize-your-social-media-screenscape/"><u>[Updated] 2024 Approved Customize Your Social Media Screenscape</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-from-front-to-back-the-instagram-art-of-flipping-visuals-with-ease/"><u>[Updated] 2024 Approved From Front to Back The Instagram Art of Flipping Visuals with Ease</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-keywords-that-captivate-enhancing-your-video-content/"><u>[Updated] Keywords that Captivate Enhancing Your Video Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-sparkling-vibrancy-the-android-video-brightening-guide/"><u>[Updated] Sparkling Vibrancy The Android Video Brightening Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-insights-how-to-make-your-videos-a-hit/"><u>2024 Approved Instagram Insights How to Make Your Videos a Hit</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-google-pixel-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Google Pixel 8 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comment-recouvrer-vos-fichiers-sur-un-pc-lenovo-techniques-provenantes/"><u>Comment Recouvrer Vos Fichiers Sur Un PC Lenovo - Techniques Provenantes</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/erfolgreiches-backup-von-windows-servern-mit-google-drive-die-perfekte-methode-erklart/"><u>Erfolgreiches Backup Von Windows Servern Mit Google Drive – Die Perfekte Methode Erklärt!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/fixing-chkdsk-issues-with-highlighted-fixed-uppercase-file-corruption/"><u>Fixing CHKDSK Issues with Highlighted Fixed Uppercase File Corruption</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-x-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone X | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/kostenloses-systembackup-tool-fur-win8win81-professionelle-losungen-mit-aomei-backupper/"><u>Kostenloses Systembackup-Tool Für Win8/Win8.1 – Professionelle Lösungen Mit AOMEI Backupper</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/resolving-file-vanishing-acts-a-guide-to-recovering-deleted-documents-in-windows-10/"><u>Resolving File Vanishing Acts: A Guide to Recovering Deleted Documents in Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/struggling-with-missing-imessages-from-yesterday-discover-possible-causes-and-fixes/"><u>Struggling with Missing iMessages From Yesterday? Discover Possible Causes and Fixes</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultimate-guide-kingston-memory-stick-repair-and-troubleshooting-tips/"><u>Ultimate Guide: Kingston Memory Stick Repair & Troubleshooting Tips</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultimate-tutorial-on-maintaining-your-pcs-health-in-windows-11-advanced-chkdsk-techniques-for-data-integrity/"><u>Ultimate Tutorial on Maintaining Your PC's Health in Windows 11: Advanced CHKDSK Techniques for Data Integrity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pro-tips-for-stunning-gopro-timelapse-projects/"><u>[Updated] 2024 Approved Pro Tips for Stunning GoPro Timelapse Projects</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unveiling-the-secrets-to-high-impact-live-streaming-with-wirecast-on-youtube/"><u>[Updated] 2024 Approved Unveiling the Secrets to High-Impact Live Streaming with WireCast on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-visualvertexzoomerx7-enhance-and-expand-with-ease/"><u>[Updated] 2024 Approved VisualVertexZoomerX7 Enhance & Expand with Ease</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-audiences-choice-prime-action-recorder/"><u>[Updated] In 2024, Audience's Choice Prime Action Recorder</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-art-of-podcast-hooks-compelling-beginnings-for-2024/"><u>[Updated] The Art of Podcast Hooks Compelling Beginnings for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capture-kings-arena/"><u>2024 Approved Capture King's Arena</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-snap-spectacularly-with-top-10-sticker-enhancing-phone-apps/"><u>2024 Approved Snap Spectacularly with Top 10 Sticker-Enhancing Phone Apps</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728463244577-sd/"><u>無傷で使用出来るSDカードのコピーを簡単に作り方</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ssd-msi/"><u>遊戲筆記本的驕人改造：以 SSD 取代 MSI 原有硬碟的最佳方式</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/a-professionals-secret-efficiently-incorporating-luts-into-premiere-pro-for-2024/"><u>A Professional's Secret Efficiently Incorporating LUTs Into Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/galaxy-sd/"><u>Galaxyデバイスのデータ確実なバックアップ: SDカードを守る優れた戦略</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-duplicate-the-recovery-partition-on-an-ssd-in-windows-operating-systems/"><u>How to Duplicate the Recovery Partition on an SSD in Windows Operating Systems</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/ios-16pc/"><u>IOS 16用:スマホカメラ画像をPCへ簡単にコピーする自由配布マニュアル</u></a></li>
 </ul></div>
 

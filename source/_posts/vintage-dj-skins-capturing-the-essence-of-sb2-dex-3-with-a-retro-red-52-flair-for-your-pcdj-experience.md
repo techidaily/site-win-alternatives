@@ -1,7 +1,7 @@
 ---
 title: "Vintage DJ Skins: Capturing the Essence of SB2 DEX 3 with a Retro Red 5.2 Flair for Your PCDJ Experience"
-date: 2025-01-18T03:31:19.003Z
-updated: 2025-01-20T21:56:47.039Z
+date: 2025-01-22T01:53:18.876Z
+updated: 2025-01-27T00:05:13.673Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ RED 5.2 was the game changer, and the first [DJ mixing software](https://tools.t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SB2 DEX 3 “Throw Back PCDJ RED 5.2” Skin (1600×900 or 16:9)
@@ -37,7 +37,7 @@ Harry Thomas of [HMT3 Designs](http://hmt3design.com/) created the SB2 DEX 3 DJ 
 [CLICK FOR LARGER IMAGE ![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=300%2C169&ssl=1 "sb2-audio")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/sb2-audio.jpg?fit=1030%2C580&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We think this skin is a great fit for DJs that prefer using a mouse and keyboard over one of the 75 supported [DJ controllers](https://tools.techidaily.com/pcdj/products/). Harry has included pretty much the full gamut of buttons and sliders, along with tabs for video, sampler and browser. The approach to the browser tab is unique and not found in any other [DEX 3 skins](https://tools.techidaily.com/pcdj/products/) submitted so far. The browser tab includes all your automix and shuffle controls, as well as color coding options for your track library.
@@ -53,7 +53,7 @@ _**Unzip ALL Skin Files To Documents -> PCDJ-DEX3 -> Skins**_
 [All Current DEX 3 DJ Software Skins](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,24 +75,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/sb3skin-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-essentials-of-narrowing-virtual-room-spaces/"><u>[New] In 2024, The Essentials of Narrowing Virtual Room Spaces</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-video-preservation-direct-and-indirect-approaches/"><u>[New] Instagram Video Preservation Direct & Indirect Approaches</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-starlight-strategies-dos-and-donts-for-perfect-nightscape-portraits/"><u>[Updated] Starlight Strategies Do's & Don'ts for Perfect Nightscape Portraits</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-guide-to-procuring-and-utilizing-free-visual-frame-content/"><u>2024 Approved The Guide to Procuring and Utilizing Free Visual Frame Content</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/aktionsweise-fur-windows-11-wie-man-ein-benutzerprofil-problemlos-auf-ein-anderes-laufwerk-verschiebt/"><u>Aktionsweise Für Windows 11: Wie Man Ein Benutzerprofil Problemlos Auf Ein Anderes Laufwerk Verschiebt</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comment-retrouver-vos-fichiers-disparus-sur-une-cle-usb-mac-guide-exhaustif-avec-5-techniques-eprouvees/"><u>Comment Retrouver Vos Fichiers Disparus Sur Une Clé USB Mac : Guide Exhaustif Avec 5 Techniques Éprouvées</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-sony-xperia-1-v-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Sony Xperia 1 V</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/complete-guide-effortlessly-restore-deleted-items-on-windows-11-a-step-by-step-walkthrough-for-free/"><u>Complete Guide] Effortlessly Restore Deleted Items on Windows 11: A Step-by-Step Walkthrough for Free</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/datensicherung-fur-programme-in-windows-11-keine-notwendigkeit-zur-erneuten-installation/"><u>Datensicherung Für Programme in Windows 11 – Keine Notwendigkeit Zur Erneuten Installation</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guida-passo-passo-come-configurare-automaticamente-il-backup-su-windows-11-in-quattro-modalita-diverse/"><u>Guida Passo-Passo: Come Configurare Automaticamente Il Backup Su Windows 11 in Quattro Modalità Diverse</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guida-passo-passo-sincronizzare-un-pc-e-un-laptop-con-windows-11-versione-11/"><u>Guida Passo-Passo: Sincronizzare Un PC E Un Laptop Con Windows 11 Versione 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone XS Max</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-xs-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone XS on MetroPCS</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/lost-file-found-expert-tips-and-tricks-for-retrieving-disappeared-documents-from-your-computer-7-ways/"><u>Lost File Found: Expert Tips & Tricks for Retrieving Disappeared Documents From Your Computer [7 Ways]</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-design-principles-essential-knowledge-of-yt-banners-and-art-for-2024/"><u>Mastering Design Principles Essential Knowledge of YT Banners & Art for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/the-best-20-ios-device-data-restoration-programs-for-windows-computers-comprehensive-reviews/"><u>The Best 20 iOS Device Data Restoration Programs for Windows Computers: Comprehensive Reviews</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/uncluttered-images-using-photopea-for-flawless-edits-for-2024/"><u>Uncluttered Images Using Photopea for Flawless Edits for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/wendepunkte-bei-der-datensicherung-wiederherstellung-auf-formatierter-speichermedien-mit-und-ohne-backups/"><u>Wendepunkte Bei Der Datensicherung: Wiederherstellung Auf Formatierter Speichermedien Mit Und Ohne Backups</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/windows-7windows-10hdd/"><u>Windows 7至Windows 10へのHDD移行手順</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>[New] [Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-best-practices-in-youtube-thumbnail-sizes-and-ratios/"><u>[Updated] 2024 Approved Best Practices in YouTube Thumbnail Sizes and Ratios</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-asmr-channel-discoveries/"><u>[Updated] In 2024, Essential ASMR Channel Discoveries</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pro-tips-for-high-quality-ps3-game-screenshots/"><u>[Updated] In 2024, Pro Tips for High-Quality PS3 Game Screenshots</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/2-guia-simple-configurar-backup-restore-points-en-windows-server-2cuatro-r2-edition/"><u>2. Guía Simple: Configurar Backup Restore Points en Windows Server 2Cuatro R2 Edition</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/5-experte-tipps-zur-fehlerbehebung-von-windows-eine-eingabeaufforderung-reparatur/"><u>5 Experte-Tipps Zur Fehlerbehebung Von Windows Eine Eingabeaufforderung Reparatur</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/comprehveillance-of-creating-virtual-machines-using-vmware-esxi-a-stepwise-approach/"><u>Comprehveillance of Creating Virtual Machines Using VMware ESXi - A Stepwise Approach</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/decoding-error-0xc00000e-an-in-depth-user-manual-for-troubleshooting-and-fixes/"><u>Decoding Error 0xC00000E: An In-Depth User Manual for Troubleshooting and Fixes</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/effizientes-systemwandern-kopie-laufwerk-c-auf-ssd-fur-windows-11/"><u>Effizientes Systemwandern: Kopie Laufwerk C Auf SSD Für Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empower-your-campaigns-using-the-advanced-technology-of-cookiebot/"><u>Empower Your Campaigns Using the Advanced Technology of Cookiebot</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-evaluation-why-ring-video-doorbell-2-reigns-supreme-in-home-safety/"><u>Expert Evaluation: Why Ring Video Doorbell 2 Reigns Supreme in Home Safety</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guia-completa-para-configurar-una-unidad-de-emergencia-en-windows-10-dos-metodos-practicos/"><u>Guía Completa Para Configurar Una Unidad De Emergencia en Windows 10: Dos Métodos Prácticos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/stepwise-guide-to-mastering-zoom-on-modern-windows-11/"><u>Stepwise Guide to Mastering Zoom on Modern Windows 11</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/the-best-no-cost-software-to-split-your-hard-drive-on-windows-versions-include-11-10-8-and-7/"><u>The Best No-Cost Software to Split Your Hard Drive on Windows (Versions Include 11, 10, 8, and 7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-the-microsoft-print-to-pdf-issue-on-windows-10-and-11/"><u>Troubleshooting: Fixing the 'Microsoft Print to PDF' Issue on Windows 10 & 11</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/windows-11-hp-pc/"><u>Windows 11 HP PCにおけるシステムの回復手順</u></a></li>
 </ul></div>
 

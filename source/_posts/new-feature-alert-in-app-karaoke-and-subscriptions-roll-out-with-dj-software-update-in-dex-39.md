@@ -1,7 +1,7 @@
 ---
 title: "New Feature Alert: In-App Karaoke & Subscriptions Roll Out with DJ Software Update in DEX 3.9!"
-date: 2025-01-19T01:11:12.500Z
-updated: 2025-01-20T18:55:47.253Z
+date: 2025-01-26T04:35:45.418Z
+updated: 2025-01-27T07:29:49.452Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ As we forge forward with our unwavering design goal to make [DEX 3](https://tool
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### An in-app Karaoke Subscription is coming to DEX 3.9 compliments of [Party Tyme Karaoke](https://www.partytyme.com/).
@@ -45,7 +45,7 @@ We’ll email all newsletter subscribers when DEX 3.9 and the Party Tyme Karaoke
 _Have questions about the Party Tyme **Karaoke Subscription** coming to **DEX 3.9**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,14 +67,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/dex3partytyme-template.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-optimal-techniques-for-recording-your-youtube-events/"><u>[New] Optimal Techniques for Recording Your YouTube Events</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-visual-impact-through-effective-color-modification/"><u>[Updated] Visual Impact Through Effective Color Modification</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-navigate-through-apples-best-in-class-virtual-reality-games/"><u>2024 Approved Navigate Through Apple's Best-in-Class Virtual Reality Games</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/7-features/"><u>7 Features</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guida-passo-passo-come-interrompere-i-cursori-in-windows-11/"><u>Guida Passo-Passo: Come Interrompere I Cursori in Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-lava-storm-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Lava Storm 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581848107-triple-crown-of-language-mastery-your-gateway-to-fluency/"><u>Triple Crown of Language Mastery: Your Gateway to Fluency!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/wie-sie-dism-offline-verwenden-um-windows-11-zu-reparieren-eine-schritt-fur-schritt-anleitung/"><u>Wie Sie DISM-Offline Verwenden, Um Windows 11 Zu Reparieren: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728485108579-404/"><u>ウェブページ検索失敗:エラー404につい지った理由</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-tools-tweet-with-converted-videos/"><u>[New] Advanced Tools Tweet with Converted Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-guide-to-choosing-top-skype-recorder-hats/"><u>[New] In 2024, Essential Guide to Choosing Top Skype Recorder Hats</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-instant-illusions-mastering-time-lapse-photography-on-samsung/"><u>[New] Instant Illusions Mastering Time-Lapse Photography on Samsung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-swift-solution-for-effortless-srt-to-text-txt-transform/"><u>[New] The Swift Solution for Effortless SRT to Text (TXT) Transform</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-converting-your-cellphone-to-a-diy-video-recorder/"><u>[Updated] In 2024, Converting Your Cellphone to a DIY Video Recorder</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nikon-j5-in-4k-the-ultimate-camera-review/"><u>2024 Approved Nikon J5 in 4K The Ultimate Camera Review</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/common-causes-for-unresponsive-input-devices-how-to-fix-a-mouse-or-keyboard-that-wont-work-tips-from-yl-software/"><u>Common Causes for Unresponsive Input Devices: How to Fix a Mouse or Keyboard That Won't Work | Tips From YL Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-ultimate-no-cost-iphone-image-arrangement-software/"><u>Discover the Ultimate, No-Cost iPhone Image Arrangement Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ex-russian-man-caught-in-spy-scandal-accused-of-betraying-both-us-and-sweden-while-illicitly-arming-russian-forces-inside-yl-computings-reveal/"><u>Ex-Russian Man Caught in Spy Scandal, Accused of Betraying Both US and Sweden While Illicitly Arming Russian Forces – Inside YL Computing's Reveal</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/high-resolution-keira-knightley-wallpaper-downloads-premium-hd-backgrounds-and-imagery-for-your-devices/"><u>High-Resolution Keira Knightley Wallpaper Downloads: Premium HD Backgrounds & Imagery for Your Devices</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/identifying-the-root-of-your-pc-troubles-insights-into-windows-hardware-problems-tech-solutions-by-yl/"><u>Identifying the Root of Your PC Troubles: Insights Into Windows Hardware Problems - Tech Solutions by YL</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-s17e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo S17e without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/master-system-driver-updates-essential-techniques-and-advice-by-yl-software-experts/"><u>Master System Driver Updates: Essential Techniques and Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/quick-fixes-for-a-faster-machine-a-guide-by-yl-software-specialists/"><u>Quick Fixes for a Faster Machine: A Guide by YL Software Specialists</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/sky-sprinting-guide-plus-mastering-the-art-of-fpv-drone-racing-for-2024/"><u>Sky Sprinting Guide + Mastering the Art of FPV Drone Racing for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-switching-your-preferred-web-browser-tips-from-yl-computing/"><u>Step-by-Step Guide: Switching Your Preferred Web Browser - Tips From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/the-role-of-mao-zedongs-political-policies-in-sparking-chinas-historic-upheaval-a-study-by-yl-software-solutions/"><u>The Role of Mao Zedong’s Political Policies in Sparking China's Historic Upheaval: A Study by YL Software Solutions</u></a></li>
 </ul></div>
 

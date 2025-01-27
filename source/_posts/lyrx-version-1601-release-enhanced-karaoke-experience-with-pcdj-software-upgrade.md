@@ -1,7 +1,7 @@
 ---
 title: "LYRX Version 1.6.0.1 Release: Enhanced Karaoke Experience with PCDJ Software Upgrade"
-date: 2025-01-17T22:11:49.134Z
-updated: 2025-01-20T22:13:19.188Z
+date: 2025-01-20T16:27:46.094Z
+updated: 2025-01-27T01:23:28.334Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Version 1.6.0.2 of LYRX karaoke software is ready for download!
@@ -31,7 +31,7 @@ You can test software all you want internally, and iron out issues with your bet
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrx.png?fit=300%2C210&ssl=1 "LYRX 1.6.0.2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Not only does the free 1.6.0.2 LYRX update address the reported problems, we were able to apply extensive under-the-hood optimizations and performance improvements. The updates should be noticeable, to the extent your MAC or PC will run cooler than with prior versions.
@@ -45,7 +45,7 @@ Again, we appreciate all the tremendous and extensive feedback we’ve received 
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.0.2
@@ -63,7 +63,7 @@ If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download fro
 _Have questions about the latest 1.6.0.2 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,16 +85,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrxforwin-cover-1.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-expand-access-to-creative-works-pick-from-the-best-free-youtube-shorts-downloader-apps-for-2024/"><u>[Updated] Expand Access to Creative Works Pick From the Best Free YouTube Shorts Downloader Apps for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-protect-your-privacy-top-webcam-shields-ranked/"><u>2024 Approved Protect Your Privacy - Top Webcam Shields Ranked</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/aide-a-lapprentissage-pour-dupliquer-des-partitions-dans-windows-n-en-utilisant-le-logiciel-gratuit-de-sauvegarde-aomei/"><u>Aide À L'apprentissage Pour Dupliquer Des Partitions Dans Windows N en Utilisant Le Logiciel Gratuit De Sauvegarde AOMEI</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/control-panel-mastery-changing-display-preferences-with-ease-by-yl-software-expertise/"><u>Control Panel Mastery: Changing Display Preferences with Ease by YL Software Expertise</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-resolve-efi-partition-not-formatted-with-gpt-for-popos-users/"><u>How to Resolve EFI Partition Not Formatted with GPT for Pop!_OS Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snap-your-way-unique-discover-over-120-private-story-creation-tips-and-tricks-for-2024/"><u>Snap Your Way Unique Discover over 120 Private Story Creation Tips and Tricks for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-mordhau-from-crashing-expert-advice-on-how-to-resolve-game-errors/"><u>Stop Mordhau From Crashing: Expert Advice on How to Resolve Game Errors</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-v29e-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-free-open-source-file-recovery-software-recommended-by-experts/"><u>Top Free Open-Source File Recovery Software - Recommended by Experts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-expect-from-samsungs-upcoming-2025-event-key-announcements-and-industry-rumors-revealed/"><u>What to Expect From Samsung's Upcoming 2025 Event – Key Announcements & Industry Rumors Revealed</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/wie-man-bilder-in-einem-verteilungsnetzwerk-auf-mehrere-computer-verteilt/"><u>Wie Man Bilder in Einem Verteilungsnetzwerk Auf Mehrere Computer Verteilt</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-innovative-image-integration-software-for-visual-enthusiasts-for-2024/"><u>[New] Innovative Image Integration Software for Visual Enthusiasts for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/google-bookmarks-lost-and-found-3/"><u>好奇寶貝：Google Bookmarks Lost & Found - 3妙計不見的解決方式！</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/comprehension-complet-comment-afficher-les-fichiers-ou-fichiers-caches-sous-windows-7/"><u>Compréhension Complet: Comment Afficher Les Fichiers Ou Fichiers Cachés Sous Windows 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-to-utilizing-telegram-web-services-for-2024/"><u>Comprehensive Guide to Utilizing Telegram Web Services for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-nonfunctional-audio-in-obs-studio-on-pc/"><u>Diagnosing and Repairing Nonfunctional Audio in OBS Studio on PC</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/discover-the-power-of-aomei-image-deploy-for-hassle-free-free-image-automation/"><u>Discover the Power of AOMEI Image Deploy for Hassle-Free Free Image Automation</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/emeditor-professional-v10-rc-19-version-99028-the-ultimate-open-source-text-editor-experience/"><u>EmEditor Professional v10 RC 19 (Version 9.90.28): The Ultimate Open Source Text Editor Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-to-your-corsair-hs50-mic-expert-advice/"><u>How to Restore Functionality to Your Corsair HS50 Mic - Expert Advice</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/transform-your-videocts-to-dvd-instantly-with-these-4-simple-methods/"><u>Transform Your Video_CTS to DVD Instantly with These 4 Simple Methods</u></a></li>
 </ul></div>
 

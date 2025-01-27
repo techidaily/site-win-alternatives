@@ -1,7 +1,7 @@
 ---
 title: "Date Filters in DJ Software: A Comprehensive Guide with PCDJ Visual Examples - Online Course"
-date: 2025-01-14T05:14:52.281Z
-updated: 2025-01-21T03:26:19.818Z
+date: 2025-01-20T21:06:40.637Z
+updated: 2025-01-27T04:21:00.677Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,19 +59,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-strategies-for-full-screen-edits-in-premiere/"><u>[Updated] Expert Strategies for Full Screen Edits in Premiere</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-game-masters-and-youtube-earning-strategies/"><u>2024 Approved Game Masters & YouTube Earning Strategies</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/add-new-accounts-easily-with-our-expert-windows-setup-guide-by-yl-software/"><u>Add New Accounts Easily with Our Expert Windows Setup Guide by YL Software</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/easily-adjust-your-pcs-windows-update-preferences-using-the-control-panel-tips-from-yl-software-experts/"><u>Easily Adjust Your PC's Windows Update Preferences Using the Control Panel: Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-steps-to-determine-the-powershell-build-in-your-windows-1-confirming-microsoft-edges-current-release-browser-defense-pro/"><u>Easy Steps to Determine the PowerShell Build in Your Windows 1# Confirming Microsoft Edge's Current Release - Browser Defense Pro</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/fixing-driver-related-bugs-how-to-downgrade-a-problematic-update-expert-tips-from-yl-software/"><u>Fixing Driver-Related Bugs: How to Downgrade a Problematic Update – Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-identify-and-troubleshoot-your-graphics-card-issues-tips-by-yl-computing/"><u>How to Identify and Troubleshoot Your Graphics Card Issues - Tips by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oneplus-11r-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From OnePlus 11R to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/picarts-quick-shield-for-facial-features-for-2024/"><u>PicArt's Quick Shield for Facial Features for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/safeguard-your-bitcoin-and-alt-coins-a-comprehensive-guide-by-yl-computing-for-secure-crypto-asset-storage/"><u>Safeguard Your Bitcoin and Alt-Coins: A Comprehensive Guide by YL Computing for Secure Crypto Asset Storage</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/setting-up-your-screen-configuration-with-control-panel-tips-from-yl-software-experts/"><u>Setting Up Your Screen Configuration with Control Panel - Tips From YL Software Experts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-color-transformation-an-expert-written-by-dr-jane-smith/"><u>The Art of Color Transformation An Expert' Written by Dr. Jane Smith</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/yl-computings-serene-floral-nighttime-wallpapers-and-bg-sets-the-perfect-end-of-day-inspiration/"><u>YL Computing's Serene Floral Nighttime Wallpapers & Bg Sets: The Perfect End-of-Day Inspiration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-innovative-approaches-to-online-collaboration-4/"><u>[New] 2024 Approved Innovative Approaches to Online Collaboration (#4)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-primeworld-views-worldwide-channel-accessibility-now/"><u>[New] PrimeWorld Views Worldwide Channel Accessibility Now</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-crafting-convincing-movie-markers/"><u>[Updated] 2024 Approved Crafting Convincing Movie Markers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevating-video-sharing-from-youtube-to-insta/"><u>[Updated] In 2024, Elevating Video Sharing From YouTube to Insta</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/choose-and-configure-your-go-to-internet-browser-comprehensive-instructions/"><u>Choose and Configure Your Go-To Internet Browser - Comprehensive Instructions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-repair-common-problems-in-windows-11-and-windows-10-systems/"><u>Comprehensive Strategies to Repair Common Problems in Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/easy-steps-setting-up-your-printer-on-windows-11-a-guide-by-yl-software/"><u>Easy Steps: Setting Up Your Printer on Windows 11 - A Guide by YL Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/high-quality-jaguar-xj-desktop-backgrounds-by-yl-computing-official-site/"><u>High-Quality Jaguar XJ Desktop Backgrounds by YL Computing - Official Site</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/identifying-a-faulty-motherboard-expert-tips-and-signs-yl-computings-guide/"><u>Identifying a Faulty Motherboard: Expert Tips & Signs - YL Computing's Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/mastering-file-compression-in-windows-os-with-tips-from-yl-software-experts/"><u>Mastering File Compression in Windows OS with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/maximize-system-speed-and-stability-expert-tips-by-yl-software-on-computer-optimization/"><u>Maximize System Speed and Stability: Expert Tips by YL Software on Computer Optimization</u></a></li>
+<li><a href="https://fox-links.techidaily.com/perfecting-proximity-views-an-essential-for-roblox-enthusiasts-for-2024/"><u>Perfecting Proximity Views An Essential for Roblox Enthusiasts for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/premier-mac-4k-monitor-selections-top-10-edition-for-2024/"><u>Premier Mac 4K Monitor Selections Top 10 Edition for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-steps-to-acquire-and-install-minecraft-worlds/"><u>Seamless Steps to Acquire & Install Minecraft Worlds</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-modifying-network-settings-via-control-panel-yl-software/"><u>Step-by-Step Guide: Modifying Network Settings via Control Panel - YL Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-root-causes-of-memory-corruption-issues-on-windows-systems-insights-by-yl-computing/"><u>Understanding Root Causes of Memory Corruption Issues on Windows Systems - Insights by YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/unveiling-the-power-of-dex-v319-enhanced-by-aiunmixeq-and-dynamic-stem-sourcing-revolutionize-your-dj-setups/"><u>Unveiling the Power of DEX v3.19 Enhanced by AIUnmixEQ™ and Dynamic Stem Sourcing - Revolutionize Your DJ Setups</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/your-ultimate-reference-for-comparing-all-ipad-models/"><u>Your Ultimate Reference for Comparing All iPad Models</u></a></li>
 </ul></div>
 
