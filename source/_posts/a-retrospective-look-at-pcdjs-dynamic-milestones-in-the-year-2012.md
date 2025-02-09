@@ -1,7 +1,7 @@
 ---
 title: A Retrospective Look at PCDJ's Dynamic Milestones in the Year 2012
-date: 2025-01-19T20:55:51.250Z
-updated: 2025-01-26T19:32:20.641Z
+date: 2025-02-06T21:38:16.780Z
+updated: 2025-02-09T04:28:18.117Z
 tags:
   - product
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **DJ Software and Karaoke Software, our year in review…**
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![](https://pcdj.com/wp-content/uploads/2013/01/bye2012hello2013.jpg "bye2012hello2013") 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite the notable economic struggles globally, 2012 was quite the year for PCDJ. New updates to our flagship **DJ software PCDJ DEX 2** included next gen and future forward features geared specifically for the "next big thing" in DJ entertainment technology: **mixing music videos seamlessly, just like** **audio.**  With video transitions, video effects and new native maps to top **DJ controllers** on the market PCDJ saw record sales and interest. It's no secret our PCDJ customers want a **true all-in-** **one entertainment software solution**, and we feel we've hit the nail on the head with PCDJ DEX 2\. 
@@ -37,14 +37,14 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  We're really fired up about 2013, and it's our promise to not disapoint with our **DJ software and karaoke software platforms**. Our intention for the last 13 years has been to be your on-stop shop for all things digital dj and entertainment, with customer service being paramount. This year will be huge, and we thank you for your continued support and interest! 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
 **Thanks, and a very Happy New Year to you and your families!**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,19 +66,20 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-enrich-your-screenplay-exclusive-windows-11-creations/"><u>[New] Enrich Your Screenplay Exclusive Windows 11 Creations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ow-to-upload-shorts-video-on-youtube-in-2024/"><u>[New] How to Upload Shorts Video on YouTube, In 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-deep-insight-screenflow-for-mac-performance-review/"><u>[Updated] In 2024, Deep Insight ScreenFlow for Mac Performance Review</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728507901430-excel/"><u>【無成本解答】重現遺失 Excel 工作表 - 詳細指南</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/achieve-crisp-clear-broadcasts-in-obs-tackling-and-resolving-lag-problems-during-streamingrecording/"><u>Achieve Crisp, Clear Broadcasts in OBS: Tackling and Resolving Lag Problems During Streaming/Recording</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comment-proteger-vos-programmes-sur-windows-11-sans-re-installer/"><u>Comment Protéger Vos Programmes Sur Windows 11 Sans Re-Installer</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-brother-dcp-l2540dw-printer-software-on-windows-pc/"><u>Download and Install Brother DCP-L2540DW Printer Software on Windows PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-guide-step-by-step-process-for-disinfecting-your-airpods-safely-and-effectively/"><u>Essential Guide: Step-by-Step Process for Disinfecting Your AirPods Safely & Effectively</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-non-working-subtitles-on-amazon-prime-a-step-by-step-tutorial/"><u>Fixing Non-Working Subtitles on Amazon Prime - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guarantee-flawless-automatic-syncing-of-your-macs-photos/"><u>Guarantee Flawless Automatic Syncing of Your Mac's Photos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-tecno-camon-20-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Tecno Camon 20 for Free? | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/seamless-guide-on-moving-your-films-from-pc-to-ipad-air-mini-or-pro/"><u>Seamless Guide on Moving Your Films From PC to iPad Air, Mini, or Pro</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultime-manuel-de-recuperation-comment-extraire-des-donnees-dun-disque-vierge/"><u>Ultime Manuel De Récupération : Comment Extraire Des Données D’un Disque Vierge</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728506439891-404/"><u>オンライン検索結果: ページ不在エラー404発生</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamlined-recording-of-powerpoint-slides-via-webcam-for-2024/"><u>[New] Streamlined Recording of PowerPoint Slides via Webcam for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pro-level-mobile-media-capture-iphone-and-androids-top-5-apps/"><u>[Updated] Pro-Level Mobile Media Capture IPhone and Android's Top 5 Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-quick-fortnite-tile-sketch-a-30-second-guide/"><u>[Updated] Quick Fortnite Tile Sketch A 30-Second Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/3-with-promo-code-until-august-31st-shop-now/"><u>3 with Promo Code Until August 31St - Shop Now!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/cpu/"><u>理解するためのガイド：CPU使用率が多くなってしまう</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/creating-your-own-digital-coin-a-step-by-step-guide-by-yl-computing/"><u>Creating Your Own Digital Coin: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-step-by-step-process-for-rebooting-your-keyboard/"><u>Easy Guide: Step-by-Step Process for Rebooting Your Keyboard</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-can-you-locate-and-open-the-device-manager-on-your-pc-tips-from-yl-computing/"><u>How Can You Locate and Open the Device Manager on Your PC - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-avi-gif-conversion-via-filmora-platform/"><u>In 2024, Master the Art of AVI-GIF Conversion via Filmora Platform</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/resolving-continuous-message-boxes-in-software-expert-tips-from-yl-software-solutions/"><u>Resolving Continuous Message Boxes in Software: Expert Tips From YL Software Solutions</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/sealers-and-coatings-reduce-concrete-permeability-and-protect-against-moisture-ingress-and-freeze-thaw-damage/"><u>Sealers and Coatings Reduce Concrete Permeability and Protect Against Moisture Ingress and Freeze-Thaw Damage.</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-confirmation-of-blockchain-deals-by-yl-software-experts/"><u>Step-by-Step Confirmation of Blockchain Deals by YL Software Experts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-35-prime-day-tablet-sale-bargains-that-are-still-going-strong-check-them-out/"><u>Top 35 Prime Day Tablet Sale Bargains That Are Still Going Strong – Check Them Out !</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/uncover-the-secrets-of-troubleshooting-defective-computer-components-with-yl-softwares-detailed-approach/"><u>Uncover the Secrets of Troubleshooting Defective Computer Components with YL Software's Detailed Approach</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
 </ul></div>
 
