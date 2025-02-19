@@ -1,7 +1,7 @@
 ---
 title: Sealers and Coatings Reduce Concrete Permeability and Protect Against Moisture Ingress and Freeze-Thaw Damage.
-date: 2025-02-06T00:58:33.789Z
-updated: 2025-02-09T02:26:46.679Z
+date: 2025-02-14T02:01:07.289Z
+updated: 2025-02-19T07:34:55.814Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-az-screen-logger-full-review-backup-selection/"><u>2024 Approved AZ Screen Logger Full Review, Backup Selection</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-edge-of-creativity-best-4k-displays-for-editing-excellence/"><u>2024 Approved Edge of Creativity Best 4K Displays for Editing Excellence</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-obs-full-screen-fix-announced/"><u>2024 Approved Obs Full-Screen Fix Announced</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comprehveillance-of-creating-virtual-machines-using-vmware-esxi-a-stepwise-approach/"><u>Comprehveillance of Creating Virtual Machines Using VMware ESXi - A Stepwise Approach</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/decoding-error-0xc00000e-an-in-depth-user-manual-for-troubleshooting-and-fixes/"><u>Decoding Error 0xC00000E: An In-Depth User Manual for Troubleshooting and Fixes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/discovering-the-secrets-of-snapchats-spotlight/"><u>Discovering the Secrets of Snapchat's Spotlight</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effizientes-systemwandern-kopie-laufwerk-c-auf-ssd-fur-windows-11/"><u>Effizientes Systemwandern: Kopie Laufwerk C Auf SSD Für Windows 11</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/expert-guide-discovering-and-showcasing-the-recovery-partition-within-your-windows-operating-system/"><u>Expert Guide: Discovering and Showcasing the Recovery Partition Within Your Windows Operating System</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guia-completa-para-configurar-una-unidad-de-emergencia-en-windows-10-dos-metodos-practicos/"><u>Guía Completa Para Configurar Una Unidad De Emergencia en Windows 10: Dos Métodos Prácticos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-fbs-viral-hits-decoded-crafting-your-number-one-song-video/"><u>In 2024, FB's Viral Hits Decoded Crafting Your Number One Song Video</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/the-best-no-cost-software-to-split-your-hard-drive-on-windows-versions-include-11-10-8-and-7/"><u>The Best No-Cost Software to Split Your Hard Drive on Windows (Versions Include 11, 10, 8, and 7)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-green-screen-software-for-mac-users-for-2024/"><u>The Ultimate Guide to Green Screen Software for Mac Users for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-this-article-tells-you-several-tips-to-make-a-better-home-movie-master-the-home-movie-making-tips-and-obey-the-rules-so-that-you-can-make-a-/"><u>Updated In 2024, This Article Tells You Several Tips to Make a Better Home Movie. Master the Home Movie Making Tips and Obey the Rules so that You Can Make a Great Movie</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevating-your-instagram-video-game-to-go-global/"><u>[New] Elevating Your Instagram Video Game to Go Global</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-content-with-custom-fonts-in-adobe-ae/"><u>[Updated] Crafting Content with Custom Fonts in Adobe AE</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-sleep-aid-asmr-techniques-unveiled-for-2024/"><u>[Updated] Sleep Aid ASMR Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-performance-swift-methods-to-enhance-chromes-speed-issues/"><u>Boosting Performance: Swift Methods to Enhance Chrome's Speed Issues</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/diy-pc-hardware-repair-expert-solutions-and-tips-from-yl-computing/"><u>DIY PC Hardware Repair: Expert Solutions and Tips From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/effortless-pc-to-pc-audio-file-sharing-a-step-by-step-guide-from-yl-computing/"><u>Effortless PC-to-PC Audio File Sharing: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-call-of-duty-vanguard-performance-for-pc-gaming-end-of-the-crash-saga/"><u>Enhanced Call of Duty Vanguard Performance for PC Gaming - End of the Crash Saga</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/exploring-digital-asset-trading-platforms-with-yl-softwares-comprehensive-guide-to-crypto-exchanges/"><u>Exploring Digital Asset Trading Platforms with YL Software's Comprehensive Guide to Crypto Exchanges</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-y28-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo Y28 5G Phones</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/managing-applications-in-windows-using-the-control-panel-to-install-or-uninstall-tips-from-yl-software-experts/"><u>Managing Applications in Windows: Using the Control Panel to Install or Uninstall – Tips From YL Software Experts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-13-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 13</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/resolving-the-blue-screen-of-death-issue-a-step-by-step-guide-by-yl-computing/"><u>Resolving the 'Blue Screen of Death' Issue: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722888901139-score-big-with-the-lowest-prices-on-apple-watch-models-limited-time-promotions/"><u>Score Big with the Lowest Prices on Apple Watch Models - Limited-Time Promotions!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-usbasp-operation-on-vista7-8110-systems/"><u>Seamless USBasp Operation on Vista/7, 8.1/10 Systems</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-active-protection-how-does-windows-defender-scan-for-malware-on-demand-or-continuously/"><u>Understanding Active Protection: How Does Windows Defender Scan for Malware on Demand or Continuously?</u></a></li>
 </ul></div>
 

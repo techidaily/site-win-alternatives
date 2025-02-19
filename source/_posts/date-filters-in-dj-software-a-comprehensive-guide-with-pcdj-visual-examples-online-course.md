@@ -1,7 +1,7 @@
 ---
 title: "Date Filters in DJ Software: A Comprehensive Guide with PCDJ Visual Examples - Online Course"
-date: 2025-02-05T19:31:39.070Z
-updated: 2025-02-08T20:00:32.550Z
+date: 2025-02-13T20:23:34.739Z
+updated: 2025-02-19T06:08:33.917Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,24 +59,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-streamline-projects-with-free-video-intros/"><u>[New] 2024 Approved Streamline Projects with Free Video Intros</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-devices-to-device-guide-for-google-meet-participation-for-2024/"><u>[Updated] Devices to Device Guide for Google Meet Participation for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-checklist-facebook-and-youtube-video-integration/"><u>[Updated] The Ultimate Checklist Facebook & YouTube Video Integration</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-2023s-most-reliable-voice-capturers-reviewed/"><u>2024 Approved 2023'S Most Reliable Voice Capturers Reviewed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-choice-8-best-converters-from-sub-to-srt/"><u>2024 Approved Expert Choice 8 Best Converters From Sub to Srt</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unseen-story-access-top-anonymous-tools/"><u>2024 Approved Unseen Story Access Top Anonymous Tools</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/convert-if-necessary/"><u>Convert if Necessary</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/discovering-the-highlight-functionality-within-emeditor-your-go-to-advanced-text-editor/"><u>Discovering the Highlight Functionality Within EmEditor, Your Go-To Advanced Text Editor</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/easy-and-effective-strategies-for-running-seamless-operating-system-migrations-in-windows-10-11-4-key-steps/"><u>Easy and Effective Strategies for Running Seamless Operating System Migrations in Windows 10, 11 (4 Key Steps)</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-rom-experience-with-translated-patches/"><u>Enhancing Rom Experience with Translated Patches</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guia-completa-clonando-e-restableciendo-areas-externas-en-el-espacio-alienigena/"><u>Guía Completa: Clonando E Restableciendo Áreas Externas en El Espacio Alienígena</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guide-detaille-programmez-une-sauvegarde-automatisee-des-donnees-vers-un-dossier-distinct-sur-votre-ordinateur/"><u>Guide Détaillé : Programmez Une Sauvegarde Automatisée Des Données Vers Un Dossier Distinct Sur Votre Ordinateur.</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guide-pratique-installer-et-utiliser-un-disque-de-sauvegarde-dans-windows-11/"><u>Guide Pratique : Installer Et Utiliser Un Disque De Sauvegarde Dans Windows 11</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-fix-continuously-failing-iphone-applications-post-ios-1615-software-upgrade/"><u>How to Fix Continuously Failing iPhone Applications Post-iOS 16/15 Software Upgrade</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-animating-elegance-self-designed-tricks-and-effects/"><u>In 2024, Animating Elegance Self-Designed Tricks & Effects</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-reviving-your-iphones-calendar-app-on-the-latest-models/"><u>Step-by-Step Guide: Reviving Your iPhone's Calendar App on the Latest Models</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/strg-z-meine-dateien-verschwunden-hier-sind-vier-effektive-methoden-um-verlorene-daten-wiederherzustellen-und-konflikte-zu-losen/"><u>Strg Z! Meine Dateien Verschwunden? Hier Sind Vier Effektive Methoden, Um Verlorene Daten Wiederherzustellen Und Konflikte Zu Lösen</u></a></li>
-<li><a href="https://techidaily.com/top-abbyy-papers-innovations-in-smart-process-automation/"><u>Top ABBYY Papers : Innovations in Smart Process Automation</u></a></li>
-<li><a href="https://discover-best.techidaily.com/top-methods-for-adding-no-cost-markerless-subtitles-to-video-content/"><u>Top Methods for Adding No-Cost, Markerless Subtitles to Video Content</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-websites-to-find-3d-gold-text-effects/"><u>[Updated] Best Websites to Find 3D Gold Text Effects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevating-visual-and-auditory-features-in-windows-photos-filters-and-melodies/"><u>[Updated] In 2024, Elevating Visual & Auditory Features in Windows Photos Filters & Melodies</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-solving-windows-product-key-activation-troubles-a-guide-by-yl-computing/"><u>1. Solving Windows Product Key Activation Troubles: A Guide by YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-apple-and-tile-discovering-the-markets-leading-alternative-for-wallet-trackers-expert-review-on-innovative-airtags/"><u>Beyond Apple and Tile: Discovering the Market's Leading Alternative for Wallet Trackers - Expert Review on Innovative AirTags</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/djs-unite-discover-the-latest-beatport-link-updates-with-a-revolutionary-mobile-app/"><u>DJs Unite: Discover the Latest Beatport Link Updates with a Revolutionary Mobile App!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/gameplay-essentials-key-minimum-system-specifications-explained-by-yl-software-experts/"><u>Gameplay Essentials: Key Minimum System Specifications Explained by YL Software Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-acronis-true-image-outshines-others-in-cloning-crucial-drives-a-comprehensive-guide/"><u>How Acronis True Image Outshines Others in Cloning Crucial Drives: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-digital-whirlwind-top-30-hashes-for-video-stardom/"><u>In 2024, Digital Whirlwind Top 30 Hashes for Video Stardom</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/key-strategies-for-success-setting-up-a-robust-crypto-exchange-with-guidance-from-yl-software-experts/"><u>Key Strategies for Success: Setting Up a Robust Crypto Exchange with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-croatian-conversations-the-most-important-phrases-for-travelers/"><u>Mastering Croatian Conversations: The Most Important Phrases for Travelers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-earnings-on-youtube-universal-device-accessibility-for-2024/"><u>Maximizing Earnings on YouTube Universal Device Accessibility for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-code-0xa00f4289-in-wincams/"><u>Navigating Through Code 0xA00F4289 in WinCams</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/real-time-security-how-effective-is-windows-defender-in-guarding-against-malware-and-online-threats/"><u>Real-Time Security: How Effective Is Windows Defender in Guarding Against Malware & Online Threats?</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/restoring-laptop-defaults-made-easy-comprehensive-tutorial-on-factory-settings-from-yl-software-experts/"><u>Restoring Laptop Defaults Made Easy: Comprehensive Tutorial on Factory Settings From YL Software Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-safe-from-bricking-with-ios-18-on-ipads-crucial-install-guide-before-update-digital-trends/"><u>Stay Safe From Bricking with iOS 18 on iPads! Crucial Install Guide Before Update | Digital Trends</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-pitfalls-to-steer-clear-of-in-your-crypto-trading-journey-insights-from-yl-computing/"><u>Top Pitfalls to Steer Clear of in Your Crypto Trading Journey: Insights From YL Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/yl-computing-tutorial-easy-methods-to-update-hardware-drivers-on-windows-platform/"><u>YL Computing Tutorial: Easy Methods to Update Hardware Drivers on Windows Platform</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/yl-computings-expert-advice-on-bundling-multiple-documents-into-one-zip-file-efficiently/"><u>YL Computing's Expert Advice on Bundling Multiple Documents Into One ZIP File Efficiently</u></a></li>
 </ul></div>
 
