@@ -1,7 +1,7 @@
 ---
 title: EmEditor HTML Bar Plugin Options - Text Editing Enhancements From Beta 8 to Beta 12
-date: 2025-02-14T21:08:08.151Z
-updated: 2025-02-18T17:58:02.951Z
+date: 2025-03-05T19:26:55.737Z
+updated: 2025-03-07T16:00:50.887Z
 tags:
   - product
 categories:
@@ -49,20 +49,16 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/aking-text-dance-2-creative-animation-strategies/"><u>[New] Making Text Dance 2 Creative Animation Strategies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-websites-for-ultimate-vector-clarity/"><u>[Updated] Exclusive Websites for Ultimate Vector Clarity</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminate-fallout-4-stutters-with-these-pro-solutions/"><u>Eliminate Fallout 4 Stutters with These Pro Solutions!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/erfolgreiches-backup-von-windows-servern-mit-google-drive-die-perfekte-methode-erklart/"><u>Erfolgreiches Backup Von Windows Servern Mit Google Drive – Die Perfekte Methode Erklärt!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/kostenloses-systembackup-tool-fur-win8win81-professionelle-losungen-mit-aomei-backupper/"><u>Kostenloses Systembackup-Tool Für Win8/Win8.1 – Professionelle Lösungen Mit AOMEI Backupper</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mastering-mobile-gaming-with-razer-kishi-in-depth-look-at-a-revolutionary-controller/"><u>Mastering Mobile Gaming with Razer Kishi: In-Depth Look at a Revolutionary Controller</u></a></li>
-<li><a href="https://extra-information.techidaily.com/precision-photography-leading-tripods-for-smartphones/"><u>Precision Photography Leading Tripods for Smartphones</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/resolving-file-vanishing-acts-a-guide-to-recovering-deleted-documents-in-windows-10/"><u>Resolving File Vanishing Acts: A Guide to Recovering Deleted Documents in Windows 10</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/ultimate-tutorial-on-maintaining-your-pcs-health-in-windows-11-advanced-chkdsk-techniques-for-data-integrity/"><u>Ultimate Tutorial on Maintaining Your PC's Health in Windows 11: Advanced CHKDSK Techniques for Data Integrity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlimited-premium-slide-decks-for-entrepreneurs/"><u>Unlimited Premium Slide Decks for Entrepreneurs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-affordable-digital-screen-recorders-reviewed-and-rated/"><u>[New] 2024 Approved Affordable Digital Screen Recorders Reviewed & Rated</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-optimizing-tweets-a-guide-to-full-hd-video-experience-for-2024/"><u>[Updated] Optimizing Tweets A Guide to Full HD Video Experience for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728468005968-ssd5/"><u>「クローニングされたSSDを起動できません！？解決する5つの方法」</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/exploring-reasons-behind-a-blank-ending-in-documents-created-with-flipbuilder-a-guide/"><u>Exploring Reasons Behind a Blank Ending in Documents Created with FlipBuilder – A Guide</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-adding-music-and-sounds-to-your-digital-magazines-with-flipbuilders-easy-tools/"><u>Guide: Adding Music and Sounds to Your Digital Magazines with FlipBuilder's Easy Tools</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-assemble-multi-image-flip-books-efficiently-using-flipbuilders-tools-and-techniques/"><u>How to Assemble Multi-Image Flip Books Efficiently Using FlipBuilder's Tools and Techniques</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-minimize-book-binding-radiopacity-using-flipbuilder-tools/"><u>How to Minimize Book Binding Radiopacity Using FlipBuilder Tools?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-your-marketing-journey-on-youtube/"><u>Mapping Your Marketing Journey on YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphone-wi-fi-sharing-issues-a-step-by-step-fix-for-non-working-hotspot-feature/"><u>Solving Your iPhone Wi-Fi Sharing Issues - A Step-by-Step Fix for Non-Working Hotspot Feature</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 

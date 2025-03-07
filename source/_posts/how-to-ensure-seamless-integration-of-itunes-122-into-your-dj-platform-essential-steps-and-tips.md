@@ -1,7 +1,7 @@
 ---
 title: "How to Ensure Seamless Integration of iTunes 12.2 Into Your DJ Platform: Essential Steps and Tips"
-date: 2025-02-17T19:44:33.984Z
-updated: 2025-02-18T23:44:44.912Z
+date: 2025-03-05T16:15:50.708Z
+updated: 2025-03-07T19:08:39.508Z
 tags:
   - product
 categories:
@@ -24,17 +24,9 @@ iTunes has always been a hugely popular among DJs for media management and playl
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **DJ mixing applications** such as [DEX 3](https://tools.techidaily.com/pcdj/products/) have robust media-management tools baked in.
 
 The are clear merits to creating your lists and managing you media from within the PCDJ browser instead of iTunes, especially when iTunes releases updates, often resulting in broken third party integration. There are also a fair number of DJs reporting iTunes 12 automatically applying [DRM](https://en.wikipedia.org/wiki/Digital%5Frights%5Fmanagement) and/or messing up their playlist management — but old habits die hard, and DJs will still rely heavily on iTunes as their media manager.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Where did the Library.xml file go after updating to iTunes 12.2?
 
@@ -52,23 +44,11 @@ Click on Advanced options and put a tick in the **Share iTunes Library XML with 
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1 "shareitunes")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/shareitunes.jpg?fit=597%2C645&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click on **OK** to apply. The **Library.xml** will be create in: **Users/username/Music/iTunes** _(NOTE: The default location is where you need to store your iTunes library.xml file for PCDJ to grab it)_
 
 **Close iTunes** and open up DEX 3 or RED Mobile 3 – you should once again see your **iTunes library tab** and populated playlists. **_Enjoy!_**
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1 "itunestab")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunestab.jpg?fit=477%2C473&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -89,22 +69,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/itunes12support-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/he-creative-summit-top-talent-junction/"><u>[New] The Creative Summit Top Talent Junction</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-inside-their-secrets-top-10-youtube-beauty-gurus-you-need-to-see/"><u>[Updated] 2024 Approved Inside Their Secrets Top 10 YouTube Beauty Gurus You Need to See</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1728489036664-windows-10windows-11/"><u>从Windows 10到Windows 11: 您的三星数据转换流程及详细指南</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-how-this-budget-friendly-hp-chromebook-simplifies-life-without-windows-enjoy-a-sweet-deal-with-an-extra-136-savings-insights-from-zdnet/"><u>Discover How This Budget-Friendly HP Chromebook Simplifies Life Without Windows: Enjoy a Sweet Deal with an Extra $136 Savings - Insights From ZDNet</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/drei-effiziente-methoden-ihr-ipad-fur-den-wiederverkauf-oder-als-geschenk-vorbereiten/"><u>Drei Effiziente Methoden: Ihr iPad Für Den Wiederverkauf Oder Als Geschenk Vorbereiten</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/efficient-oplossen-voor-gevoelgelijk-verstuivelingsbestanden-op-windows-11-een-wegkaart/"><u>Efficiënt Oplossen Voor Gevoelgelijk Verstuivelingsbestanden Op Windows 11: Een Wegkaart</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/effizientes-prufen-ihre-anleitung-fur-den-windows-11-aktualisierungsstatus-mit-4-methoden/"><u>Effizientes Prüfen - Ihre Anleitung Für Den Windows 11 Aktualisierungsstatus Mit 4 Methoden</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-find-and-install-the-latest-audio-drivers-for-your-windows-7-pc/"><u>How to Find and Install the Latest Audio Drivers for Your Windows 7 PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-play-and-fix-issues-with-ifo-file-format-in-202/"><u>How to Play and Fix Issues with 'IFO File' Format in 202</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-realme-10t-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Realme 10T 5G? Try These Fixes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-s23plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel S23+ by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-copying-an-efi-partition-from-one-windows-drive-to-another/"><u>Step-by-Step Guide: Copying an EFI Partition From One Windows Drive to Another</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-wasteland-2-directors-cut-analysis-an-engrossing-tactical-role-playing-game/"><u>The Wasteland 2 - Director's Cut Analysis: An Engrossing Tactical Role-Playing Game</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/web-content-missing-understanding-http-status-404/"><u>Web Content Missing: Understanding HTTP Status 404</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/win-11-quick-access-expert-tips-for-recovering-lost-files-fast/"><u>Win 11 Quick Access: Expert Tips for Recovering Lost Files Fast</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/windows-reparatur-leicht-gemacht-erfolgreiches-datenabrufen-nach-einem-startversagen-zwei-schnelle-methoden-erklart/"><u>Windows-Reparatur Leicht Gemacht: Erfolgreiches Datenabrufen Nach Einem Startversagen – Zwei Schnelle Methoden Erklärt</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enhancing-your-video-conferencing-essential-tips-for-using-zoom-in-win10-for-2024/"><u>[New] Enhancing Your Video Conferencing Essential Tips for Using Zoom in Win10 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-intonations-choosing-the-right-notes-for-your-snap/"><u>[Updated] 2024 Approved Instagram Intonations Choosing the Right Notes for Your Snap</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-sharing-stories-every-day-best-practices-in-personal-videography/"><u>[Updated] 2024 Approved Sharing Stories Every Day Best Practices in Personal Videography</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-the-art-of-deleting-discord-servers/"><u>[Updated] In 2024, Mastering the Art of Deleting Discord Servers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/come-creare-e-duplicare-un-filmato-al-contrappunto-con-lesperta-guida-di-movavi/"><u>Come Creare E Duplicare Un Filmato Al Contrappunto Con L'Esperta Guida Di Movavi</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/convert-if-necessary/"><u>Convert if Necessary</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/easy-and-effective-strategies-for-running-seamless-operating-system-migrations-in-windows-10-11-4-key-steps/"><u>Easy and Effective Strategies for Running Seamless Operating System Migrations in Windows 10, 11 (4 Key Steps)</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhancing-facebooks-social-media-experience-expect-more-in-stories/"><u>Enhancing Facebook's Social Media Experience? Expect More in Stories</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guia-completa-clonando-e-restableciendo-areas-externas-en-el-espacio-alienigena/"><u>Guía Completa: Clonando E Restableciendo Áreas Externas en El Espacio Alienígena</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-pratique-installer-et-utiliser-un-disque-de-sauvegarde-dans-windows-11/"><u>Guide Pratique : Installer Et Utiliser Un Disque De Sauvegarde Dans Windows 11</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-fix-continuously-failing-iphone-applications-post-ios-1615-software-upgrade/"><u>How to Fix Continuously Failing iPhone Applications Post-iOS 16/15 Software Upgrade</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-htc-u23-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/live-screen-record-on-chrome-pcs/"><u>Live Screen Record on Chrome PCs</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-guide-reviving-your-iphones-calendar-app-on-the-latest-models/"><u>Step-by-Step Guide: Reviving Your iPhone's Calendar App on the Latest Models</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/strg-z-meine-dateien-verschwunden-hier-sind-vier-effektive-methoden-um-verlorene-daten-wiederherzustellen-und-konflikte-zu-losen/"><u>Strg Z! Meine Dateien Verschwunden? Hier Sind Vier Effektive Methoden, Um Verlorene Daten Wiederherzustellen Und Konflikte Zu Lösen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Retrospective Look at PCDJ's Dynamic Milestones in the Year 2012
-date: 2025-02-17T07:04:09.355Z
-updated: 2025-02-19T00:47:11.085Z
+date: 2025-03-02T16:18:16.375Z
+updated: 2025-03-07T16:00:00.176Z
 tags:
   - product
 categories:
@@ -16,17 +16,9 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **DJ Software and Karaoke Software, our year in review…**
 
 ![](https://pcdj.com/wp-content/uploads/2013/01/bye2012hello2013.jpg "bye2012hello2013") 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Despite the notable economic struggles globally, 2012 was quite the year for PCDJ. New updates to our flagship **DJ software PCDJ DEX 2** included next gen and future forward features geared specifically for the "next big thing" in DJ entertainment technology: **mixing music videos seamlessly, just like** **audio.**  With video transitions, video effects and new native maps to top **DJ controllers** on the market PCDJ saw record sales and interest. It's no secret our PCDJ customers want a **true all-in-** **one entertainment software solution**, and we feel we've hit the nail on the head with PCDJ DEX 2\. 
 
@@ -36,16 +28,8 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
  We're really fired up about 2013, and it's our promise to not disapoint with our **DJ software and karaoke software platforms**. Our intention for the last 13 years has been to be your on-stop shop for all things digital dj and entertainment, with customer service being paramount. This year will be huge, and we thank you for your continued support and interest! 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 **Thanks, and a very Happy New Year to you and your families!**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -66,14 +50,16 @@ https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png 0 0 Ryan Sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-journey-beyond-boundaries-secure-this-top-7-metavue-tech/"><u>[Updated] 2024 Approved Journey Beyond Boundaries - Secure This Top 7 Metavue Tech</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-srt-file-playback-on-both-oses/"><u>[Updated] In 2024, Mastering SRT File Playback on Both OSes</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-itel-a60-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/exportieren-sie-ihre-office-365-e-mails-zu-einem-pst-dateiarchiv-mit-hilfe-der-ediscovery-funktion/"><u>Exportieren Sie Ihre Office 365-E-Mails Zu Einem PST Dateiarchiv Mit Hilfe Der eDiscovery Funktion</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-v29e-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo V29e Quickly | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-t2-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo T2 5G?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/resetting-files-after-clean-install-on-windows-10-and-11-comprehensive-guide/"><u>Resetting Files After Clean Install on Windows 10 and 11 - Comprehensive Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/techniques-sures-pour-automatiser-loperation-mettre-en-miroir-un-dossier-sur-lecteur-reseau/"><u>Techniques Sûres Pour Automatiser L'opération 'Mettre en Miroir Un Dossier Sur Lecteur Réseau'</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/troubleshooting-the-use-of-terminal-font-in-emeditor-text-editor/"><u>Troubleshooting the Use of Terminal Font in EmEditor Text Editor</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-amplify-your-channel-popularity-instantly/"><u>[New] Amplify Your Channel Popularity Instantly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-micro-enterprises-guide-to-viral-video-promotion/"><u>[New] Micro-Enterprises' Guide to Viral Video Promotion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-macs-premier-6-video-cutting-tools-big-sur/"><u>[Updated] Mac's Premier 6 Video Cutting Tools (Big Sur)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-macbook-webcam-filming-made-simple/"><u>[Updated] MacBook Webcam Filming Made Simple</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/windows-server-202nw/"><u>簡単なガイド：Windows Server 202Nwを新しいディスクにコピーする方法</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/como-recuperar-e-iconos-del-escritorio-en-windows-tutorial-paso-a-paso-para-sistemas-operativos-windows-1011/"><u>Cómo Recuperar E Iconos Del Escritorio en Windows: Tutorial Paso a Paso Para Sistemas Operativos Windows 10/11</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/forma-eficiente-de-duplicar-discos-duros-ntfs-usando-freeware-en-sistemas-operativos-windows/"><u>Forma Eficiente De Duplicar Discos Duros NTFS Usando Freeware en Sistemas Operativos Windows.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-starfields-intensive-processing-challenge-effective-solutions-for-gamers/"><u>Overcoming Starfield's Intensive Processing Challenge - Effective Solutions for Gamers</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/rescue-your-workflow-find-and-restore-unsaved-files-in-microsoft-excel-for-windows-11-users/"><u>Rescue Your Workflow: Find and Restore Unsaved Files in Microsoft Excel for Windows 11 Users</u></a></li>
+<li><a href="https://win-docs.techidaily.com/top-6-essential-digital-cooperation-apps-for-remote-work-success/"><u>Top 6 Essential Digital Cooperation Apps for Remote Work Success</u></a></li>
 </ul></div>
 

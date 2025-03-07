@@ -1,7 +1,7 @@
 ---
 title: "Get Your New DX 3.14 DJ Suite by Pioneer Corporation: Complete with Mac OS Catalina Support & Exciting Updates!"
-date: 2025-02-13T18:30:33.845Z
-updated: 2025-02-18T21:51:36.704Z
+date: 2025-03-03T19:02:22.502Z
+updated: 2025-03-07T18:22:47.897Z
 tags:
   - product
 categories:
@@ -37,10 +37,6 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What’s New, Changed, and Fixed in DEX 3.14
 
 * macOS Catalina support (**NOTE**: If you receive this warning _“setup\_dex3\_3.14\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3)
@@ -57,10 +53,6 @@ Now that this major maintenance release of DEX 3 is ready for live performance w
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.14\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 _Have questions about the latest 3.14 version of our DEX 3 DJ software? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -81,18 +73,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dex314update.jpg?fit=1306%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-reviving-old-memories-posting-them-via-your-camera-roll/"><u>[New] 2024 Approved Reviving Old Memories Posting Them via Your Camera Roll</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-seamless-online-video-sharing-via-vimeo/"><u>[New] 2024 Approved Seamless Online Video Sharing via Vimeo</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-hide-and-seek-with-fb-episodes/"><u>[New] Hide-and-Seek with FB Episodes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-maximizing-streaming-is-sub4sub-effective/"><u>[Updated] In 2024, Maximizing Streaming Is Sub4Sub Effective?</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/5aac5l2v5lplusu5asn55u45py66k6w5bplusg5y2h5lik5asx5y675zuplus54mh6zeu6akyic0g5lik56en5pyj5pwi562w55wl/"><u>如何修复相机记忆卡上失去图片问题 - 两种有效策略</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-recover-your-lost-d-hard-drive-after-updating-to-windows-11/"><u>How To Recover Your Lost D: Hard Drive After Updating to Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-leveraging-youtube-comments-for-content-improvement/"><u>In 2024, Leveraging YouTube Comments for Content Improvement</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/quick-guide-two-simple-methods-to-perform-a-factory-reset-on-your-windows-11-laptop/"><u>Quick Guide: Two Simple Methods to Perform a Factory Reset on Your Windows 11 Laptop</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/sd-2022/"><u>SD卡数据恢复的三种简便技巧 - 2022年最新方法</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/step-by-step-guide-ripping-dvds-using-handbrake-with-illustrated-steps/"><u>Step-by-Step Guide: Ripping DVDs Using HandBrake with Illustrated Steps</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/wie-man-windows-11-auf-eine-neue-festplatte-migriert-keine-neukonfiguration-erforderlich/"><u>Wie Man Windows 11 Auf Eine Neue Festplatte Migriert - Keine Neukonfiguration Erforderlich</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zen-daddy/"><u>Zen Daddy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/opyright-rules-for-screenshotting-and-archiving-youtube-videos/"><u>[New] Copyright Rules for Screenshotting and Archiving YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photography-for-the-masses-the-best-12-sites-offering-accessible-stock-images/"><u>[New] Photography for the Masses - The Best 12 Sites Offering Accessible Stock Images</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/behebung-von-problemen-mit-dem-fehlenden-neustart-nach-einem-windows-11-update-expertenratschlage-und-tipps/"><u>Behebung Von Problemen Mit Dem Fehlenden Neustart Nach Einem Windows 11 Update: Expertenratschläge Und Tipps</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-barriers-to-maximize-windows-ram/"><u>Breaking Down Barriers to Maximize Windows' RAM</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/come-inviare-un-hard-disk-allaltro-computer-con-windows-10-guida-facile-e-completa/"><u>Come Inviare Un Hard Disk All'Altro Computer Con Windows 10: Guida Facile E Completa</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-a05-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy A05 Device SIM</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explaining-tags-a-deep-dive-into-the-meaning-of-labeling-entities/"><u>Explaining Tags: A Deep Dive Into The Meaning of Labeling Entities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-htc-vives-diving-into-depth-a-vr-experience-review/"><u>In 2024, HTC Vive's Diving Into Depth A VR Experience Review</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/regain-your-lost-memories-top-4-no-cost-methods-to-restore-deleted-pictures-from-an-sd-card/"><u>Regain Your Lost Memories: Top 4 No-Cost Methods to Restore Deleted Pictures From an SD Card</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/restaurer-les-fichiers-de-carte-memoire-sony-alternatives-superieures-et-telechargement-gratuit/"><u>Restaurer Les Fichiers De Carte Mémoire Sony : Alternatives Supérieures Et Téléchargement Gratuit</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/windows-10-pc/"><u>Windows 10 PC修復手引: トラブルシューティング上達法</u></a></li>
 </ul></div>
 
